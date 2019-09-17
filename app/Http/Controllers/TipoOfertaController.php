@@ -3,11 +3,11 @@
 namespace App\Http\Controllers;
 use Illuminate\Support\Facades\DB; //Constructor de consultas
 
-use App\Categoria;
+use App\TipoOferta;
 
 use Illuminate\Http\Request;
 
-class CategoriaController extends Controller
+class TipoOfertaController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -16,9 +16,8 @@ class CategoriaController extends Controller
      */
     public function index()
     {
-        // $categoria = Categoria::select('nombreCat')->get();
-        $categoria = Categoria::all();
-        return view ('categoria.index',compact('categoria'));
+        $tipooferta = TipoOferta::all();
+        return view ('tipooferta.index',compact('tipooferta'));
     }
 
     /**
@@ -28,7 +27,7 @@ class CategoriaController extends Controller
      */
     public function create()
     {
-        return view ('categoria.create');
+        return view ('tipooferta.create');
     }
 
     /**
@@ -39,11 +38,11 @@ class CategoriaController extends Controller
      */
     public function store(Request $request)
     {
-        $categoria=new Categoria();
-        //crear usuario
-        $categoria->nombreCat = $request->input('nombreCat');
-        $categoria->save();
-        return	redirect()->route('categoria.index');
+        $tipooferta=new TipoOferta();
+        //crear tipoOferta
+        $tipooferta->tipTran = $request->input('tipTran');
+        $tipooferta->save();
+        return	redirect()->route('tipooferta.index');
     }
 
     /**
@@ -54,9 +53,8 @@ class CategoriaController extends Controller
      */
     public function show($id)
     {
-
-        $categoria = Categoria::find($id);
-        return view ('categoria.show', compact('categoria'));
+        $tipooferta = TipoOferta::find($id);
+        return view ('tipooferta.show', compact('tipooferta'));
     }
 
     /**
@@ -67,8 +65,8 @@ class CategoriaController extends Controller
      */
     public function edit($id)
     {
-        $categoria = Categoria::find($id);
-        return view ('categoria.edit', compact('categoria'));
+        $tipooferta = TipoOferta::find($id);
+        return view ('tipooferta.edit', compact('tipooferta'));
     }
 
     /**
@@ -80,10 +78,11 @@ class CategoriaController extends Controller
      */
     public function update(Request $request, $id)
     {
-        $categoria=Categoria::find($id);
-        $categoria->nombreCat = $request->nombre;
-        $categoria->save();
-        return	redirect()->route('categoria.show',$categoria->idCat);
+        
+        $tipooferta=TipoOferta::find($id);
+        $tipooferta->tipTran = $request->tipTran;
+        $tipooferta->save();
+        return	redirect()->route('tipooferta.show',$tipooferta->idOf);
     }
 
     /**
@@ -94,8 +93,8 @@ class CategoriaController extends Controller
      */
     public function destroy($id)
     {
-        $categoria=Categoria::find($id);
-        $categoria->delete();
-        return	redirect()->route('categoria.index');
+        $tipooferta=TipoOferta::find($id);
+        $tipooferta->delete();
+        return	redirect()->route('tipooferta.index');
     }
 }
