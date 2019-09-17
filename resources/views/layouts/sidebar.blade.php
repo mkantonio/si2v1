@@ -32,21 +32,13 @@
       <li class="header">HEADER</li>
       <!-- Optionally, you can add icons to the links -->
       <li class="active"><a href="#"><i class="fa fa-home"></i> <span>Inicio</span></a></li>
-      <li class="treeview">
-          <a href="#"><i class="fa fa-cubes"></i> <span>Almacen</span>
-            <span class="pull-right-container">
-              <i class="fa fa-angle-left pull-right"></i>
-            </span>
-          </a>
-          <ul class="treeview-menu">
-            <li><a href="#">Stock</a></li>
-            <li><a href="#">Categorias</a></li>
-            <li><a href="#">Productos</a></li>
-          </ul>
+      <li><a href="{{route ('categoria.index')}}"><i class="fa fa-key"></i> <span>Gestionar Categorias</span></a></li>
+      <li><a href="{{route ('tipooferta.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de ofertas</span></a>
       </li>
-      <li><a href="#"><i class="fa fa-briefcase"></i> <span>Compras</span></a></li>
-      <li><a href="#"><i class="fa fa-shopping-cart"></i> <span>Ventas</span></a></li>
-      <li><a href="#"><i class="fa fa-key"></i> <span>Acceso</span></a></li>
+      <li><a href="{{route ('tipoinmueble.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de
+            Inmuebles</span></a></li>
+      <li><a href="{{route ('zona.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo Zonas</span></a></li>
+      {{-- <li><a href="#"><i class="fa fa-key"></i> <span>Acceso</span></a></li>
       <li><a href="#"><i class="fa fa-question-circle"></i> <span>Ayuda</span></a></li>
       <li class="treeview">
         <a href="#"><i class="fa fa-link"></i> <span>Multilevel</span>
@@ -58,7 +50,7 @@
           <li><a href="#">Link in level 2</a></li>
           <li><a href="#">Link in level 2</a></li>
         </ul>
-      </li>
+      </li> --}}
     </ul>
     <!-- /.sidebar-menu -->
   </section>
