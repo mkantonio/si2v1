@@ -17,7 +17,7 @@ Route::get('/', function () {
 
 Route::resource('categoria','CategoriaController');
 Route::resource('tipooferta','TipoOfertaController');
-Route::resource('tipoinmueble','tipoinmuebleController');
+Route::resource('tipoinmueble','TipoInmuebleController');
 Route::resource('zona','ZonaController');
 Auth::routes();
 
