@@ -8,7 +8,7 @@ class Categoria extends Model
 {
 
     //asociar el modelo a la tabla
-    protected $table = 'categoria';
+    protected $table = 'CATEGORIA';
 
     //definir la clave primaria de la tabla
     protected $primaryKey = 'idCat';
