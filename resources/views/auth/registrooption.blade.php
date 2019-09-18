@@ -38,29 +38,20 @@
 			<div class="wrap-login100 p-l-50 p-r-50 p-t-72 p-b-50">
 				<form class="login100-form validate-form">
 					<span class="login100-form-title p-b-59">
-						Inicio de Sesión
+						Registrarme como...
 					</span>
 
-					<div class="wrap-input100 validate-input" data-validate = "Email requerido: ex@abc.xyz">
-						<span class="label-input100">Email</span>
-						<input class="input100" type="text" name="email" placeholder="Direccion de email...">
-						<span class="focus-input100"></span>
-					</div>
+					<a href=" {{route('registrouser')}} ">
+							<img src="{{asset('assets/login/images/user.png')}}" height="64" width="64"> 
+								Persona
+					</a>
+                    
+                    <a href=" {{route('registroemp')}} ">
+							<img src="{{asset('assets/login/images/empresa.png')}}" height="64" width="64"> 
+								Empresa
+					</a>
 
-					<div class="wrap-input100 validate-input" data-validate = "Contraseña requerida">
-						<span class="label-input100">Contraseña</span>
-						<input class="input100" type="text" name="pass" placeholder="*************">
-						<span class="focus-input100"></span>
-					</div>
-
-					<a href="{{route('registrooption')}}" class="wrap-login100-form-btn">
-                            <div class="login100-form-bgbtn"></div>
-                            <button class="login100-form-btn">
-                                Registrarme
-                            </button>
-                    </a>
-
-						<a href="#" class="dis-block txt3 hov1 p-r-30 p-t-10 p-b-10 p-l-30">
+					<a href="{{route('login')}}" class="dis-block txt3 hov1 p-r-30 p-t-10 p-b-10 p-l-30">
 							Iniciar Sesión
 							<i class="fa fa-long-arrow-right m-l-5"></i>
 						</a>
@@ -71,21 +62,21 @@
 	</div>
 	
 <!--===============================================================================================-->
-	<script src="{{asset('assets/login/vendor/jquery/jquery-3.2.1.min.js')}}"></script>
+	{{-- <script src="{{asset('assets/login/vendor/jquery/jquery-3.2.1.min.js')}}"></script> --}}
 <!--===============================================================================================-->
-	<script src="{{asset('assets/login/vendor/animsition/js/animsition.min.js')}}"></script>
+	{{-- <script src="{{asset('assets/login/vendor/animsition/js/animsition.min.js')}}"></script> --}}
 <!--===============================================================================================-->
-	<script src="{{asset('assets/login/vendor/bootstrap/js/popper.js')}}"></script>
-	<script src="{{asset('assets/login/vendor/bootstrap/js/bootstrap.min.js')}}"></script>
+	{{-- <script src="{{asset('assets/login/vendor/bootstrap/js/popper.js')}}"></script> --}}
+	{{-- <script src="{{asset('assets/login/vendor/bootstrap/js/bootstrap.min.js')}}"></script> --}}
 <!--===============================================================================================-->
-	<script src="{{asset('assets/login/vendor/select2/select2.min.js')}}"></script>
+	{{-- <script src="{{asset('assets/login/vendor/select2/select2.min.js')}}"></script> --}}
 <!--===============================================================================================-->
-	<script src="{{asset('assets/login/vendor/daterangepicker/moment.min.js')}}"></script>
-	<script src="{{asset('assets/login/vendor/daterangepicker/daterangepicker.js')}}"></script>
+	{{-- <script src="{{asset('assets/login/vendor/daterangepicker/moment.min.js')}}"></script> --}}
+	{{-- <script src="{{asset('assets/login/vendor/daterangepicker/daterangepicker.js')}}"></script> --}}
 <!--===============================================================================================-->
-	<script src="{{asset('assets/login/vendor/countdowntime/countdowntime.js')}}"></script>
+	{{-- <script src="{{asset('assets/login/vendor/countdowntime/countdowntime.js')}}"></script> --}}
 <!--===============================================================================================-->
-	<script src="{{asset('assets/login/js/main.js')}}"></script>
+	{{-- <script src="{{asset('assets/login/js/main.js')}}"></script> --}}
 
 </body>
 </html>

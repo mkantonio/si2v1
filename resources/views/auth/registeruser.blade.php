@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-	<title>Login V13</title>
+	<title>Inicio de Sesión</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="{{asset('assets/login/images/icons/favicon.ico')}}">
+<link rel="icon" type="image/png" href="{{asset('assets/login/images/icons/favicon.ico')}}">
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="{{asset('assets/login/vendor/bootstrap/css/bootstrap.min.css')}}">
 <!--===============================================================================================-->
@@ -38,29 +38,70 @@
 			<div class="wrap-login100 p-l-50 p-r-50 p-t-72 p-b-50">
 				<form class="login100-form validate-form">
 					<span class="login100-form-title p-b-59">
-						Inicio de Sesión
+						Registro de Usuario
 					</span>
 
-					<div class="wrap-input100 validate-input" data-validate = "Email requerido: ex@abc.xyz">
-						<span class="label-input100">Email</span>
-						<input class="input100" type="text" name="email" placeholder="Direccion de email...">
+					<div class="wrap-input100 validate-input" data-validate="Nombre es requerido">
+						<span class="label-input100">Nombre</span>
+						<input class="input100" type="text" name="nombre" placeholder="Nombre...">
 						<span class="focus-input100"></span>
 					</div>
 
-					<div class="wrap-input100 validate-input" data-validate = "Contraseña requerida">
+                    <div class="wrap-input100 validate-input" data-validate="Apellido es requerido">
+                            <span class="label-input100">Apellido</span>
+                            <input class="input100" type="text" name="apellido" placeholder="Apellido...">
+                            <span class="focus-input100"></span>
+					</div>
+					
+					<div class="wrap-input100 validate-input" data-validate="Telefono es requerido">
+                            <span class="label-input100">Telefono</span>
+                            <input class="input100" type="text" name="apellido" placeholder="Telefono...">
+                            <span class="focus-input100"></span>
+                    </div>
+
+					<div class="wrap-input100 validate-input" data-validate = "Email valido: ex@abc.xyz">
+						<span class="label-input100">Email</span>
+						<input class="input100" type="text" name="email" placeholder="Dirección de Email...">
+						<span class="focus-input100"></span>
+					</div>
+
+					<div class="wrap-input100 validate-input" data-validate = "Contraseña es requerida">
 						<span class="label-input100">Contraseña</span>
 						<input class="input100" type="text" name="pass" placeholder="*************">
 						<span class="focus-input100"></span>
 					</div>
 
-					<a href="{{route('registrooption')}}" class="wrap-login100-form-btn">
-                            <div class="login100-form-bgbtn"></div>
-                            <button class="login100-form-btn">
-                                Registrarme
-                            </button>
-                    </a>
+					<div class="wrap-input100 validate-input" data-validate = "Contraseña es requerida">
+						<span class="label-input100">Repetir Contraseña</span>
+						<input class="input100" type="text" name="repeat-pass" placeholder="*************">
+						<span class="focus-input100"></span>
+					</div>
 
-						<a href="#" class="dis-block txt3 hov1 p-r-30 p-t-10 p-b-10 p-l-30">
+					{{-- <div class="flex-m w-full p-b-33">
+						<div class="contact100-form-checkbox">
+							<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
+							<label class="label-checkbox100" for="ckb1">
+								<span class="txt1">
+									I agree to the
+									<a href="#" class="txt2 hov1">
+										Terms of User
+									</a>
+								</span>
+							</label>
+						</div>
+
+						
+					</div> --}}
+
+					<div class="container-login100-form-btn">
+						<div class="wrap-login100-form-btn">
+							<div class="login100-form-bgbtn"></div>
+							<button class="login100-form-btn">
+								Registrar
+							</button>
+						</div>
+
+						<a href="{{route('login')}} " class="dis-block txt3 hov1 p-r-30 p-t-10 p-b-10 p-l-30">
 							Iniciar Sesión
 							<i class="fa fa-long-arrow-right m-l-5"></i>
 						</a>
@@ -71,7 +112,7 @@
 	</div>
 	
 <!--===============================================================================================-->
-	<script src="{{asset('assets/login/vendor/jquery/jquery-3.2.1.min.js')}}"></script>
+    <script src="{{asset('assets/login/vendor/jquery/jquery-3.2.1.min.js')}}"></script>
 <!--===============================================================================================-->
 	<script src="{{asset('assets/login/vendor/animsition/js/animsition.min.js')}}"></script>
 <!--===============================================================================================-->
