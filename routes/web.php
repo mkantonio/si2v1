@@ -19,3 +19,6 @@ Route::resource('categoria','CategoriaController');
 Route::resource('tipooferta','TipoOfertaController');
 Route::resource('tipoinmueble','tipoinmuebleController');
 Route::resource('zona','ZonaController');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
