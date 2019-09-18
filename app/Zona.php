@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class Zona extends Model
 {
     //asociar el modelo a la tabla
-    protected $table = 'zona';
+    protected $table = 'ZONA';
 
     //definir la clave primaria de la tabla
     protected $primaryKey = 'idZon';

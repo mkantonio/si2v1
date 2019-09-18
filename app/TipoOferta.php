@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class TipoOferta extends Model
 {
     //asociar el modelo a la tabla
-    protected $table = 'tipoferta';
+    protected $table = 'TIPOOFERTA';
 
     //definir la clave primaria de la tabla
     protected $primaryKey = 'idOf';
