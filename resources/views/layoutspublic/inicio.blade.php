@@ -9,7 +9,8 @@
 <header role="banner" class="navbar navbar-fixed-top navbar-inverse bnb-hide">
     <div class="container-fluid">
         <div class="navbar-header">
-            <h2 class="navbar-brand"><a href="https://www.ultracasas.com/">ULTRACASAS</a></h2>
+        {{-- <h2 class="navbar-brand"><a href="{{route('inicio')}}">INMUEBLES YA!</a></h2> --}}
+        {{-- <h2 class="navbar-brand"><a href="{{route('inicio')}}">INMUEBLES YA!</a></h2> --}}
             <button data-toggle="collapse-side" data-target=".side-collapse" data-target-2=".side-collapse-container" type="button" class="navbar-toggle pull-right">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -34,9 +35,9 @@
     <div class="navbar-inverse side-collapse in">
     <nav role="navigation" class="navbar-collapse">
         <ul class="nav navbar-nav">
-            <li><a href="http://blog.ultracasas.com" target="_blank">Blog</a></li>
-            <li><a href="javascript:void(0)" onclick="oPage.getQuienesSomos(this)">Quiénes somos</a></li>
-            <li><a href="javascript:void(0)" onclick="oPage.getContacto(this)">Contacto</a></li>
+            {{-- <li><a href="http://blog.ultracasas.com" target="_blank">Blog</a></li> --}}
+            {{-- <li><a href="javascript:void(0)" onclick="oPage.getQuienesSomos(this)">Quiénes somos</a></li> --}}
+            {{-- <li><a href="javascript:void(0)" onclick="oPage.getContacto(this)">Contacto</a></li> --}}
     <!--            <li><a href="javascript:void(0)" onclick="oPage.loginRegister(this)">Proyecto</a></li>-->
     <!--            <li><a href="https://www.ultracreditos.com" target="_blank"><img src="--><!--" height="23" style="vertical-align:middle"></a></li>-->
         </ul>
@@ -53,7 +54,7 @@
                             <h1 id="titleList" class="text-ellipsis line-height-30px  bnb-top-title">Habitaciónes en Alquiler en Santa Cruz, Santa Cruz de la Sierra</h1>
         </div>
         <div id="main_nav" class="col-md-12 superbuscador-input">
-            <h2 class="img-navbar-brand display-none bnb-hide"><a href="https://www.ultracasas.com/">ULTRACASAS</a></h2>
+        {{-- <h2 class="img-navbar-brand display-none bnb-hide"><a href="{{route('principal')}}">ULTRACASAS</a></h2> --}}
             <div class="input-group to-right">
 <!--                    <span class="input-group-btn">-->
 <!--                        <button class="btn btn-info btn-lg" type="button">-->
@@ -597,8 +598,8 @@ window.onload = function() {
     <div class="container">
         <div class="row">n
             <div class="col-md-3 redes">
-                <div class="brand">Ultracasas.com</div>
-                <p>© 2019 UltraGrupo.com.Todos los derechos reservados.</p>
+                {{-- <div class="brand">Ultracasas.com</div>
+                <p>© 2019 UltraGrupo.com.Todos los derechos reservados.</p> --}}
                 <ul class="rss list-inline">
                     <li><a href="https://www.facebook.com/ultracasas" target="_blank" title="Visítanos en Facebook"><svg class="svg-inline--fa fa-facebook-f fa-w-9" aria-hidden="true" data-prefix="fab" data-icon="facebook-f" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 512" data-fa-i2svg=""><path fill="currentColor" d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"></path></svg><!-- <i class="fab fa-facebook-f"></i> --></a></li>
                     <li><a href="https://www.twitter.com/ultracasas" target="_blank" title="Síguenos en twitter"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg><!-- <i class="fab fa-twitter"></i> --></a></li>
@@ -608,10 +609,10 @@ window.onload = function() {
                 <div class="informacion-legales">
                     <a href="http://blog.ultracasas.com/terminos-y-condiciones" target="_blank">Términos y condiciones de uso</a> · <a href="http://blog.ultracasas.com/terminos-y-condiciones" target="_blank">Política de cookies</a>
                 </div>
-                <p style="color:#FFFFFF"><strong>UltraCasas.com</strong> es un portal de búsqueda online que permite buscar y publicar información de venta, alquiler y anticrético de todo tipo de inmuebles, tales como: casas, departamentos, oficinas, terrenos, locales comerciales, etc.</p>
+                <p style="color:#FFFFFF"><strong>InmueblesYA.com</strong> es un portal de búsqueda online que permite buscar y publicar información de venta, alquiler y anticrético de todo tipo de inmuebles, tales como: casas, departamentos, oficinas, terrenos, locales comerciales, etc.</p>
             </div>
             <div class="col-md-3 contacto text-right">
-                <div class="mascota"><h4><a href="#" class="sr-only">Bienvenido a ULTRACASAS.COM</a></h4></div>
+                <div class="mascota"><h4><a href="#" class="sr-only">Bienvenido a InmueblesYA.COM</a></h4></div>
                 <ul class="list-unstyled">
                     <li><a href="tel:+59177774041">Santa Cruz: +(591) 777 74041 <svg class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg><!-- <i class="fas fa-phone"></i> --></a></li>
                     <li><a href="tel:+59178850405">La Paz: +(591) 78850405 <svg class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg><!-- <i class="fas fa-phone"></i> --></a></li>

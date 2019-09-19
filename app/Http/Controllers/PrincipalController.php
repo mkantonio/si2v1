@@ -33,7 +33,7 @@ class PrincipalController extends Controller
 
     public function iniciosesion()
     {
-        return view ('layoutspublic.iniciosesion');
+        return view ('auth.login');
     }
 
 }

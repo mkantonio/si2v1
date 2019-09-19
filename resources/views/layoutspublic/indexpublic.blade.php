@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html dir="ltr" itemscope="" itemtype="http://schema.org/Organization" class="fontawesome-i2svg-active fontawesome-i2svg-complete" lang="en-US"><head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script type="text/javascript" async="" src="http://cdn.livechatinc.com/tracking.js"></script><script async="" src="https://track.embluemail.com/tracker/tracker.js" id="rtracker" data-api-key="431483b44999484fbac1f2b9a476c82a"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" id="rattacher" src="//track.embluemail.com/tracker/events-attacher.js"></script><script src="https://connect.facebook.net/signals/plugins/inferredEvents.js?v=2.9.4" async=""></script><script src="https://connect.facebook.net/signals/config/330586827130152?v=2.9.4&amp;r=stable" async=""></script><script src="https://connect.facebook.net/es_LA/sdk.js?hash=3d14e3dd04bf68f0381f892e07fddb34" async="" crossorigin="anonymous"></script><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1em}.svg-inline--fa.fa-stack-2x{height:2em;width:2em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}</style><style type="text/css">embed[height="175"][width="175"], embed[height="200"][width="100%"], embed[height="200"][width="175"], embed[height="233"][width="280"], embed[height="250"][width="175"], embed[width="100%"][height="100"], embed[width="1000"][height="150"], embed[width="120"][height="240"], embed[width="120"][height="600"], embed[width="160"][height="600"], embed[width="180"][height="300"], embed[width="180"][height="530"], embed[width="200"][height="230"], embed[width="200"][height="250"], embed[width="200"][height="300"], embed[width="200"][height="400"], embed[width="200"][height="500"], embed[width="210"][height="270"], embed[width="212"][height="300"], embed[width="215"][height="359"], embed[width="220"][height="250"], embed[width="240"][height="150"], embed[width="240"][height="250"], embed[width="240"][height="300"], embed[width="240"][height="400"], embed[width="240"][height="420"], embed[width="250"][height="250"], embed[width="300"][height="250"], embed[width="310"][height="70"], embed[width="430"][height="120"], embed[width="460"][height="70"], embed[width="468"][height="60"], embed[width="470"][height="50"], embed[width="500"][height="100"], embed[width="500"][height="120"], embed[width="500"][height="170"], embed[width="570"][height="100"], embed[width="600"][height="160"], embed[width="600"][height="200"], embed[width="600"][height="90"], embed[width="680"][height="130"], embed[width="700"][height="60"], embed[width="728"][height="90"], embed[width="940"][height="90"], embed[width="960"][height="120"], iframe[width="104"][height="464"], iframe[width="200"][height="240"], iframe[width="200"][height="300"], iframe[width="210"][height="237"], iframe[width="240"][height="300"] { display: none!important; }
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script type="text/javascript" async="" src="http://cdn.livechatinc.com/tracking.js"></script><script async="" src="https://track.embluemail.com/tracker/tracker.js" id="rtracker" data-api-key="431483b44999484fbac1f2b9a476c82a"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" id="rattacher" src="//track.embluemail.com/tracker/events-attacher.js"></script><script src="https://connect.facebook.net/signals/plugins/inferredEvents.js?v=2.9.4" async=""></script><script src="https://connect.facebook.net/signals/config/330586827130152?v=2.9.4&amp;r=stable" async=""></script><script src="https://connect.facebook.net/es_LA/sdk.js?hash=3d14e3dd04bf68f0381f892e07fddb34" async="" crossorigin="anonymous"></script><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}
+    	.destacadisimo{
+    		border: 1px solid #blue;
+    	}
+
+    .fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1em}.svg-inline--fa.fa-stack-2x{height:2em;width:2em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}</style><style type="text/css">embed[height="175"][width="175"], embed[height="200"][width="100%"], embed[height="200"][width="175"], embed[height="233"][width="280"], embed[height="250"][width="175"], embed[width="100%"][height="100"], embed[width="1000"][height="150"], embed[width="120"][height="240"], embed[width="120"][height="600"], embed[width="160"][height="600"], embed[width="180"][height="300"], embed[width="180"][height="530"], embed[width="200"][height="230"], embed[width="200"][height="250"], embed[width="200"][height="300"], embed[width="200"][height="400"], embed[width="200"][height="500"], embed[width="210"][height="270"], embed[width="212"][height="300"], embed[width="215"][height="359"], embed[width="220"][height="250"], embed[width="240"][height="150"], embed[width="240"][height="250"], embed[width="240"][height="300"], embed[width="240"][height="400"], embed[width="240"][height="420"], embed[width="250"][height="250"], embed[width="300"][height="250"], embed[width="310"][height="70"], embed[width="430"][height="120"], embed[width="460"][height="70"], embed[width="468"][height="60"], embed[width="470"][height="50"], embed[width="500"][height="100"], embed[width="500"][height="120"], embed[width="500"][height="170"], embed[width="570"][height="100"], embed[width="600"][height="160"], embed[width="600"][height="200"], embed[width="600"][height="90"], embed[width="680"][height="130"], embed[width="700"][height="60"], embed[width="728"][height="90"], embed[width="940"][height="90"], embed[width="960"][height="120"], iframe[width="104"][height="464"], iframe[width="200"][height="240"], iframe[width="200"][height="300"], iframe[width="210"][height="237"], iframe[width="240"][height="300"] { display: none!important; }
 iframe[width="240"][height="350"], iframe[width="468"][height="60"], iframe[width="600"][height="90"], iframe[width="780"][height="120"], iframe[width="980"][height="90"], img[width="460"][height="60"], img[width="600"][height="90"], img[width="720"][height="90"], object[height="100"][width="550"], object[height="120"][width="120"], object[height="175"][width="175"], object[height="200"][width="100%"], object[height="250"][width="175"], object[height="380"][width="190"], object[height="80"][width="100%"], object[height="97"][width="500"], object[width="100%"][height="150"], object[width="100%"][height="250"], object[width="100%"][height="60"], object[width="100%"][height="90"], object[width="1000"][height="100"], object[width="1000"][height="150"], object[width="1000"][height="200"], object[width="1000"][height="300"], object[width="1000"][height="70"], object[width="1000"][height="90"], object[width="1020"][height="200"], object[width="1020"][height="220"], object[width="1024"][height="150"], object[width="1024"][height="80"], object[width="120"][height="300"], object[width="120"][height="60"], object[width="120"][height="600"], object[width="140"][height="320"], object[width="140"][height="600"], object[width="1440"][height="299"], object[width="150"][height="150"], object[width="150"][height="250"], object[width="150"][height="300"], object[width="150"][height="360"], object[width="160"][height="200"], object[width="160"][height="400"], object[width="160"][height="600"], object[width="161"][height="250"], object[width="170"][height="170"], object[width="170"][height="80"], object[width="175"][height="200"], object[width="175"][height="220"], object[width="180"][height="107"], object[width="180"][height="235"] { display: none!important; }
 object[width="180"][height="250"], object[width="180"][height="300"], object[width="180"][height="540"], object[width="185"][height="228"], object[width="188"][height="290"], object[width="190"][height="310"], object[width="190"][height="46"], object[width="190"][height="700"], object[width="200"][height="100"], object[width="200"][height="150"], object[width="200"][height="220"], object[width="200"][height="300"], object[width="200"][height="352"], object[width="200"][height="360"], object[width="200"][height="400"], object[width="210"][height="300"], object[width="215"][height="400"], object[width="220"][height="160"], object[width="220"][height="320"], object[width="224"][height="373"], object[width="229"][height="229"], object[width="230"][height="100"], object[width="230"][height="60"], object[width="234"][height="60"], object[width="240"][height="100"], object[width="240"][height="120"], object[width="240"][height="200"], object[width="240"][height="240"], object[width="240"][height="300"], object[width="240"][height="325"], object[width="240"][height="350"], object[width="240"][height="400"], object[width="240"][height="800"], object[width="250"][height="125"], object[width="250"][height="250"], object[width="250"][height="500"], object[width="250"][height="520"], object[width="250"][height="60"], object[width="256"][height="300"], object[width="260"][height="450"], object[width="265"][height="300"], object[width="270"][height="540"], object[width="275"][height="138"], object[width="280"][height="90"], object[width="300"][height="250"], object[width="300"][height="276"], object[width="300"][height="78"], object[width="340"][height="170"], object[width="340"][height="585"], object[width="340"][height="80"] { display: none!important; }
 object[width="350"][height="115"], object[width="350"][height="170"], object[width="360"][height="120"], object[width="360"][height="60"], object[width="370"][height="170"], object[width="400"][height="50"], object[width="400"][height="87"], object[width="408"][height="275"], object[width="440"][height="100"], object[width="460"][height="40"], object[width="468"][height="40"], object[width="468"][height="60"], object[width="468"][height="90"], object[width="469"][height="70"], object[width="470"][height="50"], object[width="480"][height="100"], object[width="480"][height="60"], object[width="500"][height="100"], object[width="500"][height="200"], object[width="500"][height="250"], object[width="500"][height="78"], object[width="530"][height="170"], object[width="545"][height="70"], object[width="550"][height="130"], object[width="550"][height="200"], object[width="560"][height="120"], object[width="570"][height="180"], object[width="572"][height="106"], object[width="580"][height="80"], object[width="590"][height="100"], object[width="600"][height="130"], object[width="600"][height="200"], object[width="600"][height="250"], object[width="600"][height="80"], object[width="600"][height="90"], object[width="610"][height="130"], object[width="620"][height="120"], object[width="626"][height="75"], object[width="630"][height="206"], object[width="635"][height="185"], object[width="675"][height="80"], object[width="680"][height="125"], object[width="680"][height="240"], object[width="680"][height="90"], object[width="690"][height="85"], object[width="700"][height="100"], object[width="700"][height="87"], object[width="700"][height="90"], object[width="703"][height="120"], object[width="720"][height="120"] { display: none!important; }
@@ -492,23 +497,20 @@ object[width="1000"][height="270"], object[width="1000"][height="250"], img[widt
 <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
 <![endif]-->
 
-<title>UltraCasas.com - Compra, Venta, Alquiler y Anticretico de Inmuebles en Bolivia - Casas, Departamentos, Terrenos, Oficinas y Locales Comerciales</title>
+<title>InmuebleYa.com - Compra, Venta, Alquiler y Anticretico de Inmuebles en Bolivia - Casas, Departamentos, Terrenos, Oficinas y Locales Comerciales</title>
 <meta name="TITLE" content="UltraCasas.com - Compra, Venta, Alquiler y Anticretico de Inmuebles en Bolivia - Casas, Departamentos, Terrenos, Oficinas y Locales Comerciales">
-<meta name="REPLY-TO" content="info@ultracasas.com">
+<meta name="REPLY-TO" content="info@InmuebleYa.com"
 <meta name="DC.Language" scheme="RFC1766" content="Spanish">
 <meta name="DESCRIPTION" content="Más de 23,000 inmuebles en oferta en Bolivia. Encuentra y Publica 100% Gratis: Casas, Departamentos, Lotes, Terrenos y Oficinas en Venta, Alquiler y Antic...">
 <meta name="KEYWORDS" content="Bolivia,Casas,terrenos,lotes,departamentos,compra,venta,alquiler,inmobiliaria,real state,inmuebles">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <meta property="og:url" content="https://www.ultracasas.com/">
 <meta property="og:type" content="website">
-<meta property="og:title" content="UltraCasas.com - Compra, Venta, Alquiler y Anticretico de Inmuebles en Bolivia - Casas, Departamentos, Terrenos, Oficinas y Locales Comerciales">
+<meta property="og:title" content="InmuebleYa.com - Compra, Venta, Alquiler y Anticretico de Inmuebles en Bolivia - Casas, Departamentos, Terrenos, Oficinas y Locales Comerciales">
 <meta property="og:image" content="https://cdn1.ultracasas.com/app/images/logo-jdc-facebook-app-sharing-final.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:description" content="Más de 23,000 inmuebles en oferta en Bolivia. Encuentra y Publica 100% Gratis: Casas, Departamentos, Lotes, Terrenos y Oficinas en Venta, Alquiler y Anticrético en La Paz, Cochabamba, Santa Cruz, Tarija, Sucre, Trinidad, Cobija, Oruro, Potosí, Warnes, Montero, Copacabana, Yacuiba, Villamontes, Quillacollo, Sacaba, Viacha, El Alto y más.">
 <meta property="og:site_name" content="UltraCasas.com">
-<meta itemprop="name" content="UltraCasas.com - Compra, Venta, Alquiler y Anticretico de Inmuebles en Bolivia - Casas, Departamentos, Terrenos, Oficinas y Locales Comerciales">
-<meta itemprop="description" content="Más de 23,000 inmuebles en oferta en Bolivia. Encuentra y Publica 100% Gratis: Casas, Departamentos, Lotes, Terrenos y Oficinas en Venta, Alquiler y Anticrético en La Paz, Cochabamba, Santa Cruz, Tarija, Sucre, Trinidad, Cobija, Oruro, Potosí, Warnes, Montero, Copacabana, Yacuiba, Villamontes, Quillacollo, Sacaba, Viacha, El Alto y más.">
 <meta itemprop="image" content="https://cdn2.ultracasas.com/app/images/logo-jdc-facebook-app-sharing-final.jpg">
 <style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes  fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1em}.svg-inline--fa.fa-stack-2x{height:2em;width:2em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}</style><link rel="apple-touch-icon" sizes="57x57" href="https://cdn1.ultracasas.com/app//images/favicons/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="https://cdn1.ultracasas.com/app//images/favicons/apple-icon-60x60.png">
@@ -1118,7 +1120,7 @@ window.criteo_q = window.criteo_q || [];
 <script>(function (w, d, t, r, u, o, s, f) {w[r] = w[r] || function () {(w._rq = w._rq || []).push(Array.prototype.slice.call(arguments))};s = d.createElement(t),f = d.getElementsByTagName(t)[0];s.async = 1;s.src = u;s.id = 'rtracker';s.setAttribute('data-api-key', o);f.parentNode.insertBefore(s, f)})(window, document, 'script', '_gb', 'https://track.embluemail.com/tracker/tracker.js', '431483b44999484fbac1f2b9a476c82a');</script><header role="banner" class="navbar navbar-fixed-top navbar-inverse bnb-hide">
 <div class="container-fluid">
     <div class="navbar-header">
-        <h2 class="navbar-brand"><a href="https://www.ultracasas.com/">ULTRACASAS</a></h2>
+            {{-- <h2 class="navbar-brand"><a href="{{route('principal')}}">INMUEBLES YA!</a></h2> --}}
         <button data-toggle="collapse-side" data-target=".side-collapse" data-target-2=".side-collapse-container" type="button" class="navbar-toggle pull-right">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -1129,22 +1131,21 @@ window.criteo_q = window.criteo_q || [];
 <nav role="menubar" class="acciones">
     <ul class="listado-acciones list-inline">
         <li>
-            <a onclick="oUri.headerNavToPublicar()">Publicar</a>
+            <a>Publicar</a>
         </li>
         <li>
-        <a href=" {{route('registrooption')}} ">Registrate</span></a>
+        <a href="{{route('registrooption')}}" <span class="hidden-md hidden-sm hidden-xs">Registrate</span></a>
         </li>
         <li>
-            <a href=" {{route('login')}} ">Inicia Sesión</span></a>
-        </li>
+            <a href="{{route('iniciosesion')}}" <span class="hidden-md hidden-sm hidden-xs">Iniciar Sesión</span></a>
+            </li>
     </ul>
 </nav>
 </div>
 <div class="navbar-inverse side-collapse in">
 <nav role="navigation" class="navbar-collapse">
     <ul class="nav navbar-nav">
-        <li><a href="http://blog.ultracasas.com" target="_blank">Blog</a></li>
-        <li><a href=" {{route('inicio')}} ">Inicio</a></li>
+        <li><a href="{{route('inicio')}}">Inicio</a></li>
 <!--            <li><a href="javascript:void(0)" onclick="oPage.loginRegister(this)">Proyecto</a></li>-->
 <!--            <li><a href="https://www.ultracreditos.com" target="_blank"><img src="--><!--" height="23" style="vertical-align:middle"></a></li>-->
     </ul>
@@ -1157,17 +1158,14 @@ window.criteo_q = window.criteo_q || [];
 <div class="container-fluid">
     <div class="row">
         <div class="search" style="top: 50%!important;">
-            <h1>Tu camino a casa</h1>
-            <form class="search-content formSearch" name="formSearch" id="formSearch">
+            <h1></h1>
+            <form class="" name="formSearch" id="formSearch">
                 <div class="selectores">
-                    <div class="caja-select">
-                        <select name="idTipoInmueble" class=""><option value="1">Casa</option><option value="2">Departamento</option><option value="8">Edificio</option><option value="5">Galpón</option><option value="7" selected="">Habitación</option><option value="4">Local comercial</option><option value="3">Oficina</option><option value="10">Parqueo</option><option value="9">Quinta propiedad agrícola</option><option value="6">Terreno</option></select>                        </div>
-                    <div class="caja-select">
-                        <select name="idTipoOferta" class=""><option value="2" selected="">Alquiler</option><option value="3">Anticretico</option><option value="1">Venta</option></select>                        </div>
+                	
                 </div>
                 <div id="custom-search-input">
                     <div class="input-group col-md-12">
-                        <input type="text" class="form-control autocomplete-yasta input-lg" name="CiudadZona" placeholder="Todas las zonas, Santa Cruz de la Sierra" autocomplete="off">
+                        <input type="text" class="form-control autocomplete-yasta input-lg" name="CiudadZona" placeholder="" autocomplete="off">
                         <input type="hidden" name="ciudad" value="Santa Cruz de la Sierra">
                         <input type="hidden" name="region" value="Santa Cruz">
                         <input type="hidden" name="zona" value="Todas">
@@ -1326,10 +1324,11 @@ window.criteo_q = window.criteo_q || [];
                             <div class="swiper-button-next swiper-button-next-492" href="https://www.ultracasas.com/bo/proyecto/492/kerana-condominio-cerrado" primary=""></div>
                             <div class="swiper-button-prev swiper-button-prev-492" href="https://www.ultracasas.com/bo/proyecto/492/kerana-condominio-cerrado" primary=""></div>
                         </div>
+
+
                         <div class="inmuebles-item-caption">
                             <div class="inmuebles-item-titular pos-relative overflow-visible">
                                 <div class="inmuebles-item-titular-tit width-100-percent">
-                                    <a href="https://www.ultracasas.com/bo/proyecto/492/kerana-condominio-cerrado">
                                         <h2 class="text-ellipsis">Kerana Condominio Cerrado</h2>
                                     </a>
 
@@ -1341,7 +1340,7 @@ window.criteo_q = window.criteo_q || [];
                                     <li class="no-padding icon-default-color margin-left-5px">
                                         <h4>Condominio</h4>
                                     </li>
-                                                                                <li class="no-padding icon-default-color margin-left-5px text-ellipsis">
+                                    <li class="no-padding icon-default-color margin-left-5px text-ellipsis">
                                             8 unidades disponibles
                                         </li>
                                                                         </ul>
@@ -1393,7 +1392,7 @@ window.criteo_q = window.criteo_q || [];
                         <div class="inmuebles-item-caption">
                             <div class="inmuebles-item-titular pos-relative overflow-visible">
                                 <div class="inmuebles-item-titular-tit width-100-percent">
-                                    <a href="https://www.ultracasas.com/bo/proyecto/704/homs-narzole-">
+                                    
                                         <h2 class="text-ellipsis">Homs Narzole </h2>
                                     </a>
 
@@ -1434,7 +1433,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                                 <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 225px;">
 
                                     <a href="https://www.ultracasas.com/bo/proyecto/645/condominio-quinta-avenida">
-                                        <!-- <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/7e3d72df1ff0489e30b0722eddbcf77f4f0099"> -->
+                                     
                                         <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/7e3d72df1ff0489e30b0722eddbcf77f4f0099">
                                     </a>
                                 </div>
@@ -1448,7 +1447,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 225px;">
 
                                     <a href="https://www.ultracasas.com/bo/proyecto/645/condominio-quinta-avenida">
-                                        <!-- <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/7e3d72df1ff0489e30b0722eddbcf77f4f0099"> -->
+                                      
                                         <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/7e3d72df1ff0489e30b0722eddbcf77f4f0099">
                                     </a>
                                 </div></div>
@@ -1458,7 +1457,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                         <div class="inmuebles-item-caption">
                             <div class="inmuebles-item-titular pos-relative overflow-visible">
                                 <div class="inmuebles-item-titular-tit width-100-percent">
-                                    <a href="https://www.ultracasas.com/bo/proyecto/645/condominio-quinta-avenida">
+                                   
                                         <h2 class="text-ellipsis">Condominio Quinta Avenida</h2>
                                     </a>
 
@@ -1498,7 +1497,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                                 <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 225px;">
 
                                     <a href="https://www.ultracasas.com/bo/proyecto/650/soul-parc">
-                                        <!-- <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/70f73968714d83a00f0c9c3f067a5465a513b0"> -->
+                                      
                                         <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/70f73968714d83a00f0c9c3f067a5465a513b0">
                                     </a>
                                 </div>
@@ -1512,7 +1511,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 225px;">
 
                                     <a href="https://www.ultracasas.com/bo/proyecto/650/soul-parc">
-                                        <!-- <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/70f73968714d83a00f0c9c3f067a5465a513b0"> -->
+                                        
                                         <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/70f73968714d83a00f0c9c3f067a5465a513b0">
                                     </a>
                                 </div></div>
@@ -1522,7 +1521,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                         <div class="inmuebles-item-caption">
                             <div class="inmuebles-item-titular pos-relative overflow-visible">
                                 <div class="inmuebles-item-titular-tit width-100-percent">
-                                    <a href="https://www.ultracasas.com/bo/proyecto/650/soul-parc">
+                                   
                                         <h2 class="text-ellipsis">Soul Parc</h2>
                                     </a>
 
@@ -1562,7 +1561,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                                 <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 225px;">
 
                                     <a href="https://www.ultracasas.com/bo/proyecto/710/condominio-fénix">
-                                        <!-- <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7ca696b79042e45ca81d9fbf68ee95671cd9d9"> -->
+                                        
                                         <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7ca696b79042e45ca81d9fbf68ee95671cd9d9">
                                     </a>
                                 </div>
@@ -1576,7 +1575,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 225px;">
 
                                     <a href="https://www.ultracasas.com/bo/proyecto/710/condominio-fénix">
-                                        <!-- <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7ca696b79042e45ca81d9fbf68ee95671cd9d9"> -->
+                                      
                                         <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7ca696b79042e45ca81d9fbf68ee95671cd9d9">
                                     </a>
                                 </div></div>
@@ -1626,7 +1625,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                                 <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 225px;">
 
                                     <a href="https://www.ultracasas.com/bo/proyecto/534/condominio-ulupica">
-                                        <!-- <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/76fa3921381470456f9f953148454650fa2f65"> -->
+                                       
                                         <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/76fa3921381470456f9f953148454650fa2f65">
                                     </a>
                                 </div>
@@ -1640,7 +1639,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 225px;">
 
                                     <a href="https://www.ultracasas.com/bo/proyecto/534/condominio-ulupica">
-                                        <!-- <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/76fa3921381470456f9f953148454650fa2f65"> -->
+                                    
                                         <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/76fa3921381470456f9f953148454650fa2f65">
                                     </a>
                                 </div></div>
@@ -1701,7 +1700,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 225px;">
 
                                     <a href="https://www.ultracasas.com/bo/proyecto/679/orange-residence">
-                                        <!-- <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7241623e8a93b472433b6bf11465da302edf99"> -->
+                                       
                                         <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7241623e8a93b472433b6bf11465da302edf99">
                                     </a>
                                 </div></div>
@@ -1751,7 +1750,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                                 <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 225px;">
 
                                     <a href="https://www.ultracasas.com/bo/proyecto/673/club-piazza">
-                                        <!-- <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/76c1199361ad066a6c089d1661677c94aa9901"> -->
+                                       
                                         <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/76c1199361ad066a6c089d1661677c94aa9901">
                                     </a>
                                 </div>
@@ -1765,7 +1764,7 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 225px;">
 
                                     <a href="https://www.ultracasas.com/bo/proyecto/673/club-piazza">
-                                        <!-- <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/76c1199361ad066a6c089d1661677c94aa9901"> -->
+                                   
                                         <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/76c1199361ad066a6c089d1661677c94aa9901">
                                     </a>
                                 </div></div>
@@ -1843,589 +1842,10 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
     </div>
 </section>
 
-<section class="destacados padding-20px-bottom">
-    <div class="container">
-        <div class="row inmuebles">
-                    <div class="inmuebles-item col-md-3 grid-list margin-bottom-15px" itemscope="" itemtype="http://schema.org/SingleFamilyResidence">
-        <input type="hidden" value="585798" name="pk-static">
-        <span class="display-none" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-            <span itemprop="streetAddress">📍 Polanco, sobre Av. Radial 10, cerca al Parque Urbano, 3er y 4to Anillo - Zona Residencial</span>
-            <span itemprop="addressLocality">Santa Cruz de la Sierra</span>
-            <span itemprop="addressRegion">Santa Cruz</span>
-        </span>
-        <span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
-            <meta itemprop="latitude" content="-17.804438">
-            <meta itemprop="longitude" content="-63.156322">
-        </span>
 
-        <div class="swiper-container inmuebles-item-gallery static-swiper-container swiper-container-585798 swiper-container-horizontal" style="max-height: 150px!important;" data-id-main-photo="9461535" data-id-second-photo="https://cdn3.ultracasas.com/dyn/yastaimages/7bef80b76f211f9be5c18209fc006408420d99" data-id-inmueble="585798" tapped="disabled">
-                                <div class="count-fotos-container-destacados" style="background-color: #000000a3;">
-                    <a onclick="oPage.getImagesOnDetalleInmueble(this)" type-slides="IMAGES" type-property="INMUEBLE" primary="585798"><svg class="svg-inline--fa fa-th fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="th" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm32-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm386.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24z"></path></svg><!-- <i class="fas fa-th"></i> -->
-                        <span id="contador-photoswiper">1</span>/19 </a>
-                </div>
-                                                                <div class="label-destaca"><figure class="ribbon ribbon-static ribbon-static-horizontal ribbon-4"><span>Elite </span></figure></div>
-                            <div class="fav" primary="585798" id-plan="4" price="79500" onclick=" oPage.getRegisterPanel(this); oPage.setFavoriteWithoutRegister(this); ">
-                <a href="javascript:void(0)"><svg class="svg-inline--fa fa-heart fa-w-16 no-favorite" aria-hidden="true" data-prefix="far" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M458.4 64.3C400.6 15.7 311.3 23 256 79.3 200.7 23 111.4 15.6 53.6 64.3-21.6 127.6-10.6 230.8 43 285.5l175.4 178.7c10 10.2 23.4 15.9 37.6 15.9 14.3 0 27.6-5.6 37.6-15.8L469 285.6c53.5-54.7 64.7-157.9-10.6-221.3zm-23.6 187.5L259.4 430.5c-2.4 2.4-4.4 2.4-6.8 0L77.2 251.8c-36.5-37.2-43.9-107.6 7.3-150.7 38.9-32.7 98.9-27.8 136.5 10.5l35 35.7 35-35.7c37.8-38.5 97.8-43.2 136.5-10.6 51.1 43.1 43.5 113.9 7.3 150.8z"></path></svg><!-- <i class="far fa-heart no-favorite"></i> --></a>
-            </div>
-            <div class="swiper-wrapper" primary="585798" style="transform: translate3d(-255px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-585798">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7bef80b76f211f9be5c18209fc006408420d99">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-585798">
-                        <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/7618042f60b1945614610969889181548ff519">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-585798">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7bef80b76f211f9be5c18209fc006408420d99">
-                    </a>
-                </div>
-            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-585798">
-                        <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/7618042f60b1945614610969889181548ff519">
-                    </a>
-                </div></div>
-            <div class="swiper-button-next swiper-button-next-585798" href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-585798" primary="585798"></div>
-            <div class="swiper-button-prev swiper-button-prev-585798" href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-585798" primary="585798"></div>
-        </div>
-        <div class="inmuebles-item-caption">
-            <div class="inmuebles-item-titular pos-relative overflow-visible">
-                <div class="inmuebles-item-titular-tit">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-585798">
-                                                    <h2 class="text-ellipsis">📍 Polanco, sobre Av. Radial 10, cerca al Parque Urbano, 3er y 4to Anillo - Zona Residencial</h2>
-                    </a>
-
-                    <h3 class="text-ellipsis line-height-25px">Entre 3er y 4to anillo Este                            , Santa Cruz de la Sierra - Departamento en Venta</h3>
-                </div>
-                <ul class="inmuebles-item-titular-thumbnail list-inline text-right">
-                                                                                <li class="width-100-percent">
-                                <a href="#" title="">
-                                    <img src="https://cdn4.ultracasas.com/dyn/yastaimages/7c3306a055879c3c366a0df4341988cbdaf399" class="img-responsive img-user-list-destacados">
-                                                                                <img src="https://cdn5.ultracasas.com/dyn/yastaimages/719c604e4ba8d15190156ed6cab6f97d3f7489" class="img-responsive img-company-list-destacados">
-                                                                            </a>
-                            </li>
-                                                                    </ul>
-            </div>
-            <div class="inmuebles-item-precio inmuebles-item-precio-grid">
-                <h4>$us                        . 79,500</h4>
-                <ul class="list-inline">
-                                                <li class="no-padding icon-default-color margin-left-5px">2                                <svg class="svg-inline--fa fa-bed fa-w-20" aria-hidden="true" data-prefix="fas" data-icon="bed" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M176 256c44.11 0 80-35.89 80-80s-35.89-80-80-80-80 35.89-80 80 35.89 80 80 80zm352-128H304c-8.84 0-16 7.16-16 16v144H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v352c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h512v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16V240c0-61.86-50.14-112-112-112z"></path></svg><!-- <i class="fas fa-bed"></i> --></li>
-                                                                        <li class="no-padding icon-default-color margin-left-5px">3                                <svg class="svg-inline--fa fa-bath fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="bath" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M488 256H80V112c0-17.645 14.355-32 32-32 11.351 0 21.332 5.945 27.015 14.88-16.492 25.207-14.687 59.576 6.838 83.035-4.176 4.713-4.021 11.916.491 16.428l11.314 11.314c4.686 4.686 12.284 4.686 16.971 0l95.03-95.029c4.686-4.686 4.686-12.284 0-16.971l-11.314-11.314c-4.512-4.512-11.715-4.666-16.428-.491-17.949-16.469-42.294-21.429-64.178-15.365C163.281 45.667 139.212 32 112 32c-44.112 0-80 35.888-80 80v144h-8c-13.255 0-24 10.745-24 24v16c0 13.255 10.745 24 24 24h8v32c0 28.43 12.362 53.969 32 71.547V456c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-8h256v8c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-32.453c19.638-17.578 32-43.117 32-71.547v-32h8c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"></path></svg><!-- <i class="fas fa-bath"></i> --></li>
-                                                                                                <li class="no-padding icon-default-color margin-left-5px">85.00                                <strong>m<sup>2</sup></strong></li>
-                                        </ul>
-            </div>
-        </div>
-    </div>
-            <div class="inmuebles-item col-md-3 grid-list margin-bottom-15px" itemscope="" itemtype="http://schema.org/SingleFamilyResidence">
-        <input type="hidden" value="422436" name="pk-static">
-        <span class="display-none" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-            <span itemprop="streetAddress">Calle Montero esq.Isabel La Católica</span>
-            <span itemprop="addressLocality">Santa Cruz de la Sierra</span>
-            <span itemprop="addressRegion">Santa Cruz</span>
-        </span>
-        <span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
-            <meta itemprop="latitude" content="-17.789696">
-            <meta itemprop="longitude" content="-63.188354">
-        </span>
-
-        <div class="swiper-container inmuebles-item-gallery static-swiper-container swiper-container-422436 swiper-container-horizontal" style="max-height: 150px!important;" data-id-main-photo="7455696" data-id-second-photo="https://cdn4.ultracasas.com/dyn/yastaimages/79c617317da834879c60f41291f974d58e5b54" data-id-inmueble="422436" tapped="disabled">
-                                <div class="count-fotos-container-destacados" style="background-color: #000000a3;">
-                    <a onclick="oPage.getImagesOnDetalleInmueble(this)" type-slides="IMAGES" type-property="INMUEBLE" primary="422436"><svg class="svg-inline--fa fa-th fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="th" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm32-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm386.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24z"></path></svg><!-- <i class="fas fa-th"></i> -->
-                        <span id="contador-photoswiper">1</span>/6 </a>
-                </div>
-                                                                <div class="label-destaca"><figure class="ribbon ribbon-static ribbon-static-horizontal ribbon-3"><span>Plus </span></figure></div>
-                            <div class="fav" primary="422436" id-plan="3" price="470000" onclick=" oPage.getRegisterPanel(this); oPage.setFavoriteWithoutRegister(this); ">
-                <a href="javascript:void(0)"><svg class="svg-inline--fa fa-heart fa-w-16 no-favorite" aria-hidden="true" data-prefix="far" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M458.4 64.3C400.6 15.7 311.3 23 256 79.3 200.7 23 111.4 15.6 53.6 64.3-21.6 127.6-10.6 230.8 43 285.5l175.4 178.7c10 10.2 23.4 15.9 37.6 15.9 14.3 0 27.6-5.6 37.6-15.8L469 285.6c53.5-54.7 64.7-157.9-10.6-221.3zm-23.6 187.5L259.4 430.5c-2.4 2.4-4.4 2.4-6.8 0L77.2 251.8c-36.5-37.2-43.9-107.6 7.3-150.7 38.9-32.7 98.9-27.8 136.5 10.5l35 35.7 35-35.7c37.8-38.5 97.8-43.2 136.5-10.6 51.1 43.1 43.5 113.9 7.3 150.8z"></path></svg><!-- <i class="far fa-heart no-favorite"></i> --></a>
-            </div>
-            <div class="swiper-wrapper" primary="422436" style="transform: translate3d(-255px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-entre-1er-y-2do-anillo-oeste-santa-cruz-de-la-sierra-422436">
-                        <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/79c617317da834879c60f41291f974d58e5b54">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-entre-1er-y-2do-anillo-oeste-santa-cruz-de-la-sierra-422436">
-                        <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/799537e2da62e4a6994b0539916b7875235904">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-entre-1er-y-2do-anillo-oeste-santa-cruz-de-la-sierra-422436">
-                        <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/79c617317da834879c60f41291f974d58e5b54">
-                    </a>
-                </div>
-            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-entre-1er-y-2do-anillo-oeste-santa-cruz-de-la-sierra-422436">
-                        <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/799537e2da62e4a6994b0539916b7875235904">
-                    </a>
-                </div></div>
-            <div class="swiper-button-next swiper-button-next-422436" href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-entre-1er-y-2do-anillo-oeste-santa-cruz-de-la-sierra-422436" primary="422436"></div>
-            <div class="swiper-button-prev swiper-button-prev-422436" href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-entre-1er-y-2do-anillo-oeste-santa-cruz-de-la-sierra-422436" primary="422436"></div>
-        </div>
-        <div class="inmuebles-item-caption">
-            <div class="inmuebles-item-titular pos-relative overflow-visible">
-                <div class="inmuebles-item-titular-tit">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-entre-1er-y-2do-anillo-oeste-santa-cruz-de-la-sierra-422436">
-                                                    <h2 class="text-ellipsis">Calle Montero esq.Isabel La Católica</h2>
-                    </a>
-
-                    <h3 class="text-ellipsis line-height-25px">Entre 1er y 2do anillo Oeste                            , Santa Cruz de la Sierra - Casa en Venta</h3>
-                </div>
-                <ul class="inmuebles-item-titular-thumbnail list-inline text-right">
-                                                                                <li class="width-100-percent">
-                                <a href="#" title="">
-                                    <img src="https://cdn4.ultracasas.com/dyn/yastaimages/742d88c75341734422138536dd56473a015e48" class="img-responsive img-user-list-destacados">
-                                                                                <img src="https://cdn3.ultracasas.com/dyn/yastaimages/7d12359076dc659cd17916883203c50878a420" class="img-responsive img-company-list-destacados">
-                                                                            </a>
-                            </li>
-                                                                    </ul>
-            </div>
-            <div class="inmuebles-item-precio inmuebles-item-precio-grid">
-                <h4>$us                        . 470,000</h4>
-                <ul class="list-inline">
-                                                <li class="no-padding icon-default-color margin-left-5px">4                                <svg class="svg-inline--fa fa-bed fa-w-20" aria-hidden="true" data-prefix="fas" data-icon="bed" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M176 256c44.11 0 80-35.89 80-80s-35.89-80-80-80-80 35.89-80 80 35.89 80 80 80zm352-128H304c-8.84 0-16 7.16-16 16v144H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v352c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h512v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16V240c0-61.86-50.14-112-112-112z"></path></svg><!-- <i class="fas fa-bed"></i> --></li>
-                                                                        <li class="no-padding icon-default-color margin-left-5px">4                                <svg class="svg-inline--fa fa-bath fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="bath" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M488 256H80V112c0-17.645 14.355-32 32-32 11.351 0 21.332 5.945 27.015 14.88-16.492 25.207-14.687 59.576 6.838 83.035-4.176 4.713-4.021 11.916.491 16.428l11.314 11.314c4.686 4.686 12.284 4.686 16.971 0l95.03-95.029c4.686-4.686 4.686-12.284 0-16.971l-11.314-11.314c-4.512-4.512-11.715-4.666-16.428-.491-17.949-16.469-42.294-21.429-64.178-15.365C163.281 45.667 139.212 32 112 32c-44.112 0-80 35.888-80 80v144h-8c-13.255 0-24 10.745-24 24v16c0 13.255 10.745 24 24 24h8v32c0 28.43 12.362 53.969 32 71.547V456c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-8h256v8c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-32.453c19.638-17.578 32-43.117 32-71.547v-32h8c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"></path></svg><!-- <i class="fas fa-bath"></i> --></li>
-                                                                                                <li class="no-padding icon-default-color margin-left-5px">338.00                                <strong>m<sup>2</sup></strong></li>
-                                        </ul>
-            </div>
-        </div>
-    </div>
-            <div class="inmuebles-item col-md-3 grid-list margin-bottom-15px" itemscope="" itemtype="http://schema.org/SingleFamilyResidence">
-        <input type="hidden" value="590904" name="pk-static">
-        <span class="display-none" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-            <span itemprop="streetAddress">Sobre av. Banzer 7mo. anillo</span>
-            <span itemprop="addressLocality">Santa Cruz de la Sierra</span>
-            <span itemprop="addressRegion">Santa Cruz</span>
-        </span>
-        <span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
-            <meta itemprop="latitude" content="-17.725817">
-            <meta itemprop="longitude" content="-63.166279">
-        </span>
-
-        <div class="swiper-container inmuebles-item-gallery static-swiper-container swiper-container-590904 swiper-container-horizontal" style="max-height: 150px!important;" data-id-main-photo="9246623" data-id-second-photo="https://cdn4.ultracasas.com/dyn/yastaimages/7d85724449b6a36d80877e67598d0590c4ffb9" data-id-inmueble="590904" tapped="disabled">
-                                <div class="count-fotos-container-destacados" style="background-color: #000000a3;">
-                    <a onclick="oPage.getImagesOnDetalleInmueble(this)" type-slides="IMAGES" type-property="INMUEBLE" primary="590904"><svg class="svg-inline--fa fa-th fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="th" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm32-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm386.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24z"></path></svg><!-- <i class="fas fa-th"></i> -->
-                        <span id="contador-photoswiper">1</span>/19 </a>
-                </div>
-                                                                <div class="label-destaca"><figure class="ribbon ribbon-static ribbon-static-horizontal ribbon-4"><span>Elite </span></figure></div>
-                            <div class="fav" primary="590904" id-plan="4" price="95000" onclick=" oPage.getRegisterPanel(this); oPage.setFavoriteWithoutRegister(this); ">
-                <a href="javascript:void(0)"><svg class="svg-inline--fa fa-heart fa-w-16 no-favorite" aria-hidden="true" data-prefix="far" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M458.4 64.3C400.6 15.7 311.3 23 256 79.3 200.7 23 111.4 15.6 53.6 64.3-21.6 127.6-10.6 230.8 43 285.5l175.4 178.7c10 10.2 23.4 15.9 37.6 15.9 14.3 0 27.6-5.6 37.6-15.8L469 285.6c53.5-54.7 64.7-157.9-10.6-221.3zm-23.6 187.5L259.4 430.5c-2.4 2.4-4.4 2.4-6.8 0L77.2 251.8c-36.5-37.2-43.9-107.6 7.3-150.7 38.9-32.7 98.9-27.8 136.5 10.5l35 35.7 35-35.7c37.8-38.5 97.8-43.2 136.5-10.6 51.1 43.1 43.5 113.9 7.3 150.8z"></path></svg><!-- <i class="far fa-heart no-favorite"></i> --></a>
-            </div>
-            <div class="swiper-wrapper" primary="590904" style="transform: translate3d(-255px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-anticretico-entre-8vo-y-9no-anillo-santa-cruz-de-la-sierra-590904">
-                        <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/7d85724449b6a36d80877e67598d0590c4ffb9">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-anticretico-entre-8vo-y-9no-anillo-santa-cruz-de-la-sierra-590904">
-                        <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/767059be024bd2db67abe95423376696f74302">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-anticretico-entre-8vo-y-9no-anillo-santa-cruz-de-la-sierra-590904">
-                        <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/7d85724449b6a36d80877e67598d0590c4ffb9">
-                    </a>
-                </div>
-            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-anticretico-entre-8vo-y-9no-anillo-santa-cruz-de-la-sierra-590904">
-                        <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/767059be024bd2db67abe95423376696f74302">
-                    </a>
-                </div></div>
-            <div class="swiper-button-next swiper-button-next-590904" href="https://www.ultracasas.com/bo/inmueble/casa-en-anticretico-entre-8vo-y-9no-anillo-santa-cruz-de-la-sierra-590904" primary="590904"></div>
-            <div class="swiper-button-prev swiper-button-prev-590904" href="https://www.ultracasas.com/bo/inmueble/casa-en-anticretico-entre-8vo-y-9no-anillo-santa-cruz-de-la-sierra-590904" primary="590904"></div>
-        </div>
-        <div class="inmuebles-item-caption">
-            <div class="inmuebles-item-titular pos-relative overflow-visible">
-                <div class="inmuebles-item-titular-tit">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-anticretico-entre-8vo-y-9no-anillo-santa-cruz-de-la-sierra-590904">
-                                                    <h2 class="text-ellipsis">Sobre av. Banzer 7mo. anillo</h2>
-                    </a>
-
-                    <h3 class="text-ellipsis line-height-25px">Entre 6to y 7mo anillo Norte                            , Santa Cruz de la Sierra - Departamento en Venta</h3>
-                </div>
-                <ul class="inmuebles-item-titular-thumbnail list-inline text-right">
-                                                                                <li class="width-100-percent">
-                                <a href="#" title="">
-                                    <img src="https://cdn5.ultracasas.com/dyn/yastaimages/7c5394d64973d25956fa0706386e56564a7915" class="img-responsive img-user-list-destacados">
-                                                                        </a>
-                            </li>
-                                                                    </ul>
-            </div>
-            <div class="inmuebles-item-precio inmuebles-item-precio-grid">
-                <h4>$us                        . 95,000</h4>
-                <ul class="list-inline">
-                                                <li class="no-padding icon-default-color margin-left-5px">3                                <svg class="svg-inline--fa fa-bed fa-w-20" aria-hidden="true" data-prefix="fas" data-icon="bed" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M176 256c44.11 0 80-35.89 80-80s-35.89-80-80-80-80 35.89-80 80 35.89 80 80 80zm352-128H304c-8.84 0-16 7.16-16 16v144H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v352c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h512v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16V240c0-61.86-50.14-112-112-112z"></path></svg><!-- <i class="fas fa-bed"></i> --></li>
-                                                                        <li class="no-padding icon-default-color margin-left-5px">3                                <svg class="svg-inline--fa fa-bath fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="bath" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M488 256H80V112c0-17.645 14.355-32 32-32 11.351 0 21.332 5.945 27.015 14.88-16.492 25.207-14.687 59.576 6.838 83.035-4.176 4.713-4.021 11.916.491 16.428l11.314 11.314c4.686 4.686 12.284 4.686 16.971 0l95.03-95.029c4.686-4.686 4.686-12.284 0-16.971l-11.314-11.314c-4.512-4.512-11.715-4.666-16.428-.491-17.949-16.469-42.294-21.429-64.178-15.365C163.281 45.667 139.212 32 112 32c-44.112 0-80 35.888-80 80v144h-8c-13.255 0-24 10.745-24 24v16c0 13.255 10.745 24 24 24h8v32c0 28.43 12.362 53.969 32 71.547V456c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-8h256v8c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-32.453c19.638-17.578 32-43.117 32-71.547v-32h8c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"></path></svg><!-- <i class="fas fa-bath"></i> --></li>
-                                                                                                <li class="no-padding icon-default-color margin-left-5px">95.00                                <strong>m<sup>2</sup></strong></li>
-                                        </ul>
-            </div>
-        </div>
-    </div>
-            <div class="inmuebles-item col-md-3 grid-list margin-bottom-15px" itemscope="" itemtype="http://schema.org/SingleFamilyResidence">
-        <input type="hidden" value="371829" name="pk-static">
-        <span class="display-none" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-            <span itemprop="streetAddress">Condominio Sky Art [Equipetrol Norte], Departamento a estrenar de lujo en alquiler de 3 dormitorios con parqueo y baulera. [1100$us., expensas incluidas.]
-</span>
-            <span itemprop="addressLocality">Santa Cruz de la Sierra</span>
-            <span itemprop="addressRegion">Santa Cruz</span>
-        </span>
-        <span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
-            <meta itemprop="latitude" content="-17.760975">
-            <meta itemprop="longitude" content="-63.196526">
-        </span>
-
-        <div class="swiper-container inmuebles-item-gallery static-swiper-container swiper-container-371829 swiper-container-horizontal" style="max-height: 150px!important;" data-id-main-photo="4717498" data-id-second-photo="https://cdn5.ultracasas.com/dyn/yastaimages/7a3097a11745a0993e86e2c00ac687b06a2ce4" data-id-inmueble="371829" tapped="disabled">
-                                <div class="count-fotos-container-destacados" style="background-color: #000000a3;">
-                    <a onclick="oPage.getImagesOnDetalleInmueble(this)" type-slides="IMAGES" type-property="INMUEBLE" primary="371829"><svg class="svg-inline--fa fa-th fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="th" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm32-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm386.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24z"></path></svg><!-- <i class="fas fa-th"></i> -->
-                        <span id="contador-photoswiper">1</span>/16 </a>
-                </div>
-                                                                <div class="label-destaca"><figure class="ribbon ribbon-static ribbon-static-horizontal ribbon-4"><span>Elite </span></figure></div>
-                            <div class="fav" primary="371829" id-plan="4" price="1100" onclick=" oPage.getRegisterPanel(this); oPage.setFavoriteWithoutRegister(this); ">
-                <a href="javascript:void(0)"><svg class="svg-inline--fa fa-heart fa-w-16 no-favorite" aria-hidden="true" data-prefix="far" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M458.4 64.3C400.6 15.7 311.3 23 256 79.3 200.7 23 111.4 15.6 53.6 64.3-21.6 127.6-10.6 230.8 43 285.5l175.4 178.7c10 10.2 23.4 15.9 37.6 15.9 14.3 0 27.6-5.6 37.6-15.8L469 285.6c53.5-54.7 64.7-157.9-10.6-221.3zm-23.6 187.5L259.4 430.5c-2.4 2.4-4.4 2.4-6.8 0L77.2 251.8c-36.5-37.2-43.9-107.6 7.3-150.7 38.9-32.7 98.9-27.8 136.5 10.5l35 35.7 35-35.7c37.8-38.5 97.8-43.2 136.5-10.6 51.1 43.1 43.5 113.9 7.3 150.8z"></path></svg><!-- <i class="far fa-heart no-favorite"></i> --></a>
-            </div>
-            <div class="swiper-wrapper" primary="371829" style="transform: translate3d(-255px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-equipetrol-santa-cruz-de-la-sierra-371829">
-                        <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/7a3097a11745a0993e86e2c00ac687b06a2ce4">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-equipetrol-santa-cruz-de-la-sierra-371829">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/769b34a3fe0eed3469bad25f9bd30075e79147">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-equipetrol-santa-cruz-de-la-sierra-371829">
-                        <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/7a3097a11745a0993e86e2c00ac687b06a2ce4">
-                    </a>
-                </div>
-            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-equipetrol-santa-cruz-de-la-sierra-371829">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/769b34a3fe0eed3469bad25f9bd30075e79147">
-                    </a>
-                </div></div>
-            <div class="swiper-button-next swiper-button-next-371829" href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-equipetrol-santa-cruz-de-la-sierra-371829" primary="371829"></div>
-            <div class="swiper-button-prev swiper-button-prev-371829" href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-equipetrol-santa-cruz-de-la-sierra-371829" primary="371829"></div>
-        </div>
-        <div class="inmuebles-item-caption">
-            <div class="inmuebles-item-titular pos-relative overflow-visible">
-                <div class="inmuebles-item-titular-tit">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-equipetrol-santa-cruz-de-la-sierra-371829">
-                                                    <h2 class="text-ellipsis">Condominio Sky Art [Equipetrol Norte], Departamento a estrenar de lujo en alquiler de 3 dormitorios con parqueo y baulera. [1100$us., expensas incluidas.]
-</h2>
-                    </a>
-
-                    <h3 class="text-ellipsis line-height-25px">Equipetrol                            , Santa Cruz de la Sierra - Departamento en Alquiler</h3>
-                </div>
-                <ul class="inmuebles-item-titular-thumbnail list-inline text-right">
-                                                                                <li class="width-100-percent">
-                                <a href="#" title="">
-                                    <img src="https://cdn3.ultracasas.com/dyn/yastaimages/73456361d736742649cb75bd5641ead1b0e702" class="img-responsive img-user-list-destacados">
-                                                                                <img src="https://cdn3.ultracasas.com/dyn/yastaimages/778054803755af8078d981e5701510d6b29863" class="img-responsive img-company-list-destacados">
-                                                                            </a>
-                            </li>
-                                                                    </ul>
-            </div>
-            <div class="inmuebles-item-precio inmuebles-item-precio-grid">
-                <h4>$us                        . 1,100</h4>
-                <ul class="list-inline">
-                                                <li class="no-padding icon-default-color margin-left-5px">3                                <svg class="svg-inline--fa fa-bed fa-w-20" aria-hidden="true" data-prefix="fas" data-icon="bed" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M176 256c44.11 0 80-35.89 80-80s-35.89-80-80-80-80 35.89-80 80 35.89 80 80 80zm352-128H304c-8.84 0-16 7.16-16 16v144H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v352c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h512v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16V240c0-61.86-50.14-112-112-112z"></path></svg><!-- <i class="fas fa-bed"></i> --></li>
-                                                                        <li class="no-padding icon-default-color margin-left-5px">2                                <svg class="svg-inline--fa fa-bath fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="bath" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M488 256H80V112c0-17.645 14.355-32 32-32 11.351 0 21.332 5.945 27.015 14.88-16.492 25.207-14.687 59.576 6.838 83.035-4.176 4.713-4.021 11.916.491 16.428l11.314 11.314c4.686 4.686 12.284 4.686 16.971 0l95.03-95.029c4.686-4.686 4.686-12.284 0-16.971l-11.314-11.314c-4.512-4.512-11.715-4.666-16.428-.491-17.949-16.469-42.294-21.429-64.178-15.365C163.281 45.667 139.212 32 112 32c-44.112 0-80 35.888-80 80v144h-8c-13.255 0-24 10.745-24 24v16c0 13.255 10.745 24 24 24h8v32c0 28.43 12.362 53.969 32 71.547V456c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-8h256v8c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-32.453c19.638-17.578 32-43.117 32-71.547v-32h8c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"></path></svg><!-- <i class="fas fa-bath"></i> --></li>
-                                                                                                <li class="no-padding icon-default-color margin-left-5px">136.00                                <strong>m<sup>2</sup></strong></li>
-                                        </ul>
-            </div>
-        </div>
-    </div>
-            <div class="inmuebles-item col-md-3 grid-list margin-bottom-15px" itemscope="" itemtype="http://schema.org/SingleFamilyResidence">
-        <input type="hidden" value="112156" name="pk-static">
-        <span class="display-none" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-            <span itemprop="streetAddress">Zona Norte km. 8.5 CONDOMINIO CERRADO</span>
-            <span itemprop="addressLocality">Santa Cruz de la Sierra</span>
-            <span itemprop="addressRegion">Santa Cruz</span>
-        </span>
-        <span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
-            <meta itemprop="latitude" content="-17.705952">
-            <meta itemprop="longitude" content="-63.168350">
-        </span>
-
-        <div class="swiper-container inmuebles-item-gallery static-swiper-container swiper-container-112156 swiper-container-horizontal" style="max-height: 150px!important;" data-id-main-photo="5060334" data-id-second-photo="https://cdn4.ultracasas.com/dyn/yastaimages/7e9880860042155899b9741289c2896a8b0fc5" data-id-inmueble="112156" tapped="disabled">
-                                <div class="count-fotos-container-destacados" style="background-color: #000000a3;">
-                    <a onclick="oPage.getImagesOnDetalleInmueble(this)" type-slides="IMAGES" type-property="INMUEBLE" primary="112156"><svg class="svg-inline--fa fa-th fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="th" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm32-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm386.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24z"></path></svg><!-- <i class="fas fa-th"></i> -->
-                        <span id="contador-photoswiper">1</span>/21 </a>
-                </div>
-                                                                <div class="label-destaca"><figure class="ribbon ribbon-static ribbon-static-horizontal ribbon-3"><span>Plus </span></figure></div>
-                            <div class="fav" primary="112156" id-plan="3" price="88900" onclick=" oPage.getRegisterPanel(this); oPage.setFavoriteWithoutRegister(this); ">
-                <a href="javascript:void(0)"><svg class="svg-inline--fa fa-heart fa-w-16 no-favorite" aria-hidden="true" data-prefix="far" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M458.4 64.3C400.6 15.7 311.3 23 256 79.3 200.7 23 111.4 15.6 53.6 64.3-21.6 127.6-10.6 230.8 43 285.5l175.4 178.7c10 10.2 23.4 15.9 37.6 15.9 14.3 0 27.6-5.6 37.6-15.8L469 285.6c53.5-54.7 64.7-157.9-10.6-221.3zm-23.6 187.5L259.4 430.5c-2.4 2.4-4.4 2.4-6.8 0L77.2 251.8c-36.5-37.2-43.9-107.6 7.3-150.7 38.9-32.7 98.9-27.8 136.5 10.5l35 35.7 35-35.7c37.8-38.5 97.8-43.2 136.5-10.6 51.1 43.1 43.5 113.9 7.3 150.8z"></path></svg><!-- <i class="far fa-heart no-favorite"></i> --></a>
-            </div>
-            <div class="swiper-wrapper" primary="112156" style="transform: translate3d(-255px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-carretera-norte-zona-norte-km-santa-cruz-de-la-sierra-112156">
-                        <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/7e9880860042155899b9741289c2896a8b0fc5">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-carretera-norte-zona-norte-km-santa-cruz-de-la-sierra-112156">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7d5590a6f073f399567c5db059fdabe89d3865">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-carretera-norte-zona-norte-km-santa-cruz-de-la-sierra-112156">
-                        <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/7e9880860042155899b9741289c2896a8b0fc5">
-                    </a>
-                </div>
-            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-carretera-norte-zona-norte-km-santa-cruz-de-la-sierra-112156">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7d5590a6f073f399567c5db059fdabe89d3865">
-                    </a>
-                </div></div>
-            <div class="swiper-button-next swiper-button-next-112156" href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-carretera-norte-zona-norte-km-santa-cruz-de-la-sierra-112156" primary="112156"></div>
-            <div class="swiper-button-prev swiper-button-prev-112156" href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-carretera-norte-zona-norte-km-santa-cruz-de-la-sierra-112156" primary="112156"></div>
-        </div>
-        <div class="inmuebles-item-caption">
-            <div class="inmuebles-item-titular pos-relative overflow-visible">
-                <div class="inmuebles-item-titular-tit">
-                    <a href="https://www.ultracasas.com/bo/inmueble/casa-en-venta-carretera-norte-zona-norte-km-santa-cruz-de-la-sierra-112156">
-                                                    <h2 class="text-ellipsis">Zona Norte km. 8.5 CONDOMINIO CERRADO</h2>
-                    </a>
-
-                    <h3 class="text-ellipsis line-height-25px">Carretera Norte                            , Santa Cruz de la Sierra - Casa en Venta</h3>
-                </div>
-                <ul class="inmuebles-item-titular-thumbnail list-inline text-right">
-                                                                                <li class="width-100-percent">
-                                <a href="#" title="">
-                                    <img src="https://cdn5.ultracasas.com/dyn/yastaimages/798679e72453d657882496f56fb0b46fba44b4" class="img-responsive img-user-list-destacados">
-                                                                        </a>
-                            </li>
-                                                                    </ul>
-            </div>
-            <div class="inmuebles-item-precio inmuebles-item-precio-grid">
-                <h4>$us                        . 88,900</h4>
-                <ul class="list-inline">
-                                                <li class="no-padding icon-default-color margin-left-5px">3                                <svg class="svg-inline--fa fa-bed fa-w-20" aria-hidden="true" data-prefix="fas" data-icon="bed" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M176 256c44.11 0 80-35.89 80-80s-35.89-80-80-80-80 35.89-80 80 35.89 80 80 80zm352-128H304c-8.84 0-16 7.16-16 16v144H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v352c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h512v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16V240c0-61.86-50.14-112-112-112z"></path></svg><!-- <i class="fas fa-bed"></i> --></li>
-                                                                        <li class="no-padding icon-default-color margin-left-5px">3                                <svg class="svg-inline--fa fa-bath fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="bath" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M488 256H80V112c0-17.645 14.355-32 32-32 11.351 0 21.332 5.945 27.015 14.88-16.492 25.207-14.687 59.576 6.838 83.035-4.176 4.713-4.021 11.916.491 16.428l11.314 11.314c4.686 4.686 12.284 4.686 16.971 0l95.03-95.029c4.686-4.686 4.686-12.284 0-16.971l-11.314-11.314c-4.512-4.512-11.715-4.666-16.428-.491-17.949-16.469-42.294-21.429-64.178-15.365C163.281 45.667 139.212 32 112 32c-44.112 0-80 35.888-80 80v144h-8c-13.255 0-24 10.745-24 24v16c0 13.255 10.745 24 24 24h8v32c0 28.43 12.362 53.969 32 71.547V456c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-8h256v8c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-32.453c19.638-17.578 32-43.117 32-71.547v-32h8c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"></path></svg><!-- <i class="fas fa-bath"></i> --></li>
-                                                                                                <li class="no-padding icon-default-color margin-left-5px">130.00                                <strong>m<sup>2</sup></strong></li>
-                                        </ul>
-            </div>
-        </div>
-    </div>
-            <div class="inmuebles-item col-md-3 grid-list margin-bottom-15px" itemscope="" itemtype="http://schema.org/SingleFamilyResidence">
-        <input type="hidden" value="599372" name="pk-static">
-        <span class="display-none" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-            <span itemprop="streetAddress">Av. Doble Vía La Guardia 4to Anillo B. Las Palmas</span>
-            <span itemprop="addressLocality">Santa Cruz de la Sierra</span>
-            <span itemprop="addressRegion">Santa Cruz</span>
-        </span>
-        <span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
-            <meta itemprop="latitude" content="-17.808451">
-            <meta itemprop="longitude" content="-63.207161">
-        </span>
-
-        <div class="swiper-container inmuebles-item-gallery static-swiper-container swiper-container-599372 swiper-container-horizontal" style="max-height: 150px!important;" data-id-main-photo="9608570" data-id-second-photo="https://cdn5.ultracasas.com/dyn/yastaimages/775e19d692b0e67075373012981053e8050c96" data-id-inmueble="599372" tapped="disabled">
-                                <div class="count-fotos-container-destacados" style="background-color: #000000a3;">
-                    <a onclick="oPage.getImagesOnDetalleInmueble(this)" type-slides="IMAGES" type-property="INMUEBLE" primary="599372"><svg class="svg-inline--fa fa-th fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="th" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm32-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm386.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24z"></path></svg><!-- <i class="fas fa-th"></i> -->
-                        <span id="contador-photoswiper">1</span>/10 </a>
-                </div>
-                                                                <div class="label-destaca"><figure class="ribbon ribbon-static ribbon-static-horizontal ribbon-3"><span>Plus </span></figure></div>
-                            <div class="fav" primary="599372" id-plan="3" price="155000" onclick=" oPage.getRegisterPanel(this); oPage.setFavoriteWithoutRegister(this); ">
-                <a href="javascript:void(0)"><svg class="svg-inline--fa fa-heart fa-w-16 no-favorite" aria-hidden="true" data-prefix="far" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M458.4 64.3C400.6 15.7 311.3 23 256 79.3 200.7 23 111.4 15.6 53.6 64.3-21.6 127.6-10.6 230.8 43 285.5l175.4 178.7c10 10.2 23.4 15.9 37.6 15.9 14.3 0 27.6-5.6 37.6-15.8L469 285.6c53.5-54.7 64.7-157.9-10.6-221.3zm-23.6 187.5L259.4 430.5c-2.4 2.4-4.4 2.4-6.8 0L77.2 251.8c-36.5-37.2-43.9-107.6 7.3-150.7 38.9-32.7 98.9-27.8 136.5 10.5l35 35.7 35-35.7c37.8-38.5 97.8-43.2 136.5-10.6 51.1 43.1 43.5 113.9 7.3 150.8z"></path></svg><!-- <i class="far fa-heart no-favorite"></i> --></a>
-            </div>
-            <div class="swiper-wrapper" primary="599372" style="transform: translate3d(-255px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-599372">
-                        <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/775e19d692b0e67075373012981053e8050c96">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-599372">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7dec596ae5dc2f72de804a54e7a45818fc08a6">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-599372">
-                        <img class="adapt-image-grid" src="https://cdn5.ultracasas.com/dyn/yastaimages/775e19d692b0e67075373012981053e8050c96">
-                    </a>
-                </div>
-            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-599372">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7dec596ae5dc2f72de804a54e7a45818fc08a6">
-                    </a>
-                </div></div>
-            <div class="swiper-button-next swiper-button-next-599372" href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-599372" primary="599372"></div>
-            <div class="swiper-button-prev swiper-button-prev-599372" href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-599372" primary="599372"></div>
-        </div>
-        <div class="inmuebles-item-caption">
-            <div class="inmuebles-item-titular pos-relative overflow-visible">
-                <div class="inmuebles-item-titular-tit">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-venta-entre-3er-y-4to-anillo-santa-cruz-de-la-sierra-599372">
-                                                    <h2 class="text-ellipsis">Av. Doble Vía La Guardia 4to Anillo B. Las Palmas</h2>
-                    </a>
-
-                    <h3 class="text-ellipsis line-height-25px">Entre 3er y 4to anillo Oeste                            , Santa Cruz de la Sierra - Departamento en Venta</h3>
-                </div>
-                <ul class="inmuebles-item-titular-thumbnail list-inline text-right">
-                                        </ul>
-            </div>
-            <div class="inmuebles-item-precio inmuebles-item-precio-grid">
-                <h4>$us                        . 155,000</h4>
-                <ul class="list-inline">
-                                                <li class="no-padding icon-default-color margin-left-5px">3                                <svg class="svg-inline--fa fa-bed fa-w-20" aria-hidden="true" data-prefix="fas" data-icon="bed" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M176 256c44.11 0 80-35.89 80-80s-35.89-80-80-80-80 35.89-80 80 35.89 80 80 80zm352-128H304c-8.84 0-16 7.16-16 16v144H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v352c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h512v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16V240c0-61.86-50.14-112-112-112z"></path></svg><!-- <i class="fas fa-bed"></i> --></li>
-                                                                        <li class="no-padding icon-default-color margin-left-5px">4                                <svg class="svg-inline--fa fa-bath fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="bath" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M488 256H80V112c0-17.645 14.355-32 32-32 11.351 0 21.332 5.945 27.015 14.88-16.492 25.207-14.687 59.576 6.838 83.035-4.176 4.713-4.021 11.916.491 16.428l11.314 11.314c4.686 4.686 12.284 4.686 16.971 0l95.03-95.029c4.686-4.686 4.686-12.284 0-16.971l-11.314-11.314c-4.512-4.512-11.715-4.666-16.428-.491-17.949-16.469-42.294-21.429-64.178-15.365C163.281 45.667 139.212 32 112 32c-44.112 0-80 35.888-80 80v144h-8c-13.255 0-24 10.745-24 24v16c0 13.255 10.745 24 24 24h8v32c0 28.43 12.362 53.969 32 71.547V456c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-8h256v8c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-32.453c19.638-17.578 32-43.117 32-71.547v-32h8c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"></path></svg><!-- <i class="fas fa-bath"></i> --></li>
-                                                                                                <li class="no-padding icon-default-color margin-left-5px">148.00                                <strong>m<sup>2</sup></strong></li>
-                                        </ul>
-            </div>
-        </div>
-    </div>
-            <div class="inmuebles-item col-md-3 grid-list margin-bottom-15px" itemscope="" itemtype="http://schema.org/SingleFamilyResidence">
-        <input type="hidden" value="597734" name="pk-static">
-        <span class="display-none" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-            <span itemprop="streetAddress">LAS PALMAS DEPARTAMENTO DE 3 DORM EN ALQUILER</span>
-            <span itemprop="addressLocality">Santa Cruz de la Sierra</span>
-            <span itemprop="addressRegion">Santa Cruz</span>
-        </span>
-        <span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
-            <meta itemprop="latitude" content="-17.802357">
-            <meta itemprop="longitude" content="-63.203869">
-        </span>
-
-        <div class="swiper-container inmuebles-item-gallery static-swiper-container swiper-container-597734 swiper-container-horizontal" style="max-height: 150px!important;" data-id-main-photo="9538899" data-id-second-photo="https://cdn3.ultracasas.com/dyn/yastaimages/7791196922ce7a9f794b821d762685b8843235" data-id-inmueble="597734" tapped="disabled">
-                                <div class="count-fotos-container-destacados" style="background-color: #000000a3;">
-                    <a onclick="oPage.getImagesOnDetalleInmueble(this)" type-slides="IMAGES" type-property="INMUEBLE" primary="597734"><svg class="svg-inline--fa fa-th fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="th" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm32-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm386.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24z"></path></svg><!-- <i class="fas fa-th"></i> -->
-                        <span id="contador-photoswiper">1</span>/8 </a>
-                </div>
-                                                                <div class="label-destaca"><figure class="ribbon ribbon-static ribbon-static-horizontal ribbon-3"><span>Plus </span></figure></div>
-                            <div class="fav" primary="597734" id-plan="3" price="750" onclick=" oPage.getRegisterPanel(this); oPage.setFavoriteWithoutRegister(this); ">
-                <a href="javascript:void(0)"><svg class="svg-inline--fa fa-heart fa-w-16 no-favorite" aria-hidden="true" data-prefix="far" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M458.4 64.3C400.6 15.7 311.3 23 256 79.3 200.7 23 111.4 15.6 53.6 64.3-21.6 127.6-10.6 230.8 43 285.5l175.4 178.7c10 10.2 23.4 15.9 37.6 15.9 14.3 0 27.6-5.6 37.6-15.8L469 285.6c53.5-54.7 64.7-157.9-10.6-221.3zm-23.6 187.5L259.4 430.5c-2.4 2.4-4.4 2.4-6.8 0L77.2 251.8c-36.5-37.2-43.9-107.6 7.3-150.7 38.9-32.7 98.9-27.8 136.5 10.5l35 35.7 35-35.7c37.8-38.5 97.8-43.2 136.5-10.6 51.1 43.1 43.5 113.9 7.3 150.8z"></path></svg><!-- <i class="far fa-heart no-favorite"></i> --></a>
-            </div>
-            <div class="swiper-wrapper" primary="597734" style="transform: translate3d(-255px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-las-palmas-las-santa-cruz-de-la-sierra-597734">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7791196922ce7a9f794b821d762685b8843235">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-las-palmas-las-santa-cruz-de-la-sierra-597734">
-                        <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/7dac95733618669da02d9424c8e2ebcf2a8df9">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-las-palmas-las-santa-cruz-de-la-sierra-597734">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/7791196922ce7a9f794b821d762685b8843235">
-                    </a>
-                </div>
-            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-las-palmas-las-santa-cruz-de-la-sierra-597734">
-                        <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/7dac95733618669da02d9424c8e2ebcf2a8df9">
-                    </a>
-                </div></div>
-            <div class="swiper-button-next swiper-button-next-597734" href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-las-palmas-las-santa-cruz-de-la-sierra-597734" primary="597734"></div>
-            <div class="swiper-button-prev swiper-button-prev-597734" href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-las-palmas-las-santa-cruz-de-la-sierra-597734" primary="597734"></div>
-        </div>
-        <div class="inmuebles-item-caption">
-            <div class="inmuebles-item-titular pos-relative overflow-visible">
-                <div class="inmuebles-item-titular-tit">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-las-palmas-las-santa-cruz-de-la-sierra-597734">
-                                                    <h2 class="text-ellipsis">LAS PALMAS DEPARTAMENTO DE 3 DORM EN ALQUILER</h2>
-                    </a>
-
-                    <h3 class="text-ellipsis line-height-25px">Las Palmas                            , Santa Cruz de la Sierra - Departamento en Alquiler</h3>
-                </div>
-                <ul class="inmuebles-item-titular-thumbnail list-inline text-right">
-                                                                                <li class="width-100-percent">
-                                <a href="#" title="">
-                                    <img src="https://cdn5.ultracasas.com/dyn/yastaimages/78a774ae2990fa38a6ab798c753ada8be17626" class="img-responsive img-user-list-destacados">
-                                                                                <img src="https://cdn5.ultracasas.com/dyn/yastaimages/7af5757d4ba18e7af2e0768352f02360d2c6d9" class="img-responsive img-company-list-destacados">
-                                                                            </a>
-                            </li>
-                                                                    </ul>
-            </div>
-            <div class="inmuebles-item-precio inmuebles-item-precio-grid">
-                <h4>$us                        . 750</h4>
-                <ul class="list-inline">
-                                                <li class="no-padding icon-default-color margin-left-5px">3                                <svg class="svg-inline--fa fa-bed fa-w-20" aria-hidden="true" data-prefix="fas" data-icon="bed" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M176 256c44.11 0 80-35.89 80-80s-35.89-80-80-80-80 35.89-80 80 35.89 80 80 80zm352-128H304c-8.84 0-16 7.16-16 16v144H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v352c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h512v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16V240c0-61.86-50.14-112-112-112z"></path></svg><!-- <i class="fas fa-bed"></i> --></li>
-                                                                        <li class="no-padding icon-default-color margin-left-5px">2                                <svg class="svg-inline--fa fa-bath fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="bath" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M488 256H80V112c0-17.645 14.355-32 32-32 11.351 0 21.332 5.945 27.015 14.88-16.492 25.207-14.687 59.576 6.838 83.035-4.176 4.713-4.021 11.916.491 16.428l11.314 11.314c4.686 4.686 12.284 4.686 16.971 0l95.03-95.029c4.686-4.686 4.686-12.284 0-16.971l-11.314-11.314c-4.512-4.512-11.715-4.666-16.428-.491-17.949-16.469-42.294-21.429-64.178-15.365C163.281 45.667 139.212 32 112 32c-44.112 0-80 35.888-80 80v144h-8c-13.255 0-24 10.745-24 24v16c0 13.255 10.745 24 24 24h8v32c0 28.43 12.362 53.969 32 71.547V456c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-8h256v8c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-32.453c19.638-17.578 32-43.117 32-71.547v-32h8c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"></path></svg><!-- <i class="fas fa-bath"></i> --></li>
-                                                                                                <li class="no-padding icon-default-color margin-left-5px">133.00                                <strong>m<sup>2</sup></strong></li>
-                                        </ul>
-            </div>
-        </div>
-    </div>
-            <div class="inmuebles-item col-md-3 grid-list margin-bottom-15px" itemscope="" itemtype="http://schema.org/SingleFamilyResidence">
-        <input type="hidden" value="599570" name="pk-static">
-        <span class="display-none" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-            <span itemprop="streetAddress">DEPARTAMENTO EQUIPADO SOBRE AVENIDA BENI</span>
-            <span itemprop="addressLocality">Santa Cruz de la Sierra</span>
-            <span itemprop="addressRegion">Santa Cruz</span>
-        </span>
-        <span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
-            <meta itemprop="latitude" content="-17.748747">
-            <meta itemprop="longitude" content="-63.168552">
-        </span>
-
-        <div class="swiper-container inmuebles-item-gallery static-swiper-container swiper-container-599570 swiper-container-horizontal" style="max-height: 150px!important;" data-id-main-photo="9617611" data-id-second-photo="https://cdn4.ultracasas.com/dyn/yastaimages/709f96031df7dd5097b793e6f1a55a280d6c99" data-id-inmueble="599570" tapped="disabled">
-                                <div class="count-fotos-container-destacados" style="background-color: #000000a3;">
-                    <a onclick="oPage.getImagesOnDetalleInmueble(this)" type-slides="IMAGES" type-property="INMUEBLE" primary="599570"><svg class="svg-inline--fa fa-th fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="th" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm32-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm386.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24z"></path></svg><!-- <i class="fas fa-th"></i> -->
-                        <span id="contador-photoswiper">1</span>/8 </a>
-                </div>
-                                                                <div class="label-destaca"><figure class="ribbon ribbon-static ribbon-static-horizontal ribbon-3"><span>Plus </span></figure></div>
-                            <div class="fav" primary="599570" id-plan="3" price="550" onclick=" oPage.getRegisterPanel(this); oPage.setFavoriteWithoutRegister(this); ">
-                <a href="javascript:void(0)"><svg class="svg-inline--fa fa-heart fa-w-16 no-favorite" aria-hidden="true" data-prefix="far" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M458.4 64.3C400.6 15.7 311.3 23 256 79.3 200.7 23 111.4 15.6 53.6 64.3-21.6 127.6-10.6 230.8 43 285.5l175.4 178.7c10 10.2 23.4 15.9 37.6 15.9 14.3 0 27.6-5.6 37.6-15.8L469 285.6c53.5-54.7 64.7-157.9-10.6-221.3zm-23.6 187.5L259.4 430.5c-2.4 2.4-4.4 2.4-6.8 0L77.2 251.8c-36.5-37.2-43.9-107.6 7.3-150.7 38.9-32.7 98.9-27.8 136.5 10.5l35 35.7 35-35.7c37.8-38.5 97.8-43.2 136.5-10.6 51.1 43.1 43.5 113.9 7.3 150.8z"></path></svg><!-- <i class="far fa-heart no-favorite"></i> --></a>
-            </div>
-            <div class="swiper-wrapper" primary="599570" style="transform: translate3d(-255px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-entre-4to-y-5to-santa-cruz-de-la-sierra-599570">
-                        <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/709f96031df7dd5097b793e6f1a55a280d6c99">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-entre-4to-y-5to-santa-cruz-de-la-sierra-599570">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/759349a61ab3dd11599d004ee20561a72f1676">
-                    </a>
-                </div>
-                <div class="swiper-slide swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-entre-4to-y-5to-santa-cruz-de-la-sierra-599570">
-                        <img class="adapt-image-grid" src="https://cdn4.ultracasas.com/dyn/yastaimages/709f96031df7dd5097b793e6f1a55a280d6c99">
-                    </a>
-                </div>
-            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 255px;">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-entre-4to-y-5to-santa-cruz-de-la-sierra-599570">
-                        <img class="adapt-image-grid" src="https://cdn3.ultracasas.com/dyn/yastaimages/759349a61ab3dd11599d004ee20561a72f1676">
-                    </a>
-                </div></div>
-            <div class="swiper-button-next swiper-button-next-599570" href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-entre-4to-y-5to-santa-cruz-de-la-sierra-599570" primary="599570"></div>
-            <div class="swiper-button-prev swiper-button-prev-599570" href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-entre-4to-y-5to-santa-cruz-de-la-sierra-599570" primary="599570"></div>
-        </div>
-        <div class="inmuebles-item-caption">
-            <div class="inmuebles-item-titular pos-relative overflow-visible">
-                <div class="inmuebles-item-titular-tit">
-                    <a href="https://www.ultracasas.com/bo/inmueble/departamento-en-alquiler-entre-4to-y-5to-santa-cruz-de-la-sierra-599570">
-                                                    <h2 class="text-ellipsis">DEPARTAMENTO EQUIPADO SOBRE AVENIDA BENI</h2>
-                    </a>
-
-                    <h3 class="text-ellipsis line-height-25px">Entre 4to y 5to anillo Norte                            , Santa Cruz de la Sierra - Departamento en Alquiler</h3>
-                </div>
-                <ul class="inmuebles-item-titular-thumbnail list-inline text-right">
-                                                                                <li class="width-100-percent">
-                                <a href="#" title="">
-                                    <img src="https://cdn3.ultracasas.com/dyn/yastaimages/726286221942d66862e30e1f2d16b2227f9615" class="img-responsive img-user-list-destacados">
-                                                                                <img src="https://cdn4.ultracasas.com/dyn/yastaimages/7e561463da914cbfe5639b5e66b1058892a458" class="img-responsive img-company-list-destacados">
-                                                                            </a>
-                            </li>
-                                                                    </ul>
-            </div>
-            <div class="inmuebles-item-precio inmuebles-item-precio-grid">
-                <h4>$us                        . 550</h4>
-                <ul class="list-inline">
-                                                <li class="no-padding icon-default-color margin-left-5px">2                                <svg class="svg-inline--fa fa-bed fa-w-20" aria-hidden="true" data-prefix="fas" data-icon="bed" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M176 256c44.11 0 80-35.89 80-80s-35.89-80-80-80-80 35.89-80 80 35.89 80 80 80zm352-128H304c-8.84 0-16 7.16-16 16v144H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v352c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h512v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16V240c0-61.86-50.14-112-112-112z"></path></svg><!-- <i class="fas fa-bed"></i> --></li>
-                                                                        <li class="no-padding icon-default-color margin-left-5px">3                                <svg class="svg-inline--fa fa-bath fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="bath" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M488 256H80V112c0-17.645 14.355-32 32-32 11.351 0 21.332 5.945 27.015 14.88-16.492 25.207-14.687 59.576 6.838 83.035-4.176 4.713-4.021 11.916.491 16.428l11.314 11.314c4.686 4.686 12.284 4.686 16.971 0l95.03-95.029c4.686-4.686 4.686-12.284 0-16.971l-11.314-11.314c-4.512-4.512-11.715-4.666-16.428-.491-17.949-16.469-42.294-21.429-64.178-15.365C163.281 45.667 139.212 32 112 32c-44.112 0-80 35.888-80 80v144h-8c-13.255 0-24 10.745-24 24v16c0 13.255 10.745 24 24 24h8v32c0 28.43 12.362 53.969 32 71.547V456c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-8h256v8c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-32.453c19.638-17.578 32-43.117 32-71.547v-32h8c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"></path></svg><!-- <i class="fas fa-bath"></i> --></li>
-                                                                                                <li class="no-padding icon-default-color margin-left-5px">79.00                                <strong>m<sup>2</sup></strong></li>
-                                        </ul>
-            </div>
-        </div>
-    </div>
-                </div>
-    </div>
-</section>
 <section class="destacados" style="padding: 0px 0px 40px 0px;">
 <div class="container">
-    <div class="row inmuebles">
-        <div class="col-md-12 text-center">
-            <a class="btn btn-secondary btn-default-gray" href="https://www.ultracasas.com/agentes/listado">Listado de Agentes Inmobiliarios</a>
-            <a class="btn btn-secondary btn-default-gray" href="https://www.ultracasas.com/inmobiliarias/listado">Listado de Inmobiliarias</a>
-        </div>
+    <div class="row inmuebles">   
     </div>
 </div>
 </section>
@@ -2481,114 +1901,6 @@ Quinto Anillo, entre Av Alemana y 2 de Agosto (Zona Norte)	</span>
     </div>
 </div>
 </div>
-<div class="container listado-completo">
-    <div class="">
-        <h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-icon-orange" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-icon-orange"></i> --> Listado completo de
-            bienes inmuebles, propiedades, terrenos, lotes, quintas, casas, departamentos, oficinas, galpones,
-            locales comerciales.</h5>
-    </div>
-    <div class="row mas-buscados">
-        <div class="col-lg-2 col-md-2 col-sm-2">
-            <h5><svg class="svg-inline--fa fa-home fa-w-18 jdc-icon-orange" aria-hidden="true" data-prefix="fa" data-icon="home" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M488 312.7V456c0 13.3-10.7 24-24 24H348c-6.6 0-12-5.4-12-12V356c0-6.6-5.4-12-12-12h-72c-6.6 0-12 5.4-12 12v112c0 6.6-5.4 12-12 12H112c-13.3 0-24-10.7-24-24V312.7c0-3.6 1.6-7 4.4-9.3l188-154.8c4.4-3.6 10.8-3.6 15.3 0l188 154.8c2.7 2.3 4.3 5.7 4.3 9.3zm83.6-60.9L488 182.9V44.4c0-6.6-5.4-12-12-12h-56c-6.6 0-12 5.4-12 12V117l-89.5-73.7c-17.7-14.6-43.3-14.6-61 0L4.4 251.8c-5.1 4.2-5.8 11.8-1.6 16.9l25.5 31c4.2 5.1 11.8 5.8 16.9 1.6l235.2-193.7c4.4-3.6 10.8-3.6 15.3 0l235.2 193.7c5.1 4.2 12.7 3.5 16.9-1.6l25.5-31c4.2-5.2 3.4-12.7-1.7-16.9z"></path></svg><!-- <i class="fa fa-home jdc-icon-orange"></i> --> Casas</h5>
-        </div>
-        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
-            <div class="row">
-                                    <div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> La Paz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-alquiler--en--la-paz">Casas en Alquiler en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--la-paz">Casas en Venta en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-anticretico--en--la-paz">Casas en Anticretico en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--copacabana---la-paz">Casas en Venta en Copacabana</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--coroico---la-paz">Casas en Venta en Coroico</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--el-alto---la-paz">Casas en Venta en El Alto</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-alquiler--en--el-alto---la-paz">Casas en Alquiler en El Alto</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Cochabamba</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--cochabamba">Casas en Venta en Cochabamba</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-alquiler--en--cochabamba">Casas en Alquiler en Cochabamba</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-anticretico--en--cochabamba">Casas en Anticretico en Cochabamba</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Santa Cruz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-anticretico--en--santa-cruz-de-la-sierra---santa-cruz">Casas en Anticretico en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-alquiler--en--santa-cruz-de-la-sierra---santa-cruz">Casas en Alquiler en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--santa-cruz-de-la-sierra---santa-cruz">Casas en Venta en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--buena-vista---santa-cruz">Casas en Venta en Buena Vista</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--cotoca---santa-cruz">Casas en Venta en Cotoca</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-alquiler--en--cotoca---santa-cruz">Casas en Alquiler en Cotoca</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--la-guardia---santa-cruz">Casas en Venta en La Guardia</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--montero---santa-cruz">Casas en Venta en Montero</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--puerto-suarez---santa-cruz">Casas en Venta en Puerto Suarez</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--samaipata---santa-cruz">Casas en Venta en Samaipata</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--san-jose---santa-cruz">Casas en Venta en San Jose</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--warnes---santa-cruz">Casas en Venta en Warnes</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Otros</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--riberalta---beni" class="search-link">Casas en Riberalta</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--trinidad---beni" class="search-link">Casas en Trinidad</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--sucre---chuquisaca" class="search-link">Casas en Sucre</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--oruro" class="search-link">Casas en Oruro</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-venta--en--cobija---pando" class="search-link">Casas en Cobija</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/casa-en-alquiler--en--tarija" class="search-link">Casas en Tarija</a><br></div>                </div>
-        </div>
-    </div>
-    <hr>
-    <div class="row mas-buscados">
-        <div class="col-lg-2 col-md-2 col-sm-2">
-            <h5><svg class="svg-inline--fa fa-building fa-w-14 jdc-icon-orange" aria-hidden="true" data-prefix="fa" data-icon="building" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M436 480h-20V24c0-13.255-10.745-24-24-24H56C42.745 0 32 10.745 32 24v456H12c-6.627 0-12 5.373-12 12v20h448v-20c0-6.627-5.373-12-12-12zM128 76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76zm0 96c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40zm52 148h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12zm76 160h-64v-84c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v84zm64-172c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40z"></path></svg><!-- <i class="fa fa-building jdc-icon-orange"></i> --> Departamentos</h5>
-        </div>
-        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
-            <div class="row">
-                                    <div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> La Paz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-anticretico--en--la-paz">Departamentos en Anticretico en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-alquiler--en--la-paz">Departamentos en Alquiler en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-venta--en--la-paz">Departamentos en Venta en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-anticretico--en--el-alto---la-paz">Departamentos en Anticretico en El Alto</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-venta--en--el-alto---la-paz">Departamentos en Venta en El Alto</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-alquiler--en--viacha---la-paz">Departamentos en Alquiler en Viacha</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Cochabamba</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-anticretico--en--cochabamba">Departamentos en Anticretico en Cochabamba</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-alquiler--en--cochabamba">Departamentos en Alquiler en Cochabamba</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-venta--en--cochabamba">Departamentos en Venta en Cochabamba</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Santa Cruz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-venta--en--santa-cruz-de-la-sierra---santa-cruz">Departamentos en Venta en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-anticretico--en--santa-cruz-de-la-sierra---santa-cruz">Departamentos en Anticretico en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-alquiler--en--santa-cruz-de-la-sierra---santa-cruz">Departamentos en Alquiler en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-alquiler--en--robore---santa-cruz">Departamentos en Alquiler en Robore</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Otros</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-alquiler--en--san-borja---beni" class="search-link">Departamentos en San Borja</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-venta--en--sucre---chuquisaca" class="search-link">Departamentos en Sucre</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/departamento-en-alquiler--en--tarija" class="search-link">Departamentos en Tarija</a><br></div>                </div>
-        </div>
-    </div>
-    <hr>
-    <div class="row mas-buscados">
-        <div class="col-lg-2 col-md-2 col-sm-2">
-            <h5><svg class="svg-inline--fa fa-object-group fa-w-16 jdc-icon-orange" aria-hidden="true" data-prefix="fa" data-icon="object-group" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M480 128V96h20c6.627 0 12-5.373 12-12V44c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v20H64V44c0-6.627-5.373-12-12-12H12C5.373 32 0 37.373 0 44v40c0 6.627 5.373 12 12 12h20v320H12c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-20h384v20c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12h-20V128zM96 276V140c0-6.627 5.373-12 12-12h168c6.627 0 12 5.373 12 12v136c0 6.627-5.373 12-12 12H108c-6.627 0-12-5.373-12-12zm320 96c0 6.627-5.373 12-12 12H236c-6.627 0-12-5.373-12-12v-52h72c13.255 0 24-10.745 24-24v-72h84c6.627 0 12 5.373 12 12v136z"></path></svg><!-- <i class="fa fa-object-group jdc-icon-orange"></i> --> Terrenos</h5>
-        </div>
-        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
-            <div class="row">
-                                    <div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> La Paz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--la-paz">Terrenos en Venta en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-alquiler--en--la-paz">Terrenos en Alquiler en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--caranavi---la-paz">Terrenos en Venta en Caranavi</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--el-alto---la-paz">Terrenos en Venta en El Alto</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-alquiler--en--el-alto---la-paz">Terrenos en Alquiler en El Alto</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Cochabamba</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--cochabamba">Terrenos en Venta en Cochabamba</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-anticretico--en--cochabamba">Terrenos en Anticretico en Cochabamba</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-alquiler--en--cochabamba">Terrenos en Alquiler en Cochabamba</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--quillacollo---cochabamba">Terrenos en Venta en Quillacollo</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Santa Cruz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-alquiler--en--santa-cruz-de-la-sierra---santa-cruz">Terrenos en Alquiler en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--santa-cruz-de-la-sierra---santa-cruz">Terrenos en Venta en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--buena-vista---santa-cruz">Terrenos en Venta en Buena Vista</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--cotoca---santa-cruz">Terrenos en Venta en Cotoca</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--la-guardia---santa-cruz">Terrenos en Venta en La Guardia</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--montero---santa-cruz">Terrenos en Venta en Montero</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--porongo---santa-cruz">Terrenos en Venta en Porongo</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--puerto-suarez---santa-cruz">Terrenos en Venta en Puerto Suarez</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--robore---santa-cruz">Terrenos en Venta en Robore</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--samaipata---santa-cruz">Terrenos en Venta en Samaipata</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--san-javier---santa-cruz">Terrenos en Venta en San Javier</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--warnes---santa-cruz">Terrenos en Venta en Warnes</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Otros</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--trinidad---beni" class="search-link">Terrenos en Trinidad</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--sucre---chuquisaca" class="search-link">Terrenos en Sucre</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--oruro" class="search-link">Terrenos en Oruro</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--potosí" class="search-link">Terrenos en Potosí</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/terreno-en-venta--en--tarija" class="search-link">Terrenos en Tarija</a><br></div>                </div>
-        </div>
-    </div>
-    <hr>
-    <div class="row mas-buscados">
-        <div class="col-lg-2 col-md-2 col-sm-2">
-            <h5><svg class="svg-inline--fa fa-building fa-w-14 jdc-icon-orange" aria-hidden="true" data-prefix="fa" data-icon="building" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M436 480h-20V24c0-13.255-10.745-24-24-24H56C42.745 0 32 10.745 32 24v456H12c-6.627 0-12 5.373-12 12v20h448v-20c0-6.627-5.373-12-12-12zM128 76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76zm0 96c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40zm52 148h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12zm76 160h-64v-84c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v84zm64-172c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40z"></path></svg><!-- <i class="fa fa-building jdc-icon-orange"></i> --> Oficinas</h5>
-        </div>
-        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
-            <div class="row">
-                                    <div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> La Paz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/oficina-en-alquiler--en--la-paz">Oficinas en Alquiler en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/oficina-en-venta--en--la-paz">Oficinas en Venta en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/oficina-en-venta--en--el-alto---la-paz">Oficinas en Venta en El Alto</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/oficina-en-alquiler--en--pucarani---la-paz">Oficinas en Alquiler en Pucarani</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Cochabamba</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/oficina-en-alquiler--en--cochabamba">Oficinas en Alquiler en Cochabamba</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/oficina-en-anticretico--en--cochabamba">Oficinas en Anticretico en Cochabamba</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/oficina-en-venta--en--cochabamba">Oficinas en Venta en Cochabamba</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Santa Cruz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/oficina-en-venta--en--santa-cruz-de-la-sierra---santa-cruz">Oficinas en Venta en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/oficina-en-anticretico--en--santa-cruz-de-la-sierra---santa-cruz">Oficinas en Anticretico en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/oficina-en-alquiler--en--santa-cruz-de-la-sierra---santa-cruz">Oficinas en Alquiler en Santa Cruz de la Sierra</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Otros</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/oficina-en-alquiler--en--tarija" class="search-link">Oficinas en Tarija</a><br></div>                </div>
-        </div>
-    </div>
-    <hr>
-    <div class="row mas-buscados">
-        <div class="col-lg-2 col-md-2 col-sm-2">
-            <h5><svg class="svg-inline--fa fa-building fa-w-14 jdc-icon-orange" aria-hidden="true" data-prefix="fa" data-icon="building" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M436 480h-20V24c0-13.255-10.745-24-24-24H56C42.745 0 32 10.745 32 24v456H12c-6.627 0-12 5.373-12 12v20h448v-20c0-6.627-5.373-12-12-12zM128 76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76zm0 96c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40zm52 148h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12zm76 160h-64v-84c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v84zm64-172c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40z"></path></svg><!-- <i class="fa fa-building jdc-icon-orange"></i> --> Locales Comerciales</h5>
-        </div>
-        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
-            <div class="row">
-                                    <div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> La Paz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/local-comercial-en-alquiler--en--la-paz" class="search-link">Locales comerciales en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/local-comercial-en-venta--en--coroico---la-paz" class="search-link">Locales comerciales en Coroico</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Cochabamba</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/local-comercial-en-anticretico--en--cochabamba" class="search-link">Locales comerciales en Cochabamba</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Santa Cruz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/local-comercial-en-venta--en--santa-cruz-de-la-sierra---santa-cruz" class="search-link">Locales comerciales en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/local-comercial-en-venta--en--samaipata---santa-cruz" class="search-link">Locales comerciales en Samaipata</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/local-comercial-en-venta--en--san-ignacio-de-velasco---santa-cruz" class="search-link">Locales comerciales en San Ignacio de Velasco</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Otros</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/local-comercial-en-venta--en--oruro" class="search-link">Locales comerciales en Oruro</a><br></div>                </div>
-        </div>
-    </div>
-    <hr>
-    <div class="row mas-buscados">
-        <div class="col-lg-2 col-md-2 col-sm-2">
-            <h5><svg class="svg-inline--fa fa-industry fa-w-16 jdc-icon-orange" aria-hidden="true" data-prefix="fa" data-icon="industry" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M475.115 163.781L336 252.309v-68.28c0-18.916-20.931-30.399-36.885-20.248L160 252.309V56c0-13.255-10.745-24-24-24H24C10.745 32 0 42.745 0 56v400c0 13.255 10.745 24 24 24h464c13.255 0 24-10.745 24-24V184.029c0-18.917-20.931-30.399-36.885-20.248z"></path></svg><!-- <i class="fa fa-industry jdc-icon-orange"></i> --> Galpones</h5>
-        </div>
-        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
-            <div class="row">
-                                    <div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> La Paz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/galpón-en-alquiler--en--la-paz" class="search-link">Galpones en La Paz</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/galpón-en-venta--en--el-alto---la-paz" class="search-link">Galpones en El Alto</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/galpón-en-alquiler--en--pucarani---la-paz" class="search-link">Galpones en Pucarani</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Cochabamba</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/galpón-en-venta--en--cochabamba" class="search-link">Galpones en Cochabamba</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Santa Cruz</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/galpón-en-alquiler--en--santa-cruz-de-la-sierra---santa-cruz" class="search-link">Galpones en Santa Cruz de la Sierra</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/galpón-en-alquiler--en--warnes---santa-cruz" class="search-link">Galpones en Warnes</a><br></div><div class="col-lg-3 col-md-3 col-sm-3"><h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Otros</h5><a href="https://www.ultracasas.com/bo/site-search/inmueble/galpón-en-venta--en--oruro" class="search-link">Galpones en Oruro</a><br><a href="https://www.ultracasas.com/bo/site-search/inmueble/galpón-en-alquiler--en--tarija" class="search-link">Galpones en Tarija</a><br></div>                </div>
-        </div>
-    </div>
-    <hr>
-    <div class="row mas-buscados">
-        <div class="col-lg-2 col-md-2 col-sm-2">
-            <h5><svg class="svg-inline--fa fa-building fa-w-14 jdc-icon-orange" aria-hidden="true" data-prefix="fa" data-icon="building" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M436 480h-20V24c0-13.255-10.745-24-24-24H56C42.745 0 32 10.745 32 24v456H12c-6.627 0-12 5.373-12 12v20h448v-20c0-6.627-5.373-12-12-12zM128 76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76zm0 96c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40zm52 148h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12zm76 160h-64v-84c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v84zm64-172c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40z"></path></svg><!-- <i class="fa fa-building jdc-icon-orange"></i> --> Proyectos</h5>
-        </div>
-        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
-            <div class="row">
-                                        <div class="col-lg-3 col-md-3 col-sm-3">
-                <h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> La Paz</h5>
-                            <a href="https://www.ultracasas.com/proyectos/La Paz/La Paz">Proyectos                        en La Paz</a><br>
-                
-                                <a href="https://www.ultracasas.com/proyectos/La Paz/El Alto">Proyectos                        en El Alto</a><br>
-                
-                </div>
-<div class="col-lg-3 col-md-3 col-sm-3">
-                <h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Cochabamba</h5>
-                            <a href="https://www.ultracasas.com/proyectos/Cochabamba/Cochabamba">Proyectos                        en Cochabamba</a><br>
-                
-                                <a href="https://www.ultracasas.com/proyectos/Cochabamba/Quillacollo">Proyectos                        en Quillacollo</a><br>
-                
-                </div>
-<div class="col-lg-3 col-md-3 col-sm-3">
-                <h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Santa Cruz</h5>
-                            <a href="https://www.ultracasas.com/proyectos/Santa Cruz/Santa Cruz de la Sierra">Proyectos                        en Santa Cruz de la Sierra</a><br>
-                
-                                <a href="https://www.ultracasas.com/proyectos/Santa Cruz/Cotoca">Proyectos                        en Cotoca</a><br>
-                
-                                <a href="https://www.ultracasas.com/proyectos/Santa Cruz/Porongo">Proyectos                        en Porongo</a><br>
-                
-                                <a href="https://www.ultracasas.com/proyectos/Santa Cruz/Warnes">Proyectos                        en Warnes</a><br>
-                
-                </div>
-<div class="col-lg-3 col-md-3 col-sm-3">
-                <h5 class="texto-azul"><svg class="svg-inline--fa fa-angle-double-right fa-w-14 jdc-bullet" aria-hidden="true" data-prefix="fa" data-icon="angle-double-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg><!-- <i class="fa fa-angle-double-right jdc-bullet"></i> --> Otros</h5>
-                                <a href="https://www.ultracasas.com//proyectos/Tarija/Tarija" class="search-link">
-                        Proyectos en Tarija                        </a><br>
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-    <hr>
-</div>
 
 <script>
 window.addEventListener("load", function(){
@@ -2619,10 +1931,6 @@ window.addEventListener("load", function(){
         },
     });
 
-    /*$('[class*=\'master-swiper-button-\']').on('click', function () {
-        oSwiperMultiple.init('.static-swiper-container');
-    });*/
-
     $('.master-swiper-button-next').on('click', function () {
         getProjectos();
     });
@@ -2637,17 +1945,7 @@ window.addEventListener("load", function(){
     var getProjectos = function () {
 
         if( (actualPage<=LastPage || LastPage==0) && validateReq ) {//Realizar peticion
-
-            /*
-            console.log('actual actualPage:', actualPage);
-            console.log('actual validateReq:', validateReq);
-            console.log('actual LastPage:', LastPage);
-            */
-
-            // Disable #x
             $('[class*=\'master-swiper-button-\']').prop( "disabled", true );
-
-
             if(requestOn) {
                 console.log('Request swiper');
                 $.ajax({
@@ -2744,12 +2042,6 @@ window.addEventListener("load", function(){
 
                         LastPage = response.proyectos.LastPage;
 
-                        /*
-                        console.log('despues actualPage:', actualPage);
-                        console.log('despues validateReq:', validateReq);
-                        console.log('despues LastPage:', LastPage);
-                        */
-
                         swiperMaster.appendSlide(slidesResult);
                         oSwiperMultiple.init('.static-swiper-container');
 
@@ -2766,39 +2058,28 @@ window.addEventListener("load", function(){
                     }
                 });
             }
-        } else {//Sin peticion
+        } else {
 
             actualPage++;
             if(actualPage>LastPage && LastPage!=0) {
                 actualPage = 1;
             }
-            /*
-            console.log('SP despues actualPage:', actualPage);
-            console.log('SP despues validateReq:', validateReq);
-            console.log('SP despues LastPage:', LastPage);
-            */
-
-            // Enable #x
+           
             $('[class*=\'master-swiper-button-\']').prop( "disabled", false );
 
         }
-
-
     }
-    //getProjectos();
 });
 </script>
 <div id="loginContactPanel" class="modal fade agente">
     <div class="modal-dialog">
         <div class="modal-content">
-
         </div>
     </div>
 </div>
 <div id="loginContactPanelPhone" class="modal fade agente">
     <div class="modal-dialog">
         <div class="modal-content">
-
         </div>
     </div>
 </div>
@@ -2806,7 +2087,6 @@ window.addEventListener("load", function(){
 <div id="similaresPanel" class="modal fade agente" role="dialog">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
-
         </div>
     </div>
 </div>
@@ -2814,29 +2094,8 @@ window.addEventListener("load", function(){
     <div class="container">
         <div class="row">n
             <div class="col-md-3 redes">
-                <div class="brand">Ultracasas.com</div>
-                <p>© 2019 UltraGrupo.com.Todos los derechos reservados.</p>
-                <ul class="rss list-inline">
-                    <li><a href="https://www.facebook.com/ultracasas" target="_blank" title="Visítanos en Facebook"><svg class="svg-inline--fa fa-facebook-f fa-w-9" aria-hidden="true" data-prefix="fab" data-icon="facebook-f" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 512" data-fa-i2svg=""><path fill="currentColor" d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"></path></svg><!-- <i class="fab fa-facebook-f"></i> --></a></li>
-                    <li><a href="https://www.twitter.com/ultracasas" target="_blank" title="Síguenos en twitter"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg><!-- <i class="fab fa-twitter"></i> --></a></li>
-                </ul>
+                <p>© 2019 Grupo3.Sistema_de_Informacion_II</p>
             </div>
-            <div class="col-md-5 col-sm-offset-1 informacion">
-                <div class="informacion-legales">
-                    <a href="http://blog.ultracasas.com/terminos-y-condiciones" target="_blank">Términos y condiciones de uso</a> · <a href="http://blog.ultracasas.com/terminos-y-condiciones" target="_blank">Política de cookies</a>
-                </div>
-                <p style="color:#FFFFFF"><strong>UltraCasas.com</strong> es un portal de búsqueda online que permite buscar y publicar información de venta, alquiler y anticrético de todo tipo de inmuebles, tales como: casas, departamentos, oficinas, terrenos, locales comerciales, etc.</p>
-            </div>
-            <div class="col-md-3 contacto text-right">
-                <div class="mascota"><h4><a href="#" class="sr-only">Bienvenido a ULTRACASAS.COM</a></h4></div>
-                <ul class="list-unstyled">
-                    <li><a href="tel:+59177774041">Santa Cruz: +(591) 777 74041 <svg class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg><!-- <i class="fas fa-phone"></i> --></a></li>
-                    <li><a href="tel:+59178850405">La Paz: +(591) 78850405 <svg class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg><!-- <i class="fas fa-phone"></i> --></a></li>
-                    <li><a href="mailto:info@ultracasas.com">info@ultracasas.com <svg class="svg-inline--fa fa-envelope fa-w-16" aria-hidden="true" data-prefix="far" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path></svg><!-- <i class="far fa-envelope"></i> --></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
 </footer>
 </div>
 <!-- Modal Contact -->
@@ -2847,30 +2106,7 @@ window.addEventListener("load", function(){
     </div>
 </div>
 </div>
-<!-- Modal Structure -->
-<div id="publicationProjectPanel" class="modal fade">
-<div class="modal-dialog">
-    <div class="modal-content">
-        <div class="modal-header">
-            <button type="button" class="puclose" data-dismiss="modal" aria-label="Close"><svg class="svg-inline--fa fa-times-circle fa-w-16" aria-hidden="true" data-prefix="far" data-icon="times-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm101.8-262.2L295.6 256l62.2 62.2c4.7 4.7 4.7 12.3 0 17l-22.6 22.6c-4.7 4.7-12.3 4.7-17 0L256 295.6l-62.2 62.2c-4.7 4.7-12.3 4.7-17 0l-22.6-22.6c-4.7-4.7-4.7-12.3 0-17l62.2-62.2-62.2-62.2c-4.7-4.7-4.7-12.3 0-17l22.6-22.6c4.7-4.7 12.3-4.7 17 0l62.2 62.2 62.2-62.2c4.7-4.7 12.3-4.7 17 0l22.6 22.6c4.7 4.7 4.7 12.3 0 17z"></path></svg><!-- <i class="far fa-times-circle"></i> --></button>
-        </div>
-        <div class="modal-body row">
-                            <h4>Qué es un Proyecto?</h4>
-            <div class="col-xs-12">
-                <p class="text-justify">Un proyecto es un conjunto de inmuebles en oferta, pueden ser varios departamentos u oficinas en un edificio, casas o terrenos en una urbanización.</p>
-                <p class="text-justify">Al crear un proyecto, tendrás tu propia página web, con foto de portada y logo, podrás agregar la información de todos los inmuebles en oferta, con sus propias fotos y cantidades disponibles, además de aparecer en las primeras posiciones del portal como destacado Elite Sponsor.</p>
-            </div>
-            <div class="col-xs-12 campolink margin-top-20px">
-                                    <p class="text-justify">Contactate con uno de nuestros agentes: </p>
-                    <ul class="list-unstyled">
-                        <li><a href="tel:+59178850405">La Paz: +(591) 78850405 <svg class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg><!-- <i class="fas fa-phone"></i> --></a></li>
-                        <li><a href="tel:+59177774041">Santa Cruz: +(591) 777 74041 <svg class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg><!-- <i class="fas fa-phone"></i> --></a></li>
-                    </ul>
-                                </div>
-        </div>
-    </div>
-</div>
-</div>
+
 <!-- Mainly scripts -->
 <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.10/jquery.lazy.min.js"></script>
@@ -2914,18 +2150,6 @@ $(document).ready(function () {
     if ( window.location !== window.parent.location ) {
         $("a").removeAttr("target");
     }
-
-    
-
-    
-   // if(oPage.initOneSignal){
-   //  // oPage.initOneSignal();
-   //      setTimeout(function(){
-   //          // if(oUser.YASTA_USER_DEVICE_TOKEN === null){
-   //              oPage.initOneSignal();
-   //          // }
-   //      },500);
-   // }
 
 });
 </script>
@@ -2983,7 +2207,7 @@ $(document).ready(function () {
             toastr.info(message,null);
         }
     </script>
-            <!-- Start of LiveChat (www.livechatinc.com) code -->
+           
     <script type="text/javascript">
         if (window.location == window.parent.location) {
             window.__lc = window.__lc || {};
@@ -2998,7 +2222,6 @@ $(document).ready(function () {
             })();
         }
     </script>
-    <!-- End of LiveChat code -->
 <script>
 if(typeof oGoogleAnalytics !== "undefined"){
     oGoogleAnalytics.init('UA-58299677-1','AW-955317449');
