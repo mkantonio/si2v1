@@ -38,7 +38,7 @@ class User extends Authenticatable
     ];
 
     public function esAdmin(){
-        if ($this->rol=='a'){
+        if (!$this->rol==null){
             return true;
         }
         return false;

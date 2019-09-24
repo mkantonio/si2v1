@@ -1134,10 +1134,10 @@ window.criteo_q = window.criteo_q || [];
             <a>Publicar</a>
         </li>
         <li>
-        <a href="{{route('registrooption')}}" <span class="hidden-md hidden-sm hidden-xs">Registrate</span></a>
+        {{-- <a href="{{route('registrooption')}}" <span class="hidden-md hidden-sm hidden-xs">Registrate</span></a> --}}
         </li>
         <li>
-            <a href="{{route('iniciosesion')}}" <span class="hidden-md hidden-sm hidden-xs">Iniciar Sesión</span></a>
+            {{-- <a href="{{route('iniciosesion')}}" <span class="hidden-md hidden-sm hidden-xs">Iniciar Sesión</span></a> --}}
             </li>
     </ul>
 </nav>

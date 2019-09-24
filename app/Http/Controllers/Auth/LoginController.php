@@ -37,17 +37,17 @@ class LoginController extends Controller
         $this->middleware('guest')->except('logout');
     }
 
-    public function authenticated(Request $request, $user)
-    {
-        return redirect('/categoria');
-    }
+    // public function authenticated(Request $request, $user)
+    // {
+    //     return redirect('/categoria');
+    // }
 
-    public function redirectPath()
-    {
-        if (method_exists($this, 'redirectTo')) {
-            return $this->redirectTo();
-        }
+    // public function redirectPath()
+    // {
+    //     if (method_exists($this, 'redirectTo')) {
+    //         return $this->redirectTo();
+    //     }
 
-        return property_exists($this, 'redirectTo') ? $this->redirectTo : '/categoria';
-    }
+    //     return property_exists($this, 'redirectTo') ? $this->redirectTo : '/categoria';
+    // }
 }

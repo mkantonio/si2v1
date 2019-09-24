@@ -16,13 +16,12 @@ class EsAdmin
      */
     public function handle($request, Closure $next)
     {
-        $user=Auth::user();
-        if($user->esAdmin()){
-            return redirect('/categoria');
-        }else{
-            return redirect('/inicio');
+        if (Auth::check()){
+            $user=Auth::user();
+            if(!$user->esAdmin()){
+                return redirect('inicio');
+            }
         }
-
         return $next($request);
     }
 }

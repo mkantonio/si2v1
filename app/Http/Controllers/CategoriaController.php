@@ -9,6 +9,10 @@ use Illuminate\Http\Request;
 
 class CategoriaController extends Controller
 {
+
+    // public function __construct(){
+    //     return $this->middleware('auth','esAdmin');
+    // }
     /**
      * Display a listing of the resource.
      *
