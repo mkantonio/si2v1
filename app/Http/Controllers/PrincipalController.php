@@ -15,7 +15,10 @@ class PrincipalController extends Controller
     {
         return view ('layoutspublic.inicio');
     }
-    
+
+    public function dashboard(){
+        return view ('home');
+    }
     public function registrooption()
     {
         return view ('auth.registrooption');

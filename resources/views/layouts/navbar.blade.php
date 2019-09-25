@@ -11,10 +11,16 @@
       <!-- Messages: style can be found in dropdown.less-->
       <li class="dropdown messages-menu">
         <!-- Menu toggle button -->
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+        <form action="{{ route('logout') }}" method="POST">
+            @csrf
+            <button type="submit" class="btn btn-primary">
+                    {{ __('LoGOUT') }}
+                </button>
+        </form>
+        {{-- <a href="#" class="dropdown-toggle" data-toggle="dropdown">
           <i class="fa fa-envelope-o"></i>
           <span class="label label-success">4</span>
-        </a>
+        </a> --}}
         <ul class="dropdown-menu">
           <li class="header">You have 4 messages</li>
           <li>

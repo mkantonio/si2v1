@@ -29,7 +29,7 @@ class HomeController extends Controller
             if(!$user->esAdmin()){
                 return redirect('inicio');
             }
-            return redirect('administrador');
+            return redirect('dashboard');
 
         }
         return redirect('/');

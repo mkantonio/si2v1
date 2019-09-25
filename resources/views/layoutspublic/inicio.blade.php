@@ -1,3 +1,6 @@
+
+
+
 <html dir="ltr" itemscope="" itemtype="http://schema.org/Organization"
     class="fontawesome-i2svg-active fontawesome-i2svg-complete" lang="en-US">
 
@@ -70,6 +73,12 @@
         </div>
     </header>
 
+    <form action="{{ route('logout') }}" method="POST">
+            @csrf
+            <button type="submit" class="btn btn-primary">
+                    {{ __('LoGOUT') }}
+                </button>
+        </form>
     <div class="wrapper" style="margin-top: 0px;">
         <section class="superbuscador">
             <div class="container-fluid">

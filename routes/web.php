@@ -26,6 +26,7 @@ Auth::routes();
 // Route::post('logout', 'Auth\LoginController@logout')->name('logout');
 
 Route::middleware(['auth', 'EsAdmin'])->group(function () {
+  Route::get('/dashboard', 'PrincipalController@dashboard')->name('dashboard');
   Route::get('administrador','AdministradorController@index');
   Route::resource('categoria','CategoriaController');
   Route::resource('tipooferta','TipoOfertaController');
