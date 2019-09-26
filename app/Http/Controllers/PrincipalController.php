@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use App\ZONA;
-use App\TIPOINMUEBLE;
+use App\Zona;
+use App\TipoInmueble;
 
 
 use Illuminate\Http\Request;
