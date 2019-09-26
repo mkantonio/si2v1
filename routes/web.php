@@ -20,6 +20,7 @@ Route::get('/inicio', 'PrincipalController@inicio')->name('inicio');
 // Route::get('/iniciosesion', 'PrincipalController@iniciosesion')->name('iniciosesion');
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::post('/peticiones','PeticionesController@peticiones')->name('peticiones');
 Auth::routes();
 // Route::get('login', 'Auth\LoginController@showLoginForm')->name('login');
 // Route::post('login', 'Auth\LoginController@login');

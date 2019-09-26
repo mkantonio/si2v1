@@ -2,6 +2,10 @@
 
 namespace App\Http\Controllers;
 
+use App\ZONA;
+use App\TIPOINMUEBLE;
+
+
 use Illuminate\Http\Request;
 
 class PrincipalController extends Controller
@@ -13,7 +17,11 @@ class PrincipalController extends Controller
 
     public function inicio()
     {
-        return view ('layoutspublic.inicio');
+        // $zona=Zona::select('nombreZon')->get();
+        // $tipoinmueble=TipoInmueble::select('tipoInm')->get();
+        $zona=Zona::all();
+        $tipoinmueble=TipoInmueble::all();
+        return view ('layoutspublic.inicio', compact('zona','tipoinmueble'));
     }
 
     public function dashboard(){
