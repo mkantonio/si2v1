@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Zona;
 use App\TipoInmueble;
+use App\TipoOferta;
 
 
 use Illuminate\Http\Request;
@@ -21,7 +22,15 @@ class PrincipalController extends Controller
         // $tipoinmueble=TipoInmueble::select('tipoInm')->get();
         $zona=Zona::all();
         $tipoinmueble=TipoInmueble::all();
-        return view ('layoutspublic.inicio', compact('zona','tipoinmueble'));
+        $tipooferta=TipoOferta::all();
+        
+
+        // if(isset($request->rpublicaciones)){
+            
+        //     $vpublicaciones=$request->rpublicaciones;
+        //     return view ('layoutspublic.inicio', compact('zona','tipoinmueble','tipooferta','vpublicaciones'));
+        // }
+        return view ('layoutspublic.inicio', compact('zona','tipoinmueble','tipooferta'));
     }
 
     public function dashboard(){

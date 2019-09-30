@@ -1,8 +1,10 @@
-<footer class="main-footer">
-<!-- To the right -->
-<div class="pull-right hidden-xs">
-    Anything you want
-</div>
-<!-- Default to the left -->
-<strong>Copyright &copy; 2016 <a href="#">Company</a>.</strong> All rights reserved.
-</footer>
+<script src="{{asset('vendor/jquery/jquery.min.js') }} "></script>
+<script src="{{asset('vendor/bootstrap/js/bootstrap.bundle.min.js') }} "></script>
+
+<!-- Menu Toggle Script -->
+<script>
+    $("#menu-toggle").click(function(e) {
+      e.preventDefault();
+      $("#wrapper").toggleClass("toggled");
+    });
+</script>
