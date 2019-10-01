@@ -40,7 +40,7 @@
                     <div class="input-group-prepend">
                         <span class="input-group-text" id="basic-addon1">Nombre de Publicacion</span>
                     </div>
-                    <input type="text" name="nombre" class="form-control" placeholder="Cantidad"
+                    <input type="text" name="nombre" class="form-control" placeholder="Nombre de la publicacion"
                         aria-label="Superficie en mts2" aria-describedby="basic-addon1">
                 </div>
 
@@ -48,7 +48,7 @@
                     <div class="input-group-prepend">
                         <span class="input-group-text" id="basic-addon1">Costo de Preventa</span>
                     </div>
-                    <input type="text" name="preVenta" class="form-control" placeholder="Cantidad"
+                    <input type="text" name="preVenta" class="form-control" placeholder="Costo de Preventa"
                         aria-label="Superficie en mts2" aria-describedby="basic-addon1">
                 </div>
 

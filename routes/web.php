@@ -38,7 +38,6 @@ Route::middleware('auth')->group(function () {
   Route::resource('ambiente','AmbienteController')->only(['show','store']);
   Route::resource('ubicacion','UbicacionController')->only(['index','store']);
   Route::get('publicacion/{id?}','PublicacionController@index')->name('publicacion.index');
-  // Route::get('publicacion/create/{id?}','PublicacionController@create')->name('publicacion.create');
   Route::resource('publicacion','PublicacionController')->only('store');
 });
 

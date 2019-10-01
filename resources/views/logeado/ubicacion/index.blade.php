@@ -40,7 +40,7 @@
                     <div class="input-group-prepend">
                         <span class="input-group-text" id="basic-addon1">UV</span>
                     </div>
-                    <input type="text" name="uv" class="form-control" placeholder="Cantidad"
+                    <input type="text" name="uv" class="form-control" placeholder="UV"
                         aria-label="Superficie en mts2" aria-describedby="basic-addon1">
                 </div>
 
@@ -48,7 +48,7 @@
                     <div class="input-group-prepend">
                         <span class="input-group-text" id="basic-addon1">Manzano</span>
                     </div>
-                    <input type="text" name="manzano" class="form-control" placeholder="Cantidad"
+                    <input type="text" name="manzano" class="form-control" placeholder="Manzano"
                         aria-label="Superficie en mts2" aria-describedby="basic-addon1">
                 </div>
 
@@ -56,7 +56,7 @@
                     <div class="input-group-prepend">
                         <span class="input-group-text" id="basic-addon1">Barrio</span>
                     </div>
-                    <input type="text" name="barrio" class="form-control" placeholder="Cantidad"
+                    <input type="text" name="barrio" class="form-control" placeholder="Barrio"
                         aria-label="Superficie en mts2" aria-describedby="basic-addon1">
                 </div>
 
@@ -64,12 +64,12 @@
                     <div class="input-group-prepend">
                         <span class="input-group-text" id="basic-addon1">Calle</span>
                     </div>
-                    <input type="text" name="calle" class="form-control" placeholder="Cantidad"
+                    <input type="text" name="calle" class="form-control" placeholder="Calle"
                         aria-label="Superficie en mts2" aria-describedby="basic-addon1">
                 </div>
 
 
-                <input type="text" name="idIn" value="{{$ambientee->idInmueble}}" class="form-control"
+                <input type="hidden" name="idIn" value="{{$ambientee->idInmueble}}" class="form-control"
                     placeholder="{{$ambientee->idInmueble}}">
 
                 <button type="submit" class="btn btn-lg btn-primary"><i class="fa fa-edit"></i> Guardar Ubicacion

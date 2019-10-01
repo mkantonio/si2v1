@@ -1130,15 +1130,15 @@ window.criteo_q = window.criteo_q || [];
     <div class="container-options"><div class="navbar-acciones">
 <nav role="menubar" class="acciones">
     <ul class="listado-acciones list-inline">
-        <li>
-            <a>Publicar</a>
+        {{-- <li>
+            <a href="{{route('inmueble.index')}}">Publicar</a>
         </li>
         <li>
-        <a href="{{route('register')}}" <span class="hidden-md hidden-sm hidden-xs">Registrate</span></a>
+            <a href="{{route('register')}}">Registrate</a>
         </li>
         <li>
-            <a href="{{route('login')}}" <span class="hidden-md hidden-sm hidden-xs">Iniciar Sesión</span></a>
-            </li>
+            <a href="{{route('login')}}">Iniciar Sesión</a>
+        </li> --}}
     </ul>
 </nav>
 </div>
@@ -1146,6 +1146,16 @@ window.criteo_q = window.criteo_q || [];
 <nav role="navigation" class="navbar-collapse">
     <ul class="nav navbar-nav">
         <li><a href="{{route('inicio')}}">Inicio</a></li>
+
+        <li>
+                <a href="{{route('inmueble.index')}}">Publicar</a>
+            </li>
+            <li>
+                <a href="{{route('register')}}">Registrate</a>
+            </li>
+            <li>
+                <a href="{{route('login')}}">Iniciar Sesión</a>
+            </li>
 <!--            <li><a href="javascript:void(0)" onclick="oPage.loginRegister(this)">Proyecto</a></li>-->
 <!--            <li><a href="https://www.ultracreditos.com" target="_blank"><img src="--><!--" height="23" style="vertical-align:middle"></a></li>-->
     </ul>
