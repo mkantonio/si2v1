@@ -9,7 +9,7 @@
         <img src="{{asset('assets/dist/img/user2-160x160.jpg')}}" class="img-circle" alt="User Image">
       </div>
       <div class="pull-left info">
-        <p>Alexander Pierce</p>
+        <p>{{Auth::user()->name}}</p>
         <!-- Status -->
         <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
       </div>
@@ -29,15 +29,14 @@
 
     <!-- Sidebar Menu -->
     <ul class="sidebar-menu" data-widget="tree">
-      <li class="header">HEADER</li>
+      <li class="header">HEADERR</li>
       <!-- Optionally, you can add icons to the links -->
       <li class="active"><a href="#"><i class="fa fa-home"></i> <span>Inicio</span></a></li>
       <li><a href="{{route ('categoria.index')}}"><i class="fa fa-key"></i> <span>Gestionar Categorias</span></a></li>
-      <li><a href="{{route ('tipooferta.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de ofertas</span></a>
-      </li>
-      <li><a href="{{route ('tipoinmueble.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de
-            Inmuebles</span></a></li>
+      <li><a href="{{route ('tipooferta.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de ofertas</span></a></li>
+      <li><a href="{{route ('tipoinmueble.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de Inmuebles</span></a></li>
       <li><a href="{{route ('zona.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo Zonas</span></a></li>
+      <li><a href="{{route ('metodopago.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo Metodos de Pago</span></a></li>
       {{-- <li><a href="#"><i class="fa fa-key"></i> <span>Acceso</span></a></li>
       <li><a href="#"><i class="fa fa-question-circle"></i> <span>Ayuda</span></a></li>
       <li class="treeview">

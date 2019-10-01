@@ -31,6 +31,7 @@ Route::middleware(['auth', 'EsAdmin'])->group(function () {
   Route::resource('tipooferta','TipoOfertaController');
   Route::resource('tipoinmueble','TipoInmuebleController');
   Route::resource('zona','ZonaController');
+  Route::resource('metodopago','MetodoPagoController');
 });
 
 Route::middleware('auth')->group(function () {
