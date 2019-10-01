@@ -22,9 +22,7 @@ Route::get('/inicio/{request?}', 'PrincipalController@inicio')->name('inicio');
 Route::get('/home', 'HomeController@index')->name('home');
 Route::post('/peticiones','PeticionesController@peticiones')->name('peticiones');
 Auth::routes();
-// Route::get('login', 'Auth\LoginController@showLoginForm')->name('login');
-// Route::post('login', 'Auth\LoginController@login');
-// Route::post('logout', 'Auth\LoginController@logout')->name('logout');
+
 
 Route::middleware(['auth', 'EsAdmin'])->group(function () {
   Route::get('/dashboard', 'PrincipalController@dashboard')->name('dashboard');
@@ -33,6 +31,15 @@ Route::middleware(['auth', 'EsAdmin'])->group(function () {
   Route::resource('tipooferta','TipoOfertaController');
   Route::resource('tipoinmueble','TipoInmuebleController');
   Route::resource('zona','ZonaController');
+});
+
+Route::middleware('auth')->group(function () {
+  Route::resource('inmueble','InmuebleController')->only(['index','store']);
+  Route::resource('ambiente','AmbienteController')->only(['show','store']);
+  Route::resource('ubicacion','UbicacionController')->only(['index','store']);
+  Route::get('publicacion/{id?}','PublicacionController@index')->name('publicacion.index');
+  // Route::get('publicacion/create/{id?}','PublicacionController@create')->name('publicacion.create');
+  Route::resource('publicacion','PublicacionController')->only('store');
 });
 
 

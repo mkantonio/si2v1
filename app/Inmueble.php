@@ -26,4 +26,12 @@ class Inmueble extends Model
     public function zona(){
         return $this->belongsTo('App\Zona', 'idZona', 'idZon');
     }
+
+    public function ambiente(){
+        return $this->hasOne('App\Ambiente','idInmueble','idInm');
+    }
+
+    public function ubicacion(){
+      return $this->hasOne('App\Ubicacion','idIn','idInm');
+  }
 }
