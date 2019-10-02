@@ -21,6 +21,8 @@ Route::get('/inicio/{request?}', 'PrincipalController@inicio')->name('inicio');
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::post('/peticiones','PeticionesController@peticiones')->name('peticiones');
+Route::get('publicacion/{publicacion}','PublicacionController@show')->name('publicacion.show');
+Route::get('agendarcita/mostrar/{agendarcita}','AgendarCitaController@mostrar')->name('agendarcita.mostrar');
 Auth::routes();
 
 
@@ -38,8 +40,10 @@ Route::middleware('auth')->group(function () {
   Route::resource('inmueble','InmuebleController')->only(['index','store']);
   Route::resource('ambiente','AmbienteController')->only(['show','store']);
   Route::resource('ubicacion','UbicacionController')->only(['index','store']);
-  Route::get('publicacion/{id?}','PublicacionController@index')->name('publicacion.index');
-  Route::resource('publicacion','PublicacionController')->only('store');
+  // Route::get('publicacion/{id?}','PublicacionController@index')->name('publicacion.index');
+  // Route::resource('publicacion','PublicacionController')->only(['show','store','created']);
+  Route::resource('publicacion','PublicacionController')->only(['index','store','create','update','destroy','edit']);
+  Route::resource('agendarcita','AgendarCitaController');
 });
 
 

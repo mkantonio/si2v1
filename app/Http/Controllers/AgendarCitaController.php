@@ -3,9 +3,10 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Ubicacion;
+use App\AgendarCita;
+use App\Publicacion;
 
-class UbicacionController extends Controller
+class AgendarCitaController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,7 +15,7 @@ class UbicacionController extends Controller
      */
     public function index()
     {
-        // return view ('logeado.ubicacion.index');
+        //
     }
 
     /**
@@ -24,7 +25,15 @@ class UbicacionController extends Controller
      */
     public function create()
     {
-        //
+
+        //"http://localhost:8000/publicacion/12"
+        $string = session()->get('_previous')['url'];
+        $idPublicacion = preg_replace("/http:\/\/localhost:8000\/publicacion\//", '', $string);
+        session(['idPublicacion' => $idPublicacion]);
+
+        return view ('logeado.agendarcita.create');
+
+
     }
 
     /**
@@ -35,19 +44,15 @@ class UbicacionController extends Controller
      */
     public function store(Request $request)
     {
-        // return $request;
-        $ubicacionn = new Ubicacion();
-        $ubicacionn->uv=$request->uv;
-        $ubicacionn->manzano=$request->manzano;
-        $ubicacionn->barrio=$request->barrio;
-        $ubicacionn->calle=$request->calle;
-        $ubicacionn->idIn=$request->idIn;
-        $ubicacionn->save();
-        $idInmueble = $ubicacionn->idIn;
-        session(['idIn' => $idInmueble]);
-        return redirect()->route('publicacion.create');
-        // return $idInmueble;
-        // return redirect()->route('publicacion.index',[$idInmueble]);
+        $agendarcita = new AgendarCita();
+        $agendarcita->fecha = $request->fecha;
+        $agendarcita->hora = $request->hora;
+        $agendarcita->direccion = $request->direccion;
+        $agendarcita->idPublicacion = $request->idPublicacion;
+        $agendarcita->idUsuario = $request->idUsuario;
+        $agendarcita->save();
+
+        return $agendarcita;
     }
 
     /**
@@ -58,7 +63,7 @@ class UbicacionController extends Controller
      */
     public function show($id)
     {
-        //
+        
     }
 
     /**

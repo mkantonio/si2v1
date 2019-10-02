@@ -8,6 +8,7 @@ use App\Publicacion;
 use App\TipoOferta;
 use App\Inmueble;
 use DateTime;
+use Auth;
 
 
 
@@ -18,12 +19,25 @@ class PublicacionController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index($id)
+    public function index()
     {
-        // return "hola desde publicaicon";
-        $inmueble = Inmueble::find($id);
+        // dd(session());
+        // session(['idCarrito' => '123456']); //guardar variable en session
+        // return session()->get('idCarrito'); //obtener variable de session
+        // return Auth::user()->id;
+
+        $publicaciones = Publicacion::where('idUsuario','=',Auth::user()->id)->get();
+        
+        // dd($publicaciones);
+        // die();
+        // foreach ($publicaciones as $key) {
+        //     echo $key->idPub.'<br>';
+        // }
+
+        // die();
+        // $inmueble = Inmueble::find(session()->get('idIn'));
         $tipooferta = TipoOferta::all();
-        return view ('logeado.publicacion.index',compact('inmueble','tipooferta'));
+        return view ('logeado.publicacion.index',compact('publicaciones','tipooferta'));
     }
 
     /**
@@ -33,7 +47,9 @@ class PublicacionController extends Controller
      */
     public function create()
     {
-        
+        $inmueble = Inmueble::find(session()->get('idIn'));
+        $tipooferta = TipoOferta::all();
+        return view ('logeado.publicacion.create',compact('inmueble','tipooferta'));
     }
 
     /**
@@ -72,7 +88,8 @@ class PublicacionController extends Controller
      */
     public function show($id)
     {
-        //
+        $publicacion = Publicacion::find($id);
+        return view ('logeado.publicacion.show', compact('publicacion'));
     }
 
     /**
