@@ -36,8 +36,8 @@ class AgendarCitaController extends Controller
 
         //"http://localhost:8000/publicacion/12"
         $string = session()->get('_previous')['url'];
-        //$idPublicacion = preg_replace("/http:\/\/localhost:8000\/publicacion\//", '', $string);
-        $idPublicacion = substr($string,-2);
+        $idPublicacion = preg_replace("/http:\/\/localhost:8000\/publicacion\//", '', $string);
+        // $idPublicacion = substr($string,-2);
         // $idPublicacion = preg_replace("/http:\/\/localhost:8000\/agendarcita\/mostrar\/", '', $string);
 
         session(['idPublicacion' => $idPublicacion]);
@@ -55,7 +55,6 @@ class AgendarCitaController extends Controller
      */
     public function store(Request $request)
     {
-        return $request;
         $agendarcita = new AgendarCita();
         $agendarcita->fecha = $request->fecha;
         $agendarcita->hora = $request->hora;
@@ -64,7 +63,8 @@ class AgendarCitaController extends Controller
         $agendarcita->idUsuario = $request->idUsuario;
         $agendarcita->save();
 
-        return $agendarcita;
+        // return $agendarcita;
+        return redirect()->route('agendarcita.mostrar',$agendarcita->idPublicacion);
     }
 
     /**
