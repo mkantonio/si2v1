@@ -15,6 +15,7 @@ class AgendarCitaController extends Controller
      */
 
     public function mostrar($idPublicacion){
+
         $agendarcita = AgendarCita::where('idPublicacion',$idPublicacion)->get();
         $publicacion = Publicacion::find($idPublicacion);
         return view ('logeado.agendarcita.mostrar',compact('agendarcita','publicacion'));
@@ -36,8 +37,9 @@ class AgendarCitaController extends Controller
         //"http://localhost:8000/publicacion/12"
         $string = session()->get('_previous')['url'];
         //$idPublicacion = preg_replace("/http:\/\/localhost:8000\/publicacion\//", '', $string);
-        $idPublicacion = preg_replace("/http:\/\/localhost:8000\/agendarcita\/mostrar\/12\/", '', $string);
-        
+        $idPublicacion = substr($string,-2);
+        // $idPublicacion = preg_replace("/http:\/\/localhost:8000\/agendarcita\/mostrar\/", '', $string);
+
         session(['idPublicacion' => $idPublicacion]);
 
         return view ('logeado.agendarcita.create');
