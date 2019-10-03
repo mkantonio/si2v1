@@ -30,9 +30,13 @@
           @csrf
           <button class="btn btn-primary my-2 my-sm-0" type="submit">Publicar Ya!</button>
         </form>
-        @endif
+      </li>
+      <li class="nav-item">
+        <a class="btn btn-success" href="{{route('publicacion.index')}}" role="button">Mis Publicaciones</a>
       </li>
 
+
+      @endif
 
       {{-- <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"

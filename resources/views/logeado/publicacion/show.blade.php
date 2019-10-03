@@ -51,6 +51,13 @@
                         Realizar una cita al inmueble
                     </a>
                 </div>
+
+                <div class="col-xs-6 col-md-2">
+                    <a class="btn btn-primary" href="{{route('agendarcita.mostrar',$publicacion->idPub)}} ">
+                        <i class="fa fa-eye"></i> Mostrar todas las citas
+                    </a>
+                </div>
+
                 @else
                 <a class="btn btn-lg btn-primary" href="{{route('inicio')}} ">
                     <i class="fa fa-backward"></i> Volver atrás

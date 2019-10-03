@@ -23,6 +23,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::post('/peticiones','PeticionesController@peticiones')->name('peticiones');
 Route::get('publicacion/{publicacion}','PublicacionController@show')->name('publicacion.show');
 Route::get('agendarcita/mostrar/{agendarcita}','AgendarCitaController@mostrar')->name('agendarcita.mostrar');
+Route::get('agendarcita/mostrartodos/{agendarcita}','AgendarCitaController@mostrartodos')->name('agendarcita.mostrartodos');
 Auth::routes();
 
 

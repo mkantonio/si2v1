@@ -13,6 +13,13 @@ class AgendarCitaController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+
+    public function mostrar($idPublicacion){
+        $agendarcita = AgendarCita::where('idPublicacion',$idPublicacion)->get();
+        $publicacion = Publicacion::find($idPublicacion);
+        return view ('logeado.agendarcita.mostrar',compact('agendarcita','publicacion'));
+
+    }
     public function index()
     {
         //

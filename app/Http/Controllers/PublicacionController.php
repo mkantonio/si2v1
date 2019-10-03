@@ -76,7 +76,7 @@ class PublicacionController extends Controller
         $publicacion->fecExp=$fecExp;
         $publicacion->save();
 
-        return redirect()->route('inicio');
+        return redirect()->route('publicacion.index');
 
     }
 
