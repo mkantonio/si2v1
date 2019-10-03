@@ -35,7 +35,9 @@ class AgendarCitaController extends Controller
 
         //"http://localhost:8000/publicacion/12"
         $string = session()->get('_previous')['url'];
-        $idPublicacion = preg_replace("/http:\/\/localhost:8000\/publicacion\//", '', $string);
+        //$idPublicacion = preg_replace("/http:\/\/localhost:8000\/publicacion\//", '', $string);
+        $idPublicacion = preg_replace("/http:\/\/localhost:8000\/agendarcita\/mostrar\/12\/", '', $string);
+        
         session(['idPublicacion' => $idPublicacion]);
 
         return view ('logeado.agendarcita.create');
@@ -51,6 +53,7 @@ class AgendarCitaController extends Controller
      */
     public function store(Request $request)
     {
+        return $request;
         $agendarcita = new AgendarCita();
         $agendarcita->fecha = $request->fecha;
         $agendarcita->hora = $request->hora;
