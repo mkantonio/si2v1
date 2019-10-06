@@ -14,6 +14,10 @@ use Auth;
 
 class PublicacionController extends Controller
 {
+
+    public function __construct(){
+        $this->middleware('auth');
+    }
     /**
      * Display a listing of the resource.
      *
@@ -25,7 +29,6 @@ class PublicacionController extends Controller
         // session(['idCarrito' => '123456']); //guardar variable en session
         // return session()->get('idCarrito'); //obtener variable de session
         // return Auth::user()->id;
-
         $publicaciones = Publicacion::where('idUsuario','=',Auth::user()->id)->get();
         
         // dd($publicaciones);
@@ -45,8 +48,16 @@ class PublicacionController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function create()
+    public function crear(){
+        return "hola";
+    }
+    
+     public function create()
     {
+        return "hola";
+        die();
+
+
         $inmueble = Inmueble::find(session()->get('idIn'));
         $tipooferta = TipoOferta::all();
         return view ('logeado.publicacion.create',compact('inmueble','tipooferta'));
@@ -88,8 +99,8 @@ class PublicacionController extends Controller
      */
     public function show($id)
     {
-        $publicacion = Publicacion::find($id);
-        return view ('logeado.publicacion.show', compact('publicacion'));
+        // $publicacion = Publicacion::find($id);
+        // return view ('logeado.publicacion.show', compact('publicacion'));
     }
 
     /**

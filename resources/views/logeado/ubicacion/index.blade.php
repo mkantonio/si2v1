@@ -40,8 +40,8 @@
                     <div class="input-group-prepend">
                         <span class="input-group-text" id="basic-addon1">UV</span>
                     </div>
-                    <input type="text" name="uv" class="form-control" placeholder="UV"
-                        aria-label="Superficie en mts2" aria-describedby="basic-addon1">
+                    <input type="text" name="uv" class="form-control" placeholder="UV" aria-label="Superficie en mts2"
+                        aria-describedby="basic-addon1">
                 </div>
 
                 <div class="input-group mb-3">
@@ -64,7 +64,7 @@
                     <div class="input-group-prepend">
                         <span class="input-group-text" id="basic-addon1">Calle</span>
                     </div>
-                    <input type="text" name="calle" class="form-control" placeholder="Calle"
+                    <input type="text" name="calle" class="form-control" placeholder="Calle "
                         aria-label="Superficie en mts2" aria-describedby="basic-addon1">
                 </div>
 

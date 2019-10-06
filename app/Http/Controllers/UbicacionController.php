@@ -43,9 +43,14 @@ class UbicacionController extends Controller
         $ubicacionn->calle=$request->calle;
         $ubicacionn->idIn=$request->idIn;
         $ubicacionn->save();
+        // return $ubicacionn;
         $idInmueble = $ubicacionn->idIn;
         session(['idIn' => $idInmueble]);
-        return redirect()->route('publicacion.create');
+        // dd(session());
+
+        // die();
+        return redirect()->route('publicacion.create',);
+        // return redirect()->action('PublicacionController@create');
         // return $idInmueble;
         // return redirect()->route('publicacion.index',[$idInmueble]);
     }

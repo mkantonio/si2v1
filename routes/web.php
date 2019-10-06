@@ -42,7 +42,8 @@ Route::middleware('auth')->group(function () {
   Route::resource('ambiente','AmbienteController')->only(['show','store']);
   Route::resource('ubicacion','UbicacionController')->only(['index','store']);
   // Route::get('publicacion/{id?}','PublicacionController@index')->name('publicacion.index');
-  // Route::resource('publicacion','PublicacionController')->only(['show','store','created']);
+  // Route::resource('publicacion','PublicacionController')->only(['show','store','created']);}
+  Route::get('publicacion/crear','PublicacionController@crear')->name('crear');
   Route::resource('publicacion','PublicacionController')->only(['index','store','create','update','destroy','edit']);
   Route::resource('agendarcita','AgendarCitaController');
 });

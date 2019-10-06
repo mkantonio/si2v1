@@ -37,7 +37,10 @@ class AgendarCitaController extends Controller
         //"http://localhost:8000/publicacion/12"
         $string = session()->get('_previous')['url'];
         $idPublicacion = preg_replace("/http:\/\/localhost:8000\/publicacion\//", '', $string);
-        // $idPublicacion = substr($string,-2);
+        $idPublicacion = substr($string,-2);
+
+        // $resultado =preg_replace("/[^0-9]/", "", $cadena); //obtener solo numeros de una cadena
+
         // $idPublicacion = preg_replace("/http:\/\/localhost:8000\/agendarcita\/mostrar\/", '', $string);
 
         session(['idPublicacion' => $idPublicacion]);

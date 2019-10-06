@@ -101,10 +101,10 @@
                     </div>
                 </div>
 
-                <input type="hidden" name="idInmueble" value="{{$inmueble->idInm}}" class="form-control"
-                    placeholder="{{$inmueble->idInm}}">
-                <input type="hidden" name="idUsuario" value="{{Auth::user()->id}}" class="form-control"
-                    placeholder="{{Auth::user()->name}}">
+                {{-- <input type="hidden" name="idInmueble" value="{{$inmueble->idInm}}" class="form-control"
+                placeholder="{{$inmueble->idInm}}"> --}}
+                {{-- <input type="hidden" name="idUsuario" value="{{Auth::user()->id}}" class="form-control"
+                placeholder="{{Auth::user()->name}}"> --}}
 
                 <button type="submit" class="btn btn-lg btn-primary"><i class="fa fa-edit"></i> Publicar
                 </button>
