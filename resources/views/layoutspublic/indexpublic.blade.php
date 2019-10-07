@@ -1131,7 +1131,7 @@ window.criteo_q = window.criteo_q || [];
 <nav role="menubar" class="acciones">
     <ul class="listado-acciones list-inline">
         {{-- <li>
-            <a href="{{route('inmueble.index')}}">Publicar</a>
+            
         </li>
         <li>
             <a href="{{route('register')}}">Registrate</a>
@@ -1148,7 +1148,7 @@ window.criteo_q = window.criteo_q || [];
         <li><a href="{{route('inicio')}}">Inicio</a></li>
 
         <li>
-                <a href="{{route('inmueble.index')}}">Publicar</a>
+                <a href="{{route('publicacion.create')}}">Publicar</a>
             </li>
             <li>
                 <a href="{{route('register')}}">Registrate</a>

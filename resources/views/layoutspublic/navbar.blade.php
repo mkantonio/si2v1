@@ -19,14 +19,14 @@
       <li class="nav-item">
         {{-- BUTTON PUBLICAR YA VER SI NO ESTA LOGEADO EL USUARIO --}}
         @if (!Auth::check())
-        <form method="GET" action="{{route('inmueble.index')}} " class="form-inline my-2 my-lg-0">
+        <form method="GET" action="{{route('publicacion.create')}} " class="form-inline my-2 my-lg-0">
           @csrf
           <button class="btn btn-primary my-2 my-sm-0" type="submit">Publicar Ya!</button>
         </form>
         @endif
         {{-- BUTTON PUBLICAR YA VER SI ESTA LOGEADO EL USUARIO --}}
         @if (Auth::check() )
-        <form method="GET" action="{{route('inmueble.index')}} " class="form-inline my-2 my-lg-0">
+        <form method="GET" action="{{route('publicacion.create')}} " class="form-inline my-2 my-lg-0">
           @csrf
           <button class="btn btn-primary my-2 my-sm-0" type="submit">Publicar Ya!</button>
         </form>

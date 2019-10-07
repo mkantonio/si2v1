@@ -15,9 +15,13 @@ class AgendarCitaController extends Controller
      */
 
     public function mostrar($idPublicacion){
-
         $agendarcita = AgendarCita::where('idPublicacion',$idPublicacion)->get();
+// dd($agendarcita);
+// die();
+
         $publicacion = Publicacion::find($idPublicacion);
+        // dd($publicacion);
+// die();
         return view ('logeado.agendarcita.mostrar',compact('agendarcita','publicacion'));
 
     }
@@ -36,12 +40,12 @@ class AgendarCitaController extends Controller
 
         //"http://localhost:8000/publicacion/12"
         $string = session()->get('_previous')['url'];
-        $idPublicacion = preg_replace("/http:\/\/localhost:8000\/publicacion\//", '', $string);
-        $idPublicacion = substr($string,-2);
+        $resultado = substr($string, -4);
+        $idPublicacion = preg_replace('/[^0-9]/', '', $resultado); 
 
-        // $resultado =preg_replace("/[^0-9]/", "", $cadena); //obtener solo numeros de una cadena
+        // $idPublicacion = preg_replace("/http:\/\/localhost:8000\/publicacion\//", '', $string);
+        
 
-        // $idPublicacion = preg_replace("/http:\/\/localhost:8000\/agendarcita\/mostrar\/", '', $string);
 
         session(['idPublicacion' => $idPublicacion]);
 
@@ -66,8 +70,7 @@ class AgendarCitaController extends Controller
         $agendarcita->idUsuario = $request->idUsuario;
         $agendarcita->save();
 
-        // return $agendarcita;
-        return redirect()->route('agendarcita.mostrar',$agendarcita->idPublicacion);
+        return redirect()->route('publicacion.index');
     }
 
     /**

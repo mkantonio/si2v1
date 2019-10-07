@@ -19,7 +19,7 @@
         <div id="page-content-wrapper">
 
             @include('layoutspublic.navbar')
-            <h1>Publicaciones de Usuario</h1>
+            <h1>Citas de la publicacion</h1>
 
             {{-- @if ($errors->any())
             <div class="alert alert-danger">
@@ -36,36 +36,25 @@
 
 
         <div class="container-fluid">
-            <div class="card-deck">
-                {{-- @foreach ($agendarcita as $agendarcitaitem)
-                <div class="card bg-light mb-3" style="max-width: 30rem;">
-                    <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">citas</h5>
-                            <p class="card-text">Direccion: {{$agendarcitaitem->direccion}}.</p>
-                <p class="card-text">Usuario: {{$agendarcitaitem->idUsuario}}.</p>
-                <p class="card-text">Fecha de la cita: {{$agendarcitaitem->fecha}}.</p>
-                <p class="card-text">Hora de la cita: {{$agendarcitaitem->hora}}.</p>
+            <div class="row">
+                @foreach ($agendarcita as $agendarcitaitem)
+                <div class="col col-sm-4">
+                    <div class="card-deck">
+                        <div class="card bg-light mb-3" style="max-width: 18rem;">
+                            <div class="card-header">Cita nro: {{$agendarcitaitem->idCi}}</div>
+                            <div class="card-body">
+                                {{-- <h5 class="card-title">{{$agendarcitaitem->idCi}}</h5> --}}
+                                <p class="card-text">Direccion: {{$agendarcitaitem->direccion}}.</p>
+                                <p class="card-text">Usuario: {{$agendarcitaitem->idUsuario}}.</p>
+                                <p class="card-text">Fecha de la cita: {{$agendarcitaitem->fecha}}.</p>
+                                <p class="card-text">Hora de la cita: {{$agendarcitaitem->hora}}.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                @endforeach
             </div>
         </div>
-    </div>
-    @endforeach --}}
-
-    @foreach ($agendarcita as $agendarcitaitem)
-    <div class="card bg-light mb-3" style="max-width: 18rem;">
-        <div class="card-header">Cita nro: {{$agendarcitaitem->idCi}}</div>
-        <div class="card-body">
-            {{-- <h5 class="card-title">{{$agendarcitaitem->idCi}}</h5> --}}
-            <p class="card-text">Direccion: {{$agendarcitaitem->direccion}}.</p>
-            <p class="card-text">Usuario: {{$agendarcitaitem->idUsuario}}.</p>
-            <p class="card-text">Fecha de la cita: {{$agendarcitaitem->fecha}}.</p>
-            <p class="card-text">Hora de la cita: {{$agendarcitaitem->hora}}.</p>
-        </div>
-    </div>
-    @endforeach
-
-    </div>
-    </div>
     </div>
     <!-- /#page-content-wrapper -->
 

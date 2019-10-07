@@ -1,92 +1,58 @@
-<!-- Bootstrap core CSS -->
-{{-- <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}"> --}}
+<div class="d-flex" id="wrapper">
 
-<!DOCTYPE html>
-<html lang="en">
+    <!-- Sidebar -->
+    {{-- @include('layoutspublic.sidebar') --}}
+    <!-- /#sidebar-wrapper -->
 
-<head>
-    @include('layoutspublic.header')
-</head>
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
 
-<body>
-    <div class="d-flex" id="wrapper">
-
-        <!-- Sidebar -->
-        {{-- @include('layoutspublic.sidebar') --}}
-        <!-- /#sidebar-wrapper -->
-
-        <!-- Page Content -->
-        <div id="page-content-wrapper">
-
-            @include('layoutspublic.navbar')
-            <h1>Registro de Ubicacion</h1>
-
-            {{-- @if ($errors->any())
-            <div class="alert alert-danger">
-                <ul>
-                    @foreach ($errors->all() as $error)
-                    <li>{{ $error }}</li>
-            @endforeach
-            </ul>
-        </div>
-        @endif --}}
+        <h1>Registro de Ubicacion</h1>
 
         <div class="container-fluid">
-            <form action="{{route('ubicacion.store')}}" method="POST" class="form-group">
-                @method('POST')
-                @csrf
 
-                <div class="input-group mb-3">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text" id="basic-addon1">UV</span>
-                    </div>
-                    <input type="text" name="uv" class="form-control" placeholder="UV" aria-label="Superficie en mts2"
-                        aria-describedby="basic-addon1">
+
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="basic-addon1">UV</span>
                 </div>
+                <input type="text" name="uv" class="form-control" placeholder="UV" aria-label="Superficie en mts2"
+                    aria-describedby="basic-addon1">
+            </div>
 
-                <div class="input-group mb-3">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text" id="basic-addon1">Manzano</span>
-                    </div>
-                    <input type="text" name="manzano" class="form-control" placeholder="Manzano"
-                        aria-label="Superficie en mts2" aria-describedby="basic-addon1">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="basic-addon1">Manzano</span>
                 </div>
+                <input type="text" name="manzano" class="form-control" placeholder="Manzano"
+                    aria-label="Superficie en mts2" aria-describedby="basic-addon1">
+            </div>
 
-                <div class="input-group mb-3">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text" id="basic-addon1">Barrio</span>
-                    </div>
-                    <input type="text" name="barrio" class="form-control" placeholder="Barrio"
-                        aria-label="Superficie en mts2" aria-describedby="basic-addon1">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="basic-addon1">Barrio</span>
                 </div>
+                <input type="text" name="barrio" class="form-control" placeholder="Barrio"
+                    aria-label="Superficie en mts2" aria-describedby="basic-addon1">
+            </div>
 
-                <div class="input-group mb-3">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text" id="basic-addon1">Calle</span>
-                    </div>
-                    <input type="text" name="calle" class="form-control" placeholder="Calle "
-                        aria-label="Superficie en mts2" aria-describedby="basic-addon1">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="basic-addon1">Calle</span>
                 </div>
+                <input type="text" name="calle" class="form-control" placeholder="Calle" aria-label="Superficie en mts2"
+                    aria-describedby="basic-addon1">
+            </div>
 
 
-                <input type="hidden" name="idIn" value="{{$ambientee->idInmueble}}" class="form-control"
-                    placeholder="{{$ambientee->idInmueble}}">
 
-                <button type="submit" class="btn btn-lg btn-primary"><i class="fa fa-edit"></i> Guardar Ubicacion
-                </button>
-                <a class="btn btn-danger" href=" {{route('inicio')}} " role="button">Cancelar</a>
-            </form>
         </div>
     </div>
+
+
+
     <!-- /#page-content-wrapper -->
 
 
-    </div>
-    <!-- /#wrapper -->
-
-    <!-- Bootstrap core JavaScript -->
-    @include('layoutspublic.footer')
-
-</body>
-
-</html>
+</div>
+<!-- /#wrapper -->

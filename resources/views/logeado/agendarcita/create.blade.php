@@ -48,8 +48,8 @@
                     <div class="input-group-prepend">
                         <span class="input-group-text" id="basic-addon1">Fecha</span>
                     </div>
-                    <input type="text" name="fecha" class="form-control" placeholder="Fije una Fecha"
-                        aria-label="Superficie en mts2" aria-describedby="basic-addon1">
+                    <input id="fecha" type="text" name="fecha" class="form-control" placeholder="Fije una Fecha"
+                        aria-describedby="basic-addon1">
                 </div>
 
                 <div class="input-group mb-3">
@@ -81,6 +81,7 @@
 
     <!-- Bootstrap core JavaScript -->
     @include('layoutspublic.footer')
+
 
 </body>
 
