@@ -41,7 +41,7 @@
                                 class="card-img-top" alt="{{$publicacionitem->nombre}} ">
                             <div class="card-body">
                                 <h5 class="card-title">{{$publicacionitem->nombre}}</h5>
-                                <p class="card-text">{{$publicacionitem->inmueble->descripcion}}.</p>
+                                <p class="card-text"> descripcion del inmueble </p>
                                 <a class="btn btn-primary"
                                     href="{{route('publicacion.show',$publicacionitem->idPub)}} ">
                                     <i class="fa fa-eye"></i> Ver más detalles
