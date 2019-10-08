@@ -25,6 +25,7 @@ Route::get('publicacion/mostrar/{publicacion}','PublicacionController@mostrar')-
 // Route::get('publicacion/crear','PublicacionController@crear')->name('publicacion.crear');
 Route::get('agendarcita/mostrar/{agendarcita}','AgendarCitaController@mostrar')->name('agendarcita.mostrar');
 Route::get('agendarcita/mostrartodos/{agendarcita}','AgendarCitaController@mostrartodos')->name('agendarcita.mostrartodos');
+Route::resource('destacados','DestacadosController');
 Auth::routes();
 
 
@@ -36,6 +37,18 @@ Route::middleware(['auth', 'EsAdmin'])->group(function () {
   Route::resource('tipoinmueble','TipoInmuebleController');
   Route::resource('zona','ZonaController');
   Route::resource('metodopago','MetodoPagoController');
+  Route::get('reporte/categoria','ReporteController@categoria')->name('reporte.categoria');
+  Route::get('reporte/categoria/pdf','ReporteController@categoriapdf')->name('reporte.categoria.pdf');
+  Route::get('reporte/tipooferta','ReporteController@tipooferta')->name('reporte.tipooferta');
+  Route::get('reporte/tipooferta/pdf','ReporteController@tipoofertapdf')->name('reporte.tipooferta.pdf');
+  // Route::get('reporte/tipoinmueble','ReporteController@tipoinmueble')->name('reporte.tipoinmueble');
+  Route::get('reporte/zona','ReporteController@zona')->name('reporte.zona');
+  Route::get('reporte/zona/pdf','ReporteController@zonapdf')->name('reporte.zona.pdf');
+
+  // Route::resource('reporte','ReporteController');
+
+
+ 
 });
 
 Route::middleware('auth')->group(function () {
