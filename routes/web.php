@@ -46,11 +46,12 @@ Route::middleware(['auth', 'EsAdmin'])->group(function () {
   Route::get('reporte/zona/pdf','ReporteController@zonapdf')->name('reporte.zona.pdf');
   Route::resource('reporte','ReporteController');
   Route::resource('gestionusuario','GestionUsuarioController');
+  Route::get('backuprestore/restore','BackupRestoreController@restore')->name('backuprestore.restore');
+  Route::get('backuprestore/backup','BackupRestoreController@backup')->name('backuprestore.backup');
+  Route::resource('backuprestore','BackupRestoreController')->only('index');
+  
 
   // Route::resource('reporte','ReporteController');
-
-
-
 });
 
 Route::middleware('auth')->group(function () {
