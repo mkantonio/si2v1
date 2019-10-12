@@ -17,7 +17,7 @@ class User extends Authenticatable
      * @var array
      */
     protected $fillable = [
-        'name', 'email', 'password',
+        'name', 'email', 'password','rol',
     ];
 
     /**
@@ -43,5 +43,9 @@ class User extends Authenticatable
             return true;
         }
         return false;
+    }
+
+    public function bitacora(){
+        $this->hasOne('App\Bitacora','user_id','id');
     }
 }

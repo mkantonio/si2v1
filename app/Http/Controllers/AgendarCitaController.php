@@ -41,10 +41,10 @@ class AgendarCitaController extends Controller
         //"http://localhost:8000/publicacion/12"
         $string = session()->get('_previous')['url'];
         $resultado = substr($string, -4);
-        $idPublicacion = preg_replace('/[^0-9]/', '', $resultado); 
+        $idPublicacion = preg_replace('/[^0-9]/', '', $resultado);
 
         // $idPublicacion = preg_replace("/http:\/\/localhost:8000\/publicacion\//", '', $string);
-        
+
 
 
         session(['idPublicacion' => $idPublicacion]);
@@ -70,6 +70,13 @@ class AgendarCitaController extends Controller
         $agendarcita->idUsuario = $request->idUsuario;
         $agendarcita->save();
 
+                $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Registro de nueva cita";
+        $bitacora->tabla = "AgendarCita";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+
         return redirect()->route('publicacion.index');
     }
 
@@ -81,7 +88,7 @@ class AgendarCitaController extends Controller
      */
     public function show($id)
     {
-        
+
     }
 
     /**

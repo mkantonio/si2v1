@@ -4,7 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Zona;
-
+use App\Bitacora;
+use Auth;
 class ZonaController extends Controller
 {
     /**
@@ -39,6 +40,13 @@ class ZonaController extends Controller
         $zona=new zona();
         $zona->nombreZon = $request->input('nombre');
         $zona->save();
+
+                $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Registro de nueva zona";
+        $bitacora->tabla = "Zona";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
         return	redirect()->route('zona.index');
     }
 
@@ -78,6 +86,13 @@ class ZonaController extends Controller
         $zona=Zona::find($id);
         $zona->nombreZon = $request->nombre;
         $zona->save();
+                $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Edicion de una Zona";
+        $bitacora->tabla = "Zona";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+
         return	redirect()->route('zona.show',$zona->idZon);
     }
 
@@ -91,6 +106,13 @@ class ZonaController extends Controller
     {
         $zona=Zona::find($id);
         $zona->delete();
+                $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Eliminacion Zona";
+        $bitacora->tabla = "Zona";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+
         return	redirect()->route('zona.index');
     }
 }

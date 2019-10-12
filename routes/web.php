@@ -44,11 +44,13 @@ Route::middleware(['auth', 'EsAdmin'])->group(function () {
   // Route::get('reporte/tipoinmueble','ReporteController@tipoinmueble')->name('reporte.tipoinmueble');
   Route::get('reporte/zona','ReporteController@zona')->name('reporte.zona');
   Route::get('reporte/zona/pdf','ReporteController@zonapdf')->name('reporte.zona.pdf');
+  Route::resource('reporte','ReporteController');
+  Route::resource('gestionusuario','GestionUsuarioController');
 
   // Route::resource('reporte','ReporteController');
 
 
- 
+
 });
 
 Route::middleware('auth')->group(function () {
@@ -58,6 +60,7 @@ Route::middleware('auth')->group(function () {
   // Route::get('publicacion/{id?}','PublicacionController@index')->name('publicacion.index');
   // Route::resource('publicacion','PublicacionController')->only(['show','store','created']);
   // Route::resource('publicacion','PublicacionController')->only(['index','store','create','update','destroy','edit']);
+  Route::resource('destacadopublicacion','DestacadoPublicacionController');
   Route::resource('publicacion','PublicacionController');
   Route::resource('agendarcita','AgendarCitaController');
 });

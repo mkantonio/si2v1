@@ -19,8 +19,10 @@
     <div id="page-content-wrapper">
 
         @include('layoutspublic.navbar')
-        <h1 class="display-2">Mis publicaciones</h1>
-
+        <h1>Publicaciones Destacadas de Usuario</h1>
+        <a class="btn btn-success" href="{{route('destacadopublicacion.create')}} ">
+            <i class="fa fa-eye"></i> Crear publicacion destacada
+        </a>
         {{-- @if ($errors->any())
         <div class="alert alert-danger">
             <ul>
@@ -54,33 +56,11 @@
                     @endforeach
                 </div>
             </div>
+        @else
+            <h2 class="display-2"> Todavía no tienes publicaciones</h2>
         @endif
 
 
-        @if(isset($publicaciones))
-            <div class="container-fluid">
-                <div class="row">
-                    @foreach ($publicaciones as $publicacionesitem)
-                        <div class="col col-sm-4">
-                            <div class="card-deck">
-                                <div class="card">
-                                    <img src="https://cdn2.infocasas.com.uy/repo/img/5ba1af770e78f_resize.jpg.th810.jpg"
-                                         class="card-img-top" alt="{{$publicacionesitem->idPuDe}} ">
-                                    <div class="card-body">
-                                        <h5 class="card-title">{{$publicacionesitem->nombre}}</h5>
-                                        <p class="card-text"> {{$publicacionesitem->inmueble->descripcion}} </p>
-                                        <a class="btn btn-primary"
-                                           href="{{route('publicacion.show',$publicacionesitem->idPub)}} ">
-                                            <i class="fa fa-eye"></i> Ver más detallesu
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    @endforeach
-                </div>
-            </div>
-        @endif
     </div>
     <!-- /#page-content-wrapper -->
 

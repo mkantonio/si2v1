@@ -6,7 +6,8 @@ use Illuminate\Support\Facades\DB; //Constructor de consultas
 use App\TipoOferta;
 
 use Illuminate\Http\Request;
-
+use App\Bitacora;
+use Auth;
 class TipoOfertaController extends Controller
 {
     /**
@@ -42,6 +43,13 @@ class TipoOfertaController extends Controller
         //crear tipoOferta
         $tipooferta->tipTran = $request->input('tipTran');
         $tipooferta->save();
+                $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Registro de nueva Oferta";
+        $bitacora->tabla = "Oferta";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+
         return	redirect()->route('tipooferta.index');
     }
 
@@ -78,10 +86,17 @@ class TipoOfertaController extends Controller
      */
     public function update(Request $request, $id)
     {
-        
+
         $tipooferta=TipoOferta::find($id);
         $tipooferta->tipTran = $request->tipTran;
         $tipooferta->save();
+                $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Edicion de un Tipo de Oferta";
+        $bitacora->tabla = "Tipo de Oferta";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+
         return	redirect()->route('tipooferta.show',$tipooferta->idOf);
     }
 
@@ -95,6 +110,14 @@ class TipoOfertaController extends Controller
     {
         $tipooferta=TipoOferta::find($id);
         $tipooferta->delete();
+
+        $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Eliminacion de un Tipo de Oferta";
+        $bitacora->tabla = "Oferta";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+
         return	redirect()->route('tipooferta.index');
     }
 }

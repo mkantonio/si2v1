@@ -4,6 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\MetodoPago;
+use App\Bitacora;
+use Auth;
+
 
 class MetodoPagoController extends Controller
 {
@@ -41,6 +44,13 @@ class MetodoPagoController extends Controller
         $metodopago->nombre = $request->input('nombre');
         $metodopago->descripcion = $request->input('descripcion');
         $metodopago->save();
+
+                $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Registro de nuevo MetodoPago";
+        $bitacora->tabla = "MetodoPago";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
         return	redirect()->route('metodopago.index');
     }
 
@@ -81,6 +91,13 @@ class MetodoPagoController extends Controller
         $metodopago=MetodoPago::find($id);
         $metodopago->nombre = $request->nombre;
         $metodopago->save();
+        $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Edicion de un MetodoPago";
+        $bitacora->tabla = "MetodoPago";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+
         return	redirect()->route('metodopago.show',$metodopago->idMet);
     }
 
@@ -94,6 +111,14 @@ class MetodoPagoController extends Controller
     {
         $metodopago=MetodoPago::find($id);
         $metodopago->delete();
+
+        $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Eliminacion MetodoPago";
+        $bitacora->tabla = "MetodoPago";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+
         return	redirect()->route('metodopago.index');
     }
 }

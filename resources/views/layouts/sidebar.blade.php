@@ -32,6 +32,9 @@
       <li class="header">HEADERR</li>
       <!-- Optionally, you can add icons to the links -->
       <li class="active"><a href="#"><i class="fa fa-home"></i> <span>Inicio</span></a></li>
+      <li><a href="{{route ('gestionusuario.index')}}"><i class="fa fa-user-circle-o"></i> <span>Gestionar de
+            Usuarios</span></a></li>
+      <li><a href="{{route ('zona.index')}}"><i class="fa fa-floppy-o"></i> <span>Backup & Restore</span></a></li>
       <li><a href="{{route ('categoria.index')}}"><i class="fa fa-key"></i> <span>Gestionar Categorias</span></a></li>
       <li><a href="{{route ('tipooferta.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de ofertas</span></a>
       </li>
@@ -49,6 +52,7 @@
           </span>
         </a>
         <ul class="treeview-menu">
+          <li><a href="{{ route('reporte.index')}}">Reportes</a></li>
           <li><a href="{{ route('reporte.categoria')}}">Reporte por Categoria</a></li>
           <li><a href="{{ route('reporte.tipooferta')}}">Reporte por Tipo de Oferta</a></li>
           {{-- <li><a href="{{ route('reporte.tipoinmueble')}}">Reporte por Tipo de Inmueble</a>
@@ -57,6 +61,7 @@
 
     </ul>
     </li>
+
     </ul>
     <!-- /.sidebar-menu -->
   </section>

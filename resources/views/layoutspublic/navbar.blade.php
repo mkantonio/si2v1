@@ -34,6 +34,9 @@
       <li class="nav-item">
         <a class="btn btn-success" href="{{route('publicacion.index')}}" role="button">Mis Publicaciones</a>
       </li>
+      <li class="nav-item">
+        <a class="btn btn-warning" href="{{route('destacadopublicacion.index')}}" role="button">Mis Destacados</a>
+      </li>
 
 
       @endif

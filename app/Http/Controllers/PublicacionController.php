@@ -14,10 +14,12 @@ use App\Ambiente;
 use App\Ubicacion;
 use DateTime;
 use Auth;
+use App\Bitacora;
+
 
 class PublicacionController extends Controller
 {
-    
+
     // public function __construct(){
     //     $this->middleware('auth');
     // }
@@ -34,6 +36,7 @@ class PublicacionController extends Controller
     {
         $publicaciones = Publicacion::where('idUsuario','=',Auth::user()->id)->get();
         $tipooferta = TipoOferta::all();
+//        return $publicaciones;
         return view ('logeado.publicacion.index',compact('publicaciones','tipooferta'));
     }
 
@@ -43,7 +46,7 @@ class PublicacionController extends Controller
      * @return \Illuminate\Http\Response
      */
 
-    
+
     public function mostrar($request)
     {
 
@@ -102,6 +105,13 @@ class PublicacionController extends Controller
         $inmueble->idZona = $request->zona;
         $inmueble->save();
 
+        $bitacorai = new Bitacora();
+        $bitacorai->user_id = Auth::user()->id;
+        $bitacorai->accion = "Registro de Inmueble";
+        $bitacorai->tabla = "Inmueble";
+        $bitacorai->ip = request()->ip();
+        $bitacorai->save();
+
         $ambiente = new Ambiente();
         $ambiente->nroBaño = $request->nroBaño;
         $ambiente->nroAmb = $request->nroAmb;
@@ -109,6 +119,13 @@ class PublicacionController extends Controller
         $ambiente->garaje= $request->garaje;
         $ambiente->idInmueble = $inmueble->idInm;
         $ambiente->save();
+
+        $bitacoraa = new Bitacora();
+        $bitacoraa->user_id = Auth::user()->id;
+        $bitacoraa->accion = "Registro de Ambiente";
+        $bitacoraa->tabla = "Ambiente";
+        $bitacoraa->ip = request()->ip();
+        $bitacoraa->save();
 
         $ubicacion = new Ubicacion();
         $ubicacion->uv = $request->uv;
@@ -133,6 +150,13 @@ class PublicacionController extends Controller
         $publicacion->idTiOf = $request->idTiOf;
         $publicacion->idUsuario = Auth::user()->id;
         $publicacion->save();
+
+        $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Registro de Publicacion";
+        $bitacora->tabla = "Publicacion";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
 
         return redirect()->route('publicacion.index');
 

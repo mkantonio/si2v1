@@ -11,8 +11,12 @@ class Destacados extends Model
 
      //definir la clave primaria de la tabla
      protected $primaryKey = 'idD';
- 
+
      //declarar que campos se pueden llenar en la tabla
      protected $fillable= ['dias','tipTex','color'];
      public	$timestamps	=	false;
+
+     public function destacadopublicacion(){
+          return $this->belongsToMany('App\Publicacion','DETALLEPDEST','idDestacado','idPublicacion');
+     }
 }

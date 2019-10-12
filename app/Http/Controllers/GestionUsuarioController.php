@@ -1,19 +1,15 @@
 <?php
 
 namespace App\Http\Controllers;
+
 use App\Bitacora;
-use Illuminate\Support\Facades\DB; //Constructor de consultas
-
-use App\Categoria;
-use Auth;
 use Illuminate\Http\Request;
+use Auth;
+use App\User;
 
-class CategoriaController extends Controller
+
+class GestionUsuarioController extends Controller
 {
-
-    // public function __construct(){
-    //     return $this->middleware('auth','esAdmin');
-    // }
     /**
      * Display a listing of the resource.
      *
@@ -21,9 +17,10 @@ class CategoriaController extends Controller
      */
     public function index()
     {
-        // $categoria = Categoria::select('nombreCat')->get();
-        $categoria = Categoria::all();
-        return view ('categoria.index',compact('categoria'));
+        $usuarios = User::orderBy('rol', 'desc')
+                            ->orderBy('email','asc')
+                            ->get();
+        return view ('gestionusuario.index',compact('usuarios'));
     }
 
     /**
@@ -33,7 +30,7 @@ class CategoriaController extends Controller
      */
     public function create()
     {
-        return view ('categoria.create');
+        return view ('gestionusuario.create');
     }
 
     /**
@@ -44,18 +41,25 @@ class CategoriaController extends Controller
      */
     public function store(Request $request)
     {
-        $categoria=new Categoria();
+        $usuario=new User();
         //crear usuario
-        $categoria->nombreCat = $request->input('nombreCat');
-        $categoria->save();
+        $usuario->name = $request->input('name');
+        $usuario->apellido = $request->input('apellido');
+        $usuario->email = $request->input('email');
+        $usuario->password = bcrypt($request->input('password'));
+        $usuario->telefono = $request->input('telefono');
+        $usuario->tipo = 'p';
+        $usuario->rol = $request->input('rol');
+        $usuario->save();
+
         $bitacora = new Bitacora();
         $bitacora->user_id = Auth::user()->id;
-        $bitacora->accion = "Registro de nueva categoria";
-        $bitacora->tabla = "Categoria";
+        $bitacora->accion = "Registro de nuevo Usuario";
+        $bitacora->tabla = "Usuario";
         $bitacora->ip = request()->ip();
         $bitacora->save();
 
-        return	redirect()->route('categoria.index');
+        return	redirect()->route('gestionusuario.index');
     }
 
     /**
@@ -66,9 +70,8 @@ class CategoriaController extends Controller
      */
     public function show($id)
     {
-
-        $categoria = Categoria::find($id);
-        return view ('categoria.show', compact('categoria'));
+        $usuario = User::find($id);
+        return view ('gestionusuario.show', compact('usuario'));
     }
 
     /**
@@ -79,8 +82,8 @@ class CategoriaController extends Controller
      */
     public function edit($id)
     {
-        $categoria = Categoria::find($id);
-        return view ('categoria.edit', compact('categoria'));
+         $usuario = User::find($id);
+        return view ('gestionusuario.edit', compact('usuario'));
     }
 
     /**
@@ -92,17 +95,22 @@ class CategoriaController extends Controller
      */
     public function update(Request $request, $id)
     {
-        $categoria=Categoria::find($id);
-        $categoria->nombreCat = $request->nombre;
-        $categoria->save();
+        $usuario=User::find($id);
+        $usuario->name = $request->name;
+        $usuario->apellido = $request->apellido;
+        $usuario->email = $request->email;
+        $usuario->telefono = $request->telefono;
+        $usuario->rol = $request->rol;
+        $usuario->save();
+
         $bitacora = new Bitacora();
         $bitacora->user_id = Auth::user()->id;
-        $bitacora->accion = "Edicion de una categoria";
-        $bitacora->tabla = "Categoria";
+        $bitacora->accion = "Edicion de un Usuario";
+        $bitacora->tabla = "Usuario";
         $bitacora->ip = request()->ip();
         $bitacora->save();
 
-        return	redirect()->route('categoria.show',$categoria->idCat);
+        return	redirect()->route('gestionusuario.show',$usuario->id);
     }
 
     /**
@@ -113,16 +121,6 @@ class CategoriaController extends Controller
      */
     public function destroy($id)
     {
-        $categoria=Categoria::find($id);
-        $categoria->delete();
-
-        $bitacora = new Bitacora();
-        $bitacora->user_id = Auth::user()->id;
-        $bitacora->accion = "Eliminacion categoria";
-        $bitacora->tabla = "Categoria";
-        $bitacora->ip = request()->ip();
-        $bitacora->save();
-
-        return	redirect()->route('categoria.index');
+        //
     }
 }

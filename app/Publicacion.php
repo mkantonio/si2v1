@@ -23,12 +23,17 @@ class Publicacion extends Model
 
     public function inmueble()
     {
-        return $this->hasOne('App\Inmueble', 'idInm', 'idPub');
+//        return $this->hasOne('App\Inmueble', 'idInm', 'idPub');
+        return $this->belongsTo('App\Inmueble','idInmueble','idInm');
     }
 
     public function usuario()
     {
         return $this->belongsTo('App\User', 'idUsuario', 'id');
+    }
+
+    public function destacadopublicacion(){
+        return $this->belongsToMany('App\Destacados','DETALLEPDEST','idPublicacion','idDestacado');
     }
 
 }

@@ -4,7 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\TipoInmueble;
-
+use Auth;
+use App\Bitacora;
 class TipoInmuebleController extends Controller
 {
     /**
@@ -39,6 +40,13 @@ class TipoInmuebleController extends Controller
         $tipoinmueble=new TipoInmueble();
         $tipoinmueble->tipoInm = $request->input('nombre');
         $tipoinmueble->save();
+
+                $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Registro de nuevo Tipo de Inmueble";
+        $bitacora->tabla = "Tipo de Inmueble";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
         return	redirect()->route('tipoinmueble.index');
     }
 
@@ -78,6 +86,14 @@ class TipoInmuebleController extends Controller
         $tipoinmueble=TipoInmueble::find($id);
         $tipoinmueble->tipoInm = $request->nombre;
         $tipoinmueble->save();
+
+                $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Edicion de un Tipo de Inmueble";
+        $bitacora->tabla = "TipoInmueble";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+
         return	redirect()->route('tipoinmueble.show',$tipoinmueble->idTip);
     }
 
@@ -91,6 +107,13 @@ class TipoInmuebleController extends Controller
     {
         $tipoinmueble=TipoInmueble::find($id);
         $tipoinmueble->delete();
+                $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Eliminacion TipoInmueble";
+        $bitacora->tabla = "TipoInmueble";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+
         return	redirect()->route('tipoinmueble.index');
     }
 }

@@ -3,13 +3,15 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Categoria;
 use App\Publicacion;
-use App\TipoOferta;
-use App\TipoInmueble;
 use App\Inmueble;
+use App\Destacados;
+use App\Categoria;
+use App\TipoOferta;
 use App\Zona;
+use App\TipoInmueble;
 use Barryvdh\DomPDF\Facade as PDF;
+use Auth;
 
 class ReporteController extends Controller
 {
@@ -19,7 +21,7 @@ class ReporteController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function categoria(){
-        
+
         $categoria = Categoria::all();
         $inmueble = Inmueble::all();
         // return $categoria;
@@ -28,9 +30,9 @@ class ReporteController extends Controller
     }
 
     public function categoriapdf()
-    {        
+    {
         /**
-         * toma en cuenta que para ver los mismos 
+         * toma en cuenta que para ver los mismos
          * datos debemos hacer la misma consulta
         **/
         $categoria = Categoria::all();
@@ -38,7 +40,7 @@ class ReporteController extends Controller
         $pdf = PDF::loadView('pdf.categoria',compact('categoria','inmueble'));
         return $pdf->download('categoriapdf.pdf');
     }
-    
+
     public function tipooferta(){
         $publicacion = Publicacion::all();
         $tipooferta = TipoOferta::all();
@@ -54,7 +56,7 @@ class ReporteController extends Controller
     }
 
     public function tipoinmueble(){
-        
+
     }
 
     public function zona(){
@@ -73,7 +75,20 @@ class ReporteController extends Controller
 
      public function index()
     {
-        //
+
+//        die();
+//                dd(session());
+//         dd(request()->ip());
+
+        $publicacion     = Publicacion::all();
+        $inmueble       = Inmueble::all();
+        $destacado      = Destacados::all();
+        $categoria      = Categoria::all();
+        $tipooferta     = TipoOferta::all();
+        $zona           = Zona::all();
+        $tipoinmueble   = TipoInmueble::all();
+
+        return view ('reporte.index', compact('publicacion','inmueble','destacado','categoria','tipooferta','zona','tipoinmueble'));
     }
 
     /**
