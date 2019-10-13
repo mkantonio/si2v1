@@ -42,7 +42,7 @@ página principal de Backup & Restore
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <form action="{{route('backuprestore.restore',myFile)}}">
+                    <form action="{{route('backuprestore.restore')}}">
                         @method('POST')
                         @csrf
                         {{-- <a class="btn bg-olive btn-lg" href="{{route('backuprestore.restore')}}"
@@ -51,7 +51,7 @@ página principal de Backup & Restore
                         {{-- <input class="btn bg-olive btn-lg " type="file" onchange="this.form.submit()" name="myFile"
                             value="valor"><br><br> --}}
                         <span class="btn bg-olive btn-lg btn-file"> Restaurar Informacion - Restore
-                            <input type="file" onchange="this.form.submit()" name="myFile"><br><br>
+                            <input type="file" onchange="this.form.submit()" name="texto" id="texto"><br><br>
                         </span>
                         {{-- <input class="btn bg-olive btn-lg" type="submit" value="Restaurar Informacion - Restore"> --}}
                     </form>
