@@ -24,9 +24,9 @@ class BackupRestoreController extends Controller
         return view('backuprestore.index');
     }
 
-    public function restore()
+    public function restore($request)
     {
-        return view('backuprestore.index');
+        return $request;
     }
 
     public function backup()

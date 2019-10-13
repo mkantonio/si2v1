@@ -16,14 +16,51 @@ página principal de Backup & Restore
     </div>
     <!-- /.box-header -->
 
+    <style>
+        .btn-file {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-file input[type=file] {
+            position: absolute;
+            top: 0;
+            right: 0;
+            min-width: 100%;
+            min-height: 100%;
+            font-size: 100px;
+            text-align: right;
+            filter: alpha(opacity=0);
+            opacity: 0;
+            outline: none;
+            cursor: inherit;
+            display: block;
+        }
+    </style>
+
     <div class="container">
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <a class="btn bg-olive btn-lg" href="{{route('backuprestore.restore')}}" role="button">Restaurar
-                        informacion -
-                        Restore</a>
+                    <form action="{{route('backuprestore.restore',myFile)}}">
+                        @method('POST')
+                        @csrf
+                        {{-- <a class="btn bg-olive btn-lg" href="{{route('backuprestore.restore')}}"
+                        role="button">Restaurar
+                        informacion - Restore</a> --}}
+                        {{-- <input class="btn bg-olive btn-lg " type="file" onchange="this.form.submit()" name="myFile"
+                            value="valor"><br><br> --}}
+                        <span class="btn bg-olive btn-lg btn-file"> Restaurar Informacion - Restore
+                            <input type="file" onchange="this.form.submit()" name="myFile"><br><br>
+                        </span>
+                        {{-- <input class="btn bg-olive btn-lg" type="submit" value="Restaurar Informacion - Restore"> --}}
+                    </form>
                 </div>
+
+
+
+
+
                 <br>
                 <div class="col">
                     <a class="btn bg-maroon btn-lg" href="{{route('backuprestore.backup')}}" role="button">Guardar
