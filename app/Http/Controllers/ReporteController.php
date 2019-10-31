@@ -189,12 +189,12 @@ class ReporteController extends Controller
             array_push($consulta, ['p.estado', '=', $estado]);
         }
 
-        $data = DB::table('publicacion as p')
-            ->join('inmueble as i', 'p.idInmueble', '=', 'i.idInm')
-            ->join('tipoferta as t', 'p.idTiOf', '=', 't.idOf')
-            ->join('zona as z', 'i.idZona', '=', 'z.idZon')
-            ->join('tipoinmueble as tp', 'i.idTipo', '=', 'tp.idTip')
-            ->join('categoria as c', 'i.idCategoria', '=', 'c.idCat')
+        $data = DB::table('PUBLICACION as p')
+            ->join('INMUEBLE as i', 'p.idInmueble', '=', 'i.idInm')
+            ->join('TIPOFERTA as t', 'p.idTiOf', '=', 't.idOf')
+            ->join('ZONA as z', 'i.idZona', '=', 'z.idZon')
+            ->join('TIPOINMUEBLE as tp', 'i.idTipo', '=', 'tp.idTip')
+            ->join('CATEGORIA as c', 'i.idCategoria', '=', 'c.idCat')
             ->where(($bandera == 0) ? [['p.estado', '=', $estado]] : $consulta)
             ->get();
 
