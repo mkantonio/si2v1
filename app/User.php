@@ -2,9 +2,8 @@
 
 namespace App;
 
-use Illuminate\Notifications\Notifiable;
-use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Foundation\Auth\User as Authenticatable;
+use Illuminate\Notifications\Notifiable;
 
 class User extends Authenticatable
 {
@@ -17,7 +16,7 @@ class User extends Authenticatable
      * @var array
      */
     protected $fillable = [
-        'name', 'email', 'password','rol',
+        'name', 'email', 'password', 'rol',
     ];
 
     /**
@@ -38,14 +37,25 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
-    public function esAdmin(){
-        if (!$this->rol==null){
+    public function esAdmin()
+    {
+        if (!$this->rol == null) {
             return true;
         }
         return false;
     }
 
-    public function bitacora(){
-        $this->hasOne('App\Bitacora','user_id','id');
+    public function bitacora()
+    {
+        $this->hasOne('App\Bitacora', 'user_id', 'id');
+    }
+
+    public function publicacion()
+    {
+        return $this->hasMany('App\Publicacion', 'idUsuario', 'id');
+    }
+
+    public function countPublicacion(){
+        return $this->publicacion->count();
     }
 }

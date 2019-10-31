@@ -28,7 +28,7 @@ página principal de Gestion Usuario
             <a href=" {{route ('gestionusuario.create')}} " type="button" class="btn btn-block btn-success">Crear</a>
         </div>
     </div>
-    <table id="example" class="table table-striped table-bordered" style="width:100%">
+    <table id="tablausuario" class="table table-striped table-bordered" style="width:100%">
         <thead>
             <tr>
                 <th>Nombre</th>

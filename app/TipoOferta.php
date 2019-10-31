@@ -15,4 +15,9 @@ class TipoOferta extends Model
     //declarar que campos se pueden llenar en la tabla
     protected $fillable= ['tipTran'];
     public	$timestamps	=	false;
+
+    public function publicacion()
+    {
+        return $this->hasMany('App\Publicacion', 'idTiOf', 'idOf');
+    }
 }

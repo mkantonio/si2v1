@@ -17,9 +17,9 @@ class Categoria extends Model
     protected $fillable= ['nombreCat'];
     public	$timestamps	=	false;
 
-    // public function producto()
-    // {
-    //     return $this->hasMany('App\Producto', 'categoria_id', 'id');
-    // }
+    public function inmueble()
+    {
+        return $this->hasMany('App\Inmueble', 'idCategoria', 'idCat');
+    }
 
 }

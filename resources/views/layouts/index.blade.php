@@ -168,6 +168,142 @@ desired effect
   <!-- Optionally, you can add Slimscroll and FastClick plugins.
      Both of these plugins are recommended to enhance the
      user experience. -->
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+  </script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+  </script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+  </script>
+
+
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
+
+
+  <!-- datatables JS -->
+  <script type="text/javascript" src="{{asset('datatables/datatables.min.js')}}"></script>
+
+  <!-- para usar botones en datatables JS -->
+  <script src="{{asset('datatables/Buttons-1.5.6/js/dataTables.buttons.min.js')}}"></script>
+  <script src="{{asset('datatables/JSZip-2.5.0/jszip.min.js')}}"></script>
+  <script src="{{asset('datatables/pdfmake-0.1.36/pdfmake.min.js')}}"></script>
+  <script src="{{asset('datatables/pdfmake-0.1.36/vfs_fonts.js')}}"></script>
+  <script src="{{asset('datatables/Buttons-1.5.6/js/buttons.html5.min.js')}}"></script>
+
+  <script type="text/javascript">
+    // $(document).ready(function() {
+    //             $('#example').DataTable({
+    //               "scrollX": true,
+    //               responsive: "true",
+    //               dom: 'Bfrtilp',
+    //               buttons:[
+    //                 {
+    //                   extend:    'excelHtml5',
+    //                   text:      '<i class="fas fa-file-excel"></i> ',
+    //                   titleAttr: 'Exportar a Excel',
+    //                   className: 'btn btn-success'
+    //                 },
+    //                 {
+    //                   extend:    'pdfHtml5',
+    //                   text:      '<i class="fas fa-file-pdf"></i> ',
+    //                   titleAttr: 'Exportar a PDF',
+    //                   className: 'btn btn-danger'
+    //                 },
+    //                 {
+    //                   extend:    'print',
+    //                   text:      '<i class="fa fa-print"></i> ',
+    //                   titleAttr: 'Imprimir',
+    //                   className: 'btn btn-info'
+    //                 },
+    //               ],
+    //             //   language: {
+    //             //     "lengthMenu": "Mostrar _MENU_ registros",
+    //             //     "zeroRecords": "No se encontraron resultados",
+    //             //     "info": "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+    //             //     "infoEmpty": "Mostrando registros del 0 al 0 de un total de 0 registros",
+    //             //     "infoFiltered": "(filtrado de un total de _MAX_ registros)",
+    //             //     "sSearch": "Buscar:",
+    //             //     "oPaginate": {
+    //             //         "sFirst": "Primero",
+    //             //         "sLast":"Último",
+    //             //         "sNext":"Siguiente",
+    //             //         "sPrevious": "Anterior"
+    //             //     },
+    //             //     "sProcessing":"Procesando...",
+    //             // },
+    //             });
+    //         });
+    $(document).ready(function () {
+    $('#example').DataTable({
+        language: {
+            "lengthMenu": "Mostrar _MENU_ registros",
+            "zeroRecords": "No se encontraron resultados",
+            "info": "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+            "infoEmpty": "Mostrando registros del 0 al 0 de un total de 0 registros",
+            "infoFiltered": "(filtrado de un total de _MAX_ registros)",
+            "sSearch": "Buscar:",
+            "oPaginate": {
+                "sFirst": "Primero",
+                "sLast": "Último",
+                "sNext": "Siguiente",
+                "sPrevious": "Anterior"
+            },
+            "sProcessing": "Procesando...",
+        },
+        //para usar los botones   
+        responsive: "true",
+        dom: 'Bfrtilp',
+        buttons: [
+            {
+                extend: 'excelHtml5',
+                text: '<i class="fas fa-file-excel"></i> ',
+                titleAttr: 'Exportar a Excel',
+                className: 'btn btn-success'
+			},
+            {
+                extend: 'pdfHtml5',
+                text: '<i class="fas fa-file-pdf"></i> ',
+                titleAttr: 'Exportar a PDF',
+                className: 'btn btn-danger'
+			},
+            {
+                extend: 'print',
+                text: '<i class="fa fa-print"></i> ',
+                titleAttr: 'Imprimir',
+                className: 'btn btn-info'
+			},
+		]
+    });
+});
+  </script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+            $('#tablausuario').DataTable({
+              "scrollX": true,
+              language: {
+                "lengthMenu": "Mostrar _MENU_ registros",
+                "zeroRecords": "No se encontraron resultados",
+                "info": "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+                "infoEmpty": "Mostrando registros del 0 al 0 de un total de 0 registros",
+                "infoFiltered": "(filtrado de un total de _MAX_ registros)",
+                "sSearch": "Buscar:",
+                "oPaginate": {
+                    "sFirst": "Primero",
+                    "sLast":"Último",
+                    "sNext":"Siguiente",
+                    "sPrevious": "Anterior"
+			     },
+			     "sProcessing":"Procesando...",
+            },
+            });
+        });
+  </script>
 </body>
 
 </html>
