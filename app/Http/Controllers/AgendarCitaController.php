@@ -2,9 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 use App\AgendarCita;
+use App\Bitacora;
 use App\Publicacion;
+use Auth;
+use Illuminate\Http\Request;
 
 class AgendarCitaController extends Controller
 {
@@ -14,15 +16,16 @@ class AgendarCitaController extends Controller
      * @return \Illuminate\Http\Response
      */
 
-    public function mostrar($idPublicacion){
-        $agendarcita = AgendarCita::where('idPublicacion',$idPublicacion)->get();
+    public function mostrar($idPublicacion)
+    {
+        $agendarcita = AgendarCita::where('idPublicacion', $idPublicacion)->get();
 // dd($agendarcita);
-// die();
+        // die();
 
         $publicacion = Publicacion::find($idPublicacion);
         // dd($publicacion);
-// die();
-        return view ('logeado.agendarcita.mostrar',compact('agendarcita','publicacion'));
+        // die();
+        return view('logeado.agendarcita.mostrar', compact('agendarcita', 'publicacion'));
 
     }
     public function index()
@@ -45,12 +48,11 @@ class AgendarCitaController extends Controller
 
         // $idPublicacion = preg_replace("/http:\/\/localhost:8000\/publicacion\//", '', $string);
 
+        // $idPublicacion = session()->get('publicacion');
 
+        // session(['idPublicacion' => $idPublicacion]);
 
-        session(['idPublicacion' => $idPublicacion]);
-
-        return view ('logeado.agendarcita.create');
-
+        return view('logeado.agendarcita.create');
 
     }
 
@@ -70,7 +72,7 @@ class AgendarCitaController extends Controller
         $agendarcita->idUsuario = $request->idUsuario;
         $agendarcita->save();
 
-                $bitacora = new Bitacora();
+        $bitacora = new Bitacora();
         $bitacora->user_id = Auth::user()->id;
         $bitacora->accion = "Registro de nueva cita";
         $bitacora->tabla = "AgendarCita";

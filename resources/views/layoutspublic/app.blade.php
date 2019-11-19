@@ -47,7 +47,6 @@
             $("#fs").change(function() {
                 //alert($(this).val());
                 $('.texto').css("font-family", $(this).val());
-
             });
             $("#size").change(function() {
                 $('.texto').css("font-size", $(this).val() + "px");
@@ -59,7 +58,9 @@
         </script>
 
 
+
     </div> {{-- para el TEXTO --}}
+
 
 </body>
 

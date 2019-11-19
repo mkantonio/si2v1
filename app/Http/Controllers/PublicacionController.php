@@ -2,20 +2,17 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-use Illuminate\Support\Carbon;
-use App\Publicacion;
-use App\Categoria;
-use App\TipoOferta;
-use App\Inmueble;
-use App\TipoInmueble;
-use App\Zona;
 use App\Ambiente;
-use App\Ubicacion;
-use DateTime;
-use Auth;
 use App\Bitacora;
-
+use App\Categoria;
+use App\Inmueble;
+use App\Publicacion;
+use App\TipoInmueble;
+use App\TipoOferta;
+use App\Ubicacion;
+use App\Zona;
+use Auth;
+use Illuminate\Http\Request;
 
 class PublicacionController extends Controller
 {
@@ -34,10 +31,10 @@ class PublicacionController extends Controller
      */
     public function index()
     {
-        $publicaciones = Publicacion::where('idUsuario','=',Auth::user()->id)->get();
+        $publicaciones = Publicacion::where('idUsuario', '=', Auth::user()->id)->get();
         $tipooferta = TipoOferta::all();
 //        return $publicaciones;
-        return view ('logeado.publicacion.index',compact('publicaciones','tipooferta'));
+        return view('logeado.publicacion.index', compact('publicaciones', 'tipooferta'));
     }
 
     /**
@@ -46,21 +43,20 @@ class PublicacionController extends Controller
      * @return \Illuminate\Http\Response
      */
 
-
     public function mostrar($request)
     {
 
         $publicacion = Publicacion::find($id);
-        return view ('logeado.publicacion.show', compact('publicacion'));
+        return view('logeado.publicacion.show', compact('publicacion'));
     }
     public function create()
     {
 
-        $tipooferta  = TipoOferta::all();
-        $categoria  = Categoria::all();
-        $zona  = Zona::all();
-        $tipoinmueble  = TipoInmueble::all();
-        return view ('logeado.publicacion.create',compact('tipooferta','categoria','zona','tipoinmueble'));
+        $tipooferta = TipoOferta::all();
+        $categoria = Categoria::all();
+        $zona = Zona::all();
+        $tipoinmueble = TipoInmueble::all();
+        return view('logeado.publicacion.create', compact('tipooferta', 'categoria', 'zona', 'tipoinmueble'));
     }
 
     /**
@@ -94,8 +90,6 @@ class PublicacionController extends Controller
             'fecExp' => 'required',
         ]);
 
-
-
         $inmueble = new Inmueble();
         $inmueble->superficie = $request->superficie;
         $inmueble->descripcion = $request->descripcion;
@@ -116,7 +110,7 @@ class PublicacionController extends Controller
         $ambiente->nroBaño = $request->nroBaño;
         $ambiente->nroAmb = $request->nroAmb;
         $ambiente->cocina = $request->cocina;
-        $ambiente->garaje= $request->garaje;
+        $ambiente->garaje = $request->garaje;
         $ambiente->idInmueble = $inmueble->idInm;
         $ambiente->save();
 
@@ -135,17 +129,17 @@ class PublicacionController extends Controller
         $ubicacion->idIn = $inmueble->idInm;
         $ubicacion->save();
 
-        date_default_timezone_set('America/La_Paz');    // Zona Horaria
+        date_default_timezone_set('America/La_Paz'); // Zona Horaria
         $hoy = date_default_timezone_get(); // Establecer zona horaria
-        $hoy = date("Y-m-d H:i:s");         // Formato: 2019-09-24 17:21:33
-        $fecExp = date("Y-m-d H:i:s", strtotime("+".$request->fecExp."days", strtotime("$hoy")));  //https://stackoverflow.com/questions/8235896/date-arithmetic-in-php
+        $hoy = date("Y-m-d H:i:s"); // Formato: 2019-09-24 17:21:33
+        $fecExp = date("Y-m-d H:i:s", strtotime("+" . $request->fecExp . "days", strtotime("$hoy"))); //https://stackoverflow.com/questions/8235896/date-arithmetic-in-php
 
         $publicacion = new Publicacion();
         $publicacion->nombre = $request->nombre;
         $publicacion->preVenta = $request->preVenta;
-        $publicacion->estado=$request->estado;
-        $publicacion->fecPub=$hoy;
-        $publicacion->fecExp=$fecExp;
+        $publicacion->estado = $request->estado;
+        $publicacion->fecPub = $hoy;
+        $publicacion->fecExp = $fecExp;
         $publicacion->idInmueble = $inmueble->idInm;
         $publicacion->idTiOf = $request->idTiOf;
         $publicacion->idUsuario = Auth::user()->id;
@@ -160,7 +154,6 @@ class PublicacionController extends Controller
 
         return redirect()->route('publicacion.index');
 
-
     }
 
     /**
@@ -172,7 +165,8 @@ class PublicacionController extends Controller
     public function show($id)
     {
         $publicacion = Publicacion::find($id);
-        return view ('logeado.publicacion.show', compact('publicacion'));
+        session(['idPublicacion' => $id]);
+        return view('logeado.publicacion.show', compact('publicacion'));
     }
 
     /**
