@@ -32,18 +32,63 @@
       <li class="header">HEADERR</li>
       <!-- Optionally, you can add icons to the links -->
       <li class="active"><a href="#"><i class="fa fa-home"></i> <span>Inicio</span></a></li>
-      <li><a href="{{route ('gestionusuario.index')}}"><i class="fa fa-user-circle-o"></i> <span>Gestionar de
-            Usuarios</span></a></li>
+      <li class="treeview">
+        <a href="#"><i class="fa fa-link"></i> <span>Administrar Usuario</span>
+          <span class="pull-right-container">
+            <i class="fa fa-angle-left pull-right"></i>
+          </span>
+        </a>
+        <ul class="treeview-menu">
+          <li><a href="{{ route('gestionusuario.index')}}">Gestionar Usuario</a></li>
+          <li><a href="{{ route('gestionar.bitacora')}}">Bitacora</a></li>
+        </ul>
+      </li>
+
+
       <li><a href="{{route ('backuprestore.index')}}"><i class="fa fa-floppy-o"></i> <span>Backup & Restore</span></a>
       </li>
-      <li><a href="{{route ('categoria.index')}}"><i class="fa fa-key"></i> <span>Gestionar Categorias</span></a></li>
-      <li><a href="{{route ('tipooferta.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de ofertas</span></a>
+
+      <li class="treeview menu-open" style="height: auto;">
+        <a href="#">
+          <i class="fa fa-share"></i> <span>Administrar Inmueble</span>
+          <span class="pull-right-container">
+            <i class="fa fa-angle-left pull-right"></i>
+          </span>
+        </a>
+        <ul class="treeview-menu">
+          <li><a href="{{route ('categoria.index')}}"><i class="fa fa-key"></i> <span>Gestionar Categorias</span></a>
+          </li>
+
+          <li><a href="{{route ('tipoinmueble.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de
+                Inmuebles</span></a></li>
+          <li><a href="{{route ('zona.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo Zonas</span></a></li>
+
+        </ul>
       </li>
-      <li><a href="{{route ('tipoinmueble.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de
-            Inmuebles</span></a></li>
-      <li><a href="{{route ('zona.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo Zonas</span></a></li>
-      <li><a href="{{route ('metodopago.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo Metodos de
-            Pago</span></a></li>
+
+      <li class="treeview">
+        <a href="#"><i class="fa fa-link"></i> <span>Administrar Servicios</span>
+          <span class="pull-right-container">
+            <i class="fa fa-angle-left pull-right"></i>
+          </span>
+        </a>
+        <ul class="treeview-menu">
+
+          <li><a href="{{route ('tipooferta.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de
+                ofertas</span></a>
+          </li>
+
+
+          <li><a href="{{route ('metodopago.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo Metodos de
+                Pago</span></a></li>
+        </ul>
+      </li>
+
+
+
+
+
+
       {{-- <li><a href="#"><i class="fa fa-key"></i> <span>Acceso</span></a></li> --}}
       {{-- <li><a href="#"><i class="fa fa-question-circle"></i> <span>Ayuda</span></a></li> --}}
       <li class="treeview">
@@ -59,7 +104,7 @@
           {{-- <li><a href="{{ route('reporte.tipoinmueble')}}">Reporte por Tipo de Inmueble</a>
       </li> --}}
       <li><a href="{{ route('reporte.zona')}}">Reporte por Zona</a></li>
-
+      <li><a href="{{ route('reporte.publicaciones')}}">Reporte por Publicaciones</a></li>
     </ul>
     </li>
 

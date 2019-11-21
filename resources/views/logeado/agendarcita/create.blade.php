@@ -74,8 +74,6 @@
                         <a class="btn btn-danger" href="{{route('publicacion.show',session()->get('idPublicacion'))}}"
                             role="
                             button">Cancelar</a>
-                        {{-- <a class="btn btn-lg btn-primary" href="{{route('publicacion.show',$publicacion->idPub)}}
-                        ">Volver a publicacion</a> --}}
 
                     </form>
                 </div>

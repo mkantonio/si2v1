@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Bitacora;
 use App\Categoria;
 use App\Destacados;
 use App\Inmueble;
@@ -63,6 +64,12 @@ class ReporteController extends Controller
 
     }
 
+    public function bitacora()
+    {
+        $bitacora = Bitacora::all();
+        return view('reporte.bitacora', compact('bitacora'));
+    }
+
     public function zona()
     {
         $zona = Zona::all();
@@ -76,6 +83,13 @@ class ReporteController extends Controller
         $inmueble = Inmueble::all();
         $pdf = PDF::loadView('pdf.zona', compact('zona', 'inmueble'));
         return $pdf->download('zonapdf.pdf');
+    }
+
+    public function publicaciones()
+    {
+        $publicaciones = Publicacion::all();
+        $tipooferta = TipoOferta::all();
+        return view('reporte.publicacion', compact('publicaciones', 'tipooferta'));
     }
 
     public function index()
@@ -146,9 +160,6 @@ class ReporteController extends Controller
         $fechainicio = $request->fechainicio;
         $fechafin = $request->fechafin;
 
-
-        
-
         $bandera = 0;
         $consulta = [];
 
@@ -156,8 +167,6 @@ class ReporteController extends Controller
             array_push($consulta, ['p.idTiOf', '=', $oferta]);
             $bandera = 1;
         }
-
-
 
         if ($fechainicio != '') {
             if ($fechafin != '') {
