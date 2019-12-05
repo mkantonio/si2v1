@@ -35,6 +35,11 @@ Route::middleware(['auth', 'EsAdmin'])->group(function () {
     Route::resource('tipoinmueble', 'TipoInmuebleController');
     Route::resource('zona', 'ZonaController');
     Route::resource('metodopago', 'MetodoPagoController');
+    Route::resource('gestionarcita', 'GestionarCitaController');
+    Route::resource('gestionarinmueble', 'GestionarInmuebleController');
+    Route::resource('gestionarpublicacion', 'GestionarPublicacionController');
+    Route::resource('gestionarubicacion', 'GestionarUbicacionController');
+
     Route::get('reporte/categoria', 'ReporteController@categoria')->name('reporte.categoria');
     Route::get('reporte/categoria/pdf', 'ReporteController@categoriapdf')->name('reporte.categoria.pdf');
     Route::get('reporte/tipooferta', 'ReporteController@tipooferta')->name('reporte.tipooferta');

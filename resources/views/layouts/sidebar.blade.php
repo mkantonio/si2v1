@@ -45,8 +45,7 @@
       </li>
 
 
-      <li><a href="{{route ('backuprestore.index')}}"><i class="fa fa-floppy-o"></i> <span>Backup & Restore</span></a>
-      </li>
+
 
       <li class="treeview menu-open" style="height: auto;">
         <a href="#">
@@ -63,6 +62,15 @@
                 Inmuebles</span></a></li>
           <li><a href="{{route ('zona.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo Zonas</span></a></li>
 
+          <li><a href="{{route ('gestionarinmueble.index')}}"><i class="fa fa-key"></i> <span>Gestionar
+                Inmueble</span></a></li>
+
+          <li><a href="{{route ('gestionarubicacion.index')}}"><i class="fa fa-key"></i> <span>Gestionar
+                Ubicacion</span></a></li>
+
+
+
+
         </ul>
       </li>
 
@@ -75,12 +83,16 @@
         <ul class="treeview-menu">
 
           <li><a href="{{route ('tipooferta.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo de
-                ofertas</span></a>
-          </li>
-
+                ofertas</span></a></li>
+          <li><a href="{{route ('gestionarpublicacion.index')}}"><i class="fa fa-key"></i> <span>Gestionar
+                Publicacion</span></a></li>
 
           <li><a href="{{route ('metodopago.index')}}"><i class="fa fa-key"></i> <span>Gestionar Tipo Metodos de
                 Pago</span></a></li>
+          <li><a href="{{route ('gestionarcita.index')}}"><i class="fa fa-floppy-o"></i> <span>Gestionar
+                Citas</span></a> </li>
+          <li><a href="{{route ('backuprestore.index')}}"><i class="fa fa-floppy-o"></i> <span>Backup &
+                Restore</span></a>
         </ul>
       </li>
 
