@@ -177,7 +177,14 @@ class PublicacionController extends Controller
      */
     public function edit($id)
     {
-        return $id;
+        // $publicacion = Publicacion::find($id);
+        // return view('logeado.publicacion.edit', compact('publicacion'));
+        $publicacion = Publicacion::find($id);
+        $tipooferta = TipoOferta::all();
+        $categoria = Categoria::all();
+        $zona = Zona::all();
+        $tipoinmueble = TipoInmueble::all();
+        return view('logeado.publicacion.edit', compact('publicacion', 'tipooferta', 'categoria', 'zona', 'tipoinmueble'));
     }
 
     /**
@@ -189,7 +196,21 @@ class PublicacionController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        $publicacion = Publicacion::find($id);
+        $publicacion->nombre = $request->nombre;
+        $publicacion->preVenta = $request->preVenta;
+        $publicacion->estado = $request->estado;
+        $publicacion->idUsuario = Auth::user()->id;
+        $publicacion->save();
+
+        $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Edicion de una publicacion";
+        $bitacora->tabla = "publicacion";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+        return redirect()->route('publicacion.show', $publicacion->idPub);
+
     }
 
     /**
