@@ -2,11 +2,12 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-use App\Publicacion;
-use App\Destacados;
+use App\Bitacora;
 use App\DestacadoPublicacion;
+use App\Destacados;
+use App\Publicacion;
 use Auth;
+use Illuminate\Http\Request;
 
 class DestacadoPublicacionController extends Controller
 {
@@ -18,7 +19,8 @@ class DestacadoPublicacionController extends Controller
     public function index()
     {
         $destacadopublicacion = DestacadoPublicacion::all();
-        return view ('destacadopublicacion.index',compact('destacadopublicacion'));
+        $publicaciones = Publicacion::all();
+        return view('destacadopublicacion.index', compact('destacadopublicacion', 'publicaciones'));
     }
 
     /**
@@ -31,9 +33,12 @@ class DestacadoPublicacionController extends Controller
         // return Auth::user()->id;
         // die();
         $destacado = Destacados::all();
-        $publicacion = Publicacion::where('idUsuario','=',Auth::user()->id)->get();
+        $publicacion = Publicacion::where('idUsuario', '=', Auth::user()->id)->get();
+        //session()->get('idPublicacion');
+        //dd($publicacion);
+        //die();
         // return $destacado;
-        return view('destacadopublicacion.create',compact('destacado','publicacion'));
+        return view('destacadopublicacion.create', compact('destacado', 'publicacion'));
     }
 
     /**
@@ -44,7 +49,21 @@ class DestacadoPublicacionController extends Controller
      */
     public function store(Request $request)
     {
-        //
+
+        $destacado = new DestacadoPublicacion();
+        $destacado->idPublicacion = $request->input('idPublicacion');
+        $destacado->idDestacado = $request->input('idDestacado');
+        $destacado->precio = $request->input('precio');
+        // $destacado->Descripcion = $request->input('Descripcion');
+        $destacado->save();
+        $bitacora = new Bitacora();
+        $bitacora->user_id = Auth::user()->id;
+        $bitacora->accion = "Registro de Publicacion Destacada";
+        $bitacora->tabla = "PublicacionDestacada";
+        $bitacora->ip = request()->ip();
+        $bitacora->save();
+
+        return redirect()->route('destacadopublicacion.index');
     }
 
     /**
